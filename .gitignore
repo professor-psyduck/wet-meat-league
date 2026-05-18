@@ -1,0 +1,17 @@
+# Python pipeline
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Pipeline working cache (e.g. the ~5MB Sleeper /players/nfl dump).
+# Only the slimmed player map under content/ is committed.
+.cache/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+*.swp

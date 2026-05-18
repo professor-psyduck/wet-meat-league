@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The official-ish news network of the Wet Meat League. Standings, power rankings, rosters, and breaking fantasy non-news.">
+  <title>WMLN — Wet Meat League Network</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Scrolling ticker (populated by app.js; static placeholder until then) -->
+  <div class="ticker" id="ticker" aria-label="League ticker">
+    <div class="ticker__track" id="ticker-track">
+      <span class="ticker__item">WET MEAT LEAGUE NETWORK</span>
+      <span class="ticker__item">BREAKING: site under construction</span>
+      <span class="ticker__item">2026 draft: coming soon</span>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <a class="brand" href="#/">
+      <span class="brand__mark">WMLN</span>
+      <span class="brand__name">Wet&nbsp;Meat&nbsp;League&nbsp;Network</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Primary">
+      <a href="#/" data-route="/">Home</a>
+      <a href="#/standings" data-route="/standings">Standings</a>
+      <a href="#/power" data-route="/power">Power Rankings</a>
+      <a href="#/teams" data-route="/teams">Teams</a>
+      <a href="#/draft" data-route="/draft">2026 Draft</a>
+    </nav>
+  </header>
+
+  <main id="app" class="app">
+    <!-- Views are rendered here by app.js based on the URL hash. -->
+    <p class="loading">Loading…</p>
+  </main>
+
+  <footer class="footer">
+    <p>Wet Meat League Network — a satirical fan site. Data from the public
+       Sleeper API. Not affiliated with Sleeper, the NFL, or anyone with taste.</p>
+  </footer>
+
+  <noscript>
+    <p style="padding:1rem;text-align:center">
+      This site needs JavaScript to load league data. Please enable it.
+    </p>
+  </noscript>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
