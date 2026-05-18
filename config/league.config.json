@@ -1,0 +1,6 @@
+{
+  "_comment": "Tunables for the Wet Meat League pipeline. The current league is the live 2026 Sleeper league; resolve.py walks previous_league_id to pick the dataset shown as 'current' until 2026 goes live. Later phases extend this file (AI model, video cadence).",
+  "current_league_id": "1357559174707281920",
+  "network_name": "Wet Meat League Network",
+  "network_abbr": "WMLN"
+}

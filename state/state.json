@@ -1,0 +1,25 @@
+{
+  "cursors": {},
+  "last_run": "2026-05-18T22:44:35Z",
+  "resolved": {
+    "chain": [
+      "1357559174707281920",
+      "1180170315099144192",
+      "1048678310856794112"
+    ],
+    "current_league_id": "1357559174707281920",
+    "data_league_id": "1180170315099144192",
+    "data_season": "2025",
+    "data_status": "complete",
+    "draft_id": "1357559174719885312",
+    "draft_status": "pre_draft",
+    "league_name": "Wet Meat League 2.0",
+    "mode": "offseason",
+    "nfl_season": "2026",
+    "nfl_week": 0,
+    "season_type": "off"
+  },
+  "schema": 1,
+  "seen": {},
+  "video_jobs": []
+}

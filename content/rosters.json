@@ -1,0 +1,402 @@
+{
+  "generated_at": "2026-05-18T22:44:34Z",
+  "rosters": [
+    {
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "manager": "EntropyEngine",
+      "players": [
+        "11643",
+        "2216",
+        "3163",
+        "421",
+        "5947",
+        "6790",
+        "6801",
+        "7090",
+        "7594",
+        "8130",
+        "8146",
+        "8228",
+        "9226",
+        "9509",
+        "9997",
+        "NO"
+      ],
+      "record": {
+        "losses": 4,
+        "ties": 0,
+        "wins": 10
+      },
+      "roster_id": 1,
+      "starters": [
+        "3163",
+        "6790",
+        "9226",
+        "2216",
+        "5947",
+        "8130",
+        "9509",
+        "9997",
+        "NO"
+      ],
+      "team_name": "Fully Torqued"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "manager": "Prof_Ducky69fdf",
+      "players": [
+        "11566",
+        "11631",
+        "12507",
+        "12514",
+        "12518",
+        "12533",
+        "4217",
+        "4381",
+        "4866",
+        "5859",
+        "7547",
+        "7564",
+        "7611",
+        "8183",
+        "DET",
+        "JAX"
+      ],
+      "record": {
+        "losses": 4,
+        "ties": 0,
+        "wins": 10
+      },
+      "roster_id": 2,
+      "starters": [
+        "8183",
+        "12507",
+        "4866",
+        "7564",
+        "7547",
+        "12518",
+        "11631",
+        "5859",
+        "DET"
+      ],
+      "team_name": "here so I wont get fined"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "manager": "RoombaCentral",
+      "players": [
+        "11638",
+        "12527",
+        "12529",
+        "2449",
+        "3294",
+        "4983",
+        "5022",
+        "6786",
+        "6813",
+        "7526",
+        "8126",
+        "9488",
+        "9753",
+        "CHI",
+        "TB"
+      ],
+      "record": {
+        "losses": 5,
+        "ties": 0,
+        "wins": 9
+      },
+      "roster_id": 3,
+      "starters": [
+        "3294",
+        "6813",
+        "12527",
+        "2449",
+        "9488",
+        "5022",
+        "4983",
+        "6786",
+        "TB"
+      ],
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "manager": "SmeIIingSalts",
+      "players": [
+        "10222",
+        "11370",
+        "11435",
+        "11632",
+        "11647",
+        "4098",
+        "5846",
+        "5850",
+        "6904",
+        "7021",
+        "7569",
+        "8110",
+        "8134",
+        "8167",
+        "8408",
+        "SEA"
+      ],
+      "record": {
+        "losses": 7,
+        "ties": 0,
+        "wins": 7
+      },
+      "roster_id": 4,
+      "starters": [
+        "6904",
+        "5850",
+        "7021",
+        "7569",
+        "5846",
+        "8110",
+        "8134",
+        "10222",
+        "SEA"
+      ],
+      "team_name": "Smelling Salts"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "manager": "__hellbent",
+      "players": [
+        "10232",
+        "11584",
+        "11604",
+        "11627",
+        "12481",
+        "12530",
+        "4037",
+        "4892",
+        "5001",
+        "7523",
+        "7588",
+        "8137",
+        "8150",
+        "8800",
+        "9493",
+        "LAR"
+      ],
+      "record": {
+        "losses": 4,
+        "ties": 0,
+        "wins": 10
+      },
+      "roster_id": 5,
+      "starters": [
+        "7523",
+        "8150",
+        "7588",
+        "9493",
+        "8137",
+        "5001",
+        "11584",
+        "10232",
+        "LAR"
+      ],
+      "team_name": "Amon-Ra Doggin "
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "manager": "bostwik",
+      "players": [
+        "11646",
+        "11655",
+        "12474",
+        "12534",
+        "1479",
+        "3257",
+        "4881",
+        "5892",
+        "5927",
+        "7002",
+        "7525",
+        "7553",
+        "8144",
+        "BUF",
+        "DEN"
+      ],
+      "record": {
+        "losses": 11,
+        "ties": 0,
+        "wins": 3
+      },
+      "roster_id": 6,
+      "starters": [
+        "3257",
+        "11655",
+        "12474",
+        "7525",
+        "8144",
+        "7553",
+        "5927",
+        "1479",
+        "DEN"
+      ],
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "manager": "moontitties",
+      "players": [
+        "10213",
+        "10229",
+        "10236",
+        "11565",
+        "11579",
+        "12493",
+        "4035",
+        "4046",
+        "5848",
+        "6794",
+        "7567",
+        "8112",
+        "8138",
+        "HOU",
+        "MIN"
+      ],
+      "record": {
+        "losses": 11,
+        "ties": 0,
+        "wins": 3
+      },
+      "roster_id": 7,
+      "starters": [
+        "11565",
+        "8138",
+        "7567",
+        "6794",
+        "10213",
+        "12493",
+        "5848",
+        "11579",
+        "HOU"
+      ],
+      "team_name": "MoonKings"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "manager": "laidbacula",
+      "players": [
+        "11564",
+        "11586",
+        "12506",
+        "12526",
+        "2133",
+        "3198",
+        "6770",
+        "6819",
+        "7049",
+        "7543",
+        "7607",
+        "9224",
+        "9487",
+        "9754",
+        "CLE"
+      ],
+      "record": {
+        "losses": 6,
+        "ties": 0,
+        "wins": 8
+      },
+      "roster_id": 8,
+      "starters": [
+        "11564",
+        "9224",
+        "3198",
+        "7049",
+        "12526",
+        "12506",
+        "7543",
+        "7607",
+        "CLE"
+      ],
+      "team_name": "Brave Mujahideen Fighters"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "manager": "DaMan_K",
+      "players": [
+        "11563",
+        "11589",
+        "11597",
+        "11628",
+        "11635",
+        "12485",
+        "12517",
+        "3214",
+        "4199",
+        "5045",
+        "5967",
+        "6797",
+        "8121",
+        "8155",
+        "9221",
+        "CAR"
+      ],
+      "record": {
+        "losses": 9,
+        "ties": 0,
+        "wins": 5
+      },
+      "roster_id": 9,
+      "starters": [
+        "11563",
+        "8155",
+        "9221",
+        "11635",
+        "5045",
+        "11597",
+        "5967",
+        "3214",
+        "CAR"
+      ],
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "manager": "cfaz23",
+      "players": [
+        "11624",
+        "12489",
+        "1466",
+        "2307",
+        "4034",
+        "4984",
+        "5012",
+        "5872",
+        "8132",
+        "8142",
+        "8148",
+        "8151",
+        "9480",
+        "9484",
+        "NE",
+        "PIT"
+      ],
+      "record": {
+        "losses": 9,
+        "ties": 0,
+        "wins": 5
+      },
+      "roster_id": 10,
+      "starters": [
+        "4984",
+        "4034",
+        "12489",
+        "8148",
+        "5872",
+        "1466",
+        "11624",
+        "9480",
+        "NE"
+      ],
+      "team_name": "America Jackson"
+    }
+  ],
+  "season": "2025"
+}

@@ -226,6 +226,53 @@ a:hover { color: var(--accent); }
   color: var(--text-mute);
 }
 
+/* avatars + team cells */
+.avatar, .avatar--blank {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--surface-2);
+  vertical-align: middle;
+  flex: 0 0 auto;
+}
+.teamcell {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  font-weight: 600;
+}
+.table a:hover .teamcell { color: var(--accent); }
+
+/* card variants */
+.card--lead {
+  border-left: 4px solid var(--accent);
+  margin: 0 0 1.5rem;
+}
+.card--lead h3 { font-size: 1.2rem; margin: 0.5rem 0 0.35rem; }
+.card--team { display: block; transition: border-color 0.15s, transform 0.15s; }
+.card--team:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  color: inherit;
+}
+.card__head {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.4rem;
+}
+.card__head .avatar, .card__head .avatar--blank { width: 34px; height: 34px; }
+.card__head h3 { margin: 0; font-size: 1.02rem; }
+
+/* team page header */
+.hero--team { display: flex; align-items: center; gap: 1.1rem; }
+.hero--team .avatar, .hero--team .avatar--blank { width: 60px; height: 60px; }
+.hero--team h1 { margin: 0.2rem 0 0.4rem; }
+
+.more { margin-top: 1.1rem; }
+.more a { color: var(--accent); font-weight: 700; font-size: 0.9rem; }
+
 /* ---------- Footer ---------- */
 .footer {
   border-top: 1px solid var(--border);
