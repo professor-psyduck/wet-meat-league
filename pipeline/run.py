@@ -158,6 +158,80 @@ def build_rosters(teams: list[dict]) -> list[dict]:
     } for t in teams]
 
 
+def build_playoffs(client: SleeperClient, league_id: str, teams: list[dict]) -> dict:
+    """Winners-bracket playoffs with per-game scores and final placements.
+
+    Sleeper bracket games carry r(ound), m(atch), t1/t2 (roster ids), w/l
+    (winner/loser), and p (final placement: 1=title, 3=3rd, 5=5th). With
+    single-week rounds, round r is played in week playoff_week_start+(r-1),
+    so we can attach each team's points from that week's matchups.
+    """
+    bracket = client.get_winners_bracket(league_id)
+    if not bracket:
+        return {"available": False}
+
+    by_roster = {t["roster_id"]: t for t in teams}
+    settings = (client.get_league(league_id) or {}).get("settings", {}) or {}
+    pws = settings.get("playoff_week_start") or 0
+    single_week = settings.get("playoff_round_type", 0) == 0
+    rounds_present = sorted({g["r"] for g in bracket})
+    max_r = max(rounds_present) if rounds_present else 0
+
+    week_points: dict[int, dict] = {}
+    if single_week and pws:
+        for r in rounds_present:
+            mus = client.get_matchups(league_id, pws + (r - 1))
+            week_points[r] = {m["roster_id"]: round(m.get("points") or 0, 2)
+                              for m in mus}
+
+    def team_ref(rid, r):
+        t = by_roster.get(rid)
+        return {
+            "roster_id": rid,
+            "team_name": t["team_name"] if t else ("TBD" if not rid else f"Team {rid}"),
+            "avatar": t["avatar"] if t else None,
+            "manager": t["manager"] if t else None,
+            "score": week_points.get(r, {}).get(rid),
+        }
+
+    rounds = []
+    for r in rounds_present:
+        games = []
+        for g in (x for x in bracket if x["r"] == r):
+            games.append({
+                "m": g["m"],
+                "placement": g.get("p"),
+                "t1": team_ref(g.get("t1"), r),
+                "t2": team_ref(g.get("t2"), r),
+                "winner_roster_id": g.get("w"),
+                "loser_roster_id": g.get("l"),
+            })
+        games.sort(key=lambda x: (x["placement"] or 99, x["m"]))
+        rounds.append({
+            "round": r,
+            "week": (pws + (r - 1)) if (single_week and pws) else None,
+            "name": "Championship" if r == max_r else (
+                "Semifinals" if r == max_r - 1 else f"Round {r}"),
+            "games": games,
+        })
+
+    champion = runner_up = third = None
+    for g in bracket:
+        if g.get("p") == 1:
+            champion = team_ref(g.get("w"), g["r"])
+            runner_up = team_ref(g.get("l"), g["r"])
+        elif g.get("p") == 3:
+            third = team_ref(g.get("w"), g["r"])
+
+    return {
+        "available": True,
+        "champion": champion,
+        "runner_up": runner_up,
+        "third": third,
+        "rounds": rounds,
+    }
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--seed-league", help="override the data league id (testing)")
@@ -178,6 +252,7 @@ def main() -> None:
     players = build_slim_players(client, teams)
     standings = build_standings(teams)
     rosters = build_rosters(teams)
+    playoffs = build_playoffs(client, data_league_id, teams)
 
     league_json = {
         "generated_at": now,
@@ -199,19 +274,25 @@ def main() -> None:
                 "league_name": ctx.league_name, "standings": standings})
     write_json(content_dir / "rosters.json",
                {"generated_at": now, "season": ctx.data_season, "rosters": rosters})
+    write_json(content_dir / "playoffs.json",
+               {"generated_at": now, "season": ctx.data_season,
+                "league_name": ctx.league_name, **playoffs})
 
+    champ = (playoffs.get("champion") or {}).get("team_name") if playoffs.get("available") else None
     manifest = {
         "generated_at": now,
         "mode": ctx.mode,
         "data_season": ctx.data_season,
         "data_status": ctx.data_status,
         "league_name": ctx.league_name,
+        "champion": champ,
         "draft": {"draft_id": ctx.draft_id, "status": ctx.draft_status,
                   "season": ctx.nfl_season},
         "files": {
             "league": "content/league.json",
             "standings": "content/standings.json",
             "rosters": "content/rosters.json",
+            "playoffs": "content/playoffs.json",
         },
     }
     write_json(content_dir / "manifest.json", manifest)
@@ -223,6 +304,8 @@ def main() -> None:
 
     print(f"[run] wrote {len(teams)} teams, {len(players)} players, "
           f"standings + rosters -> {content_dir}")
+    if playoffs.get("available"):
+        print(f"[run] {ctx.data_season} champion: {champ}")
 
 
 if __name__ == "__main__":

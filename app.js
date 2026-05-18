@@ -7,7 +7,7 @@
    ============================================================ */
 
 import {
-  getManifest, getLeague, getStandings, getRosters,
+  getManifest, getLeague, getStandings, getRosters, getPlayoffs,
   resolvePlayer, teamById,
 } from "./lib/data.js";
 
@@ -74,7 +74,9 @@ async function refreshTicker() {
     const head = m.mode === "in_season"
       ? `${m.league_name} — ${m.data_season} season, week live`
       : `${m.league_name} — ${m.data_season} final standings`;
-    renderTicker([head, ...top, `2026 draft: ${m.draft?.status || "tbd"}`]);
+    const champLine = m.champion ? [`🏆 ${m.data_season} champion: ${m.champion}`] : [];
+    renderTicker([head, ...champLine, ...top,
+      `2026 draft: ${m.draft?.status || "tbd"}`]);
   } catch {
     renderTicker(DEFAULT_TICKER);
   }
@@ -95,6 +97,20 @@ const Views = {
         el("span", { class: "eyebrow" }, "The Network"),
         el("h1", {}, "Wet Meat League Network"),
         el("p", {}, sub)));
+
+    let champ = null;
+    try {
+      const p = await getPlayoffs();
+      if (p.available) champ = p;
+    } catch { /* playoffs optional */ }
+    if (champ && champ.champion) {
+      wrap.append(el("a", { class: "card card--champ", href: "#/playoffs" },
+        el("span", { class: "badge" }, `${champ.season} Champion`),
+        el("h3", {}, `🏆 ${champ.champion.team_name}`),
+        el("p", {}, champ.runner_up
+          ? `Beat ${champ.runner_up.team_name} in the final — see the full bracket →`
+          : "See the full bracket →")));
+    }
 
     const lead = s.standings[0];
     if (lead) {
@@ -146,6 +162,43 @@ const Views = {
     }
     table.append(tb);
     wrap.append(table);
+    return wrap;
+  },
+
+  async playoffs() {
+    const p = await getPlayoffs();
+    if (!p.available) {
+      return section("Playoffs", `${p.season || ""} Playoffs`,
+        "The bracket isn't set yet. Check back once the playoffs begin.");
+    }
+    const wrap = el("div", {});
+    const c = p.champion, r = p.runner_up, t3 = p.third;
+
+    wrap.append(el("div", { class: "champ-banner" },
+      el("span", { class: "champ-banner__trophy", "aria-hidden": "true" }, "🏆"),
+      el("div", {},
+        el("span", { class: "eyebrow" }, `${p.season} Champion`),
+        el("h1", {}, c ? c.team_name : "—"),
+        el("p", {}, c && r
+          ? `Def. ${r.team_name}, ${fmtScore(c.score)}–${fmtScore(r.score)} in the final`
+          : "Champion of the Wet Meat League"))));
+
+    const podium = el("div", { class: "podium" });
+    if (c) podium.append(podSpot("1st", c));
+    if (r) podium.append(podSpot("2nd", r));
+    if (t3) podium.append(podSpot("3rd", t3));
+    wrap.append(podium);
+
+    wrap.append(sectionHeader("The Bracket", "How it played out"));
+    const bracket = el("div", { class: "bracket" });
+    for (const rd of p.rounds) {
+      const col = el("div", { class: "bracket__round" });
+      col.append(el("h4", { class: "bracket__title" },
+        `${rd.name}${rd.week ? ` · Wk ${rd.week}` : ""}`));
+      for (const g of rd.games) col.append(gameCard(g));
+      bracket.append(col);
+    }
+    wrap.append(bracket);
     return wrap;
   },
 
@@ -215,6 +268,32 @@ const Views = {
   },
 };
 
+const fmtScore = (v) => (v == null ? "—" : Number(v).toFixed(2));
+
+function podSpot(place, team) {
+  return el("div", { class: `pod pod--${place}` },
+    el("span", { class: "pod__place" }, place),
+    avatar(team.avatar, team.team_name),
+    el("a", { class: "pod__name", href: `#/team/${team.roster_id}` },
+      team.team_name));
+}
+
+function gameCard(g) {
+  const tag = { 1: "Final", 3: "3rd Place", 5: "5th Place" }[g.placement];
+  const row = (tm) => {
+    const win = tm.roster_id != null && tm.roster_id === g.winner_roster_id;
+    return el("div", { class: "bx-team" + (win ? " is-win" : "") },
+      avatar(tm.avatar, tm.team_name),
+      tm.roster_id != null
+        ? el("a", { class: "bx-team__name", href: `#/team/${tm.roster_id}` }, tm.team_name)
+        : el("span", { class: "bx-team__name" }, tm.team_name),
+      el("span", { class: "bx-team__score" }, fmtScore(tm.score)));
+  };
+  return el("div", { class: "bx-game" },
+    tag ? el("span", { class: "badge badge--muted bx-game__tag" }, tag) : null,
+    row(g.t1), row(g.t2));
+}
+
 function rosterTable(title, ids, lg) {
   const table = el("table", { class: "table" });
   table.append(el("thead", {}, el("tr", {},
@@ -237,6 +316,7 @@ function section(eyebrow, title, body) {
 const ROUTES = [
   { pattern: "/", view: "home", title: "Home" },
   { pattern: "/standings", view: "standings", title: "Standings" },
+  { pattern: "/playoffs", view: "playoffs", title: "Playoffs" },
   { pattern: "/power", view: "power", title: "Power Rankings" },
   { pattern: "/teams", view: "teams", title: "Teams" },
   { pattern: "/team/:id", view: "team", title: "Team" },
