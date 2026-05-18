@@ -1,0 +1,14 @@
+Here are this period's Wet Meat League power rankings. The desk's computed
+power score already determines the order; your job is the COMMENTARY only.
+
+For each team, write one or two sentences explaining where they sit and why,
+grounded in the numbers. Useful angles:
+- A big gap between power rank and record rank ("trend") = over/underrated.
+- Elite or putrid points-for / points-against.
+- Top of the table = the team everyone is chasing.
+- Bottom = the wet meat. Be merciless but specific.
+
+RANKING TABLE (one row per team):
+{{TABLE}}
+
+Return a blurb for every roster_id above via the emit_rankings tool.

@@ -7,7 +7,7 @@
    ============================================================ */
 
 import {
-  getManifest, getLeague, getStandings, getRosters, getPlayoffs,
+  getManifest, getLeague, getStandings, getRosters, getPlayoffs, getPower,
   resolvePlayer, teamById,
 } from "./lib/data.js";
 
@@ -245,10 +245,41 @@ const Views = {
     return wrap;
   },
 
-  power() {
-    return section("The Rankings", "Power Rankings",
-      "Computed power ranking + an AI-written take on each team's movement " +
-      "lands in the next build phase. For now, consult the standings.");
+  async power() {
+    const p = await getPower();
+    const wrap = el("div", {}, sectionHeader(
+      `${p.season} Season`, "Power Rankings"));
+
+    const byline = p.method === "ai"
+      ? `Commentary by the WMLN Numbers Desk${p.model ? ` · ${p.model}` : ""}.`
+      : "Computed model — AI desk commentary pending an API key.";
+    wrap.append(el("p", { class: "note" },
+      `${byline} Score = 45% win% · 30% points-for · 10% points-against · ` +
+      `15% recent form. “Trend” is power rank vs. record rank.`));
+
+    const list = el("div", { class: "pr-list" });
+    for (const r of p.rankings) {
+      const w = r.record.wins, l = r.record.losses, t = r.record.ties;
+      const rec = (t ? `${w}-${l}-${t}` : `${w}-${l}`);
+      const trend = r.trend > 0
+        ? el("span", { class: "pr-trend pos" }, `▲ ${r.trend}`)
+        : r.trend < 0
+          ? el("span", { class: "pr-trend neg" }, `▼ ${-r.trend}`)
+          : el("span", { class: "pr-trend flat" }, "—");
+      list.append(el("div", { class: "pr-row" },
+        el("div", { class: "pr-rank" }, `#${r.rank}`),
+        el("div", { class: "pr-main" },
+          el("a", { class: "pr-team", href: `#/team/${r.roster_id}` },
+            avatar(r.avatar, r.team_name),
+            el("span", {}, r.team_name),
+            el("span", { class: "pr-rec" }, `${rec} · ${r.fpts} PF`)),
+          el("div", { class: "pr-blurb" }, r.blurb || "")),
+        el("div", { class: "pr-side" },
+          el("div", { class: "pr-power" }, String(r.power)),
+          trend)));
+    }
+    wrap.append(list);
+    return wrap;
   },
 
   async draft() {

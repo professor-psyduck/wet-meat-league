@@ -12,10 +12,15 @@
     "draft": "content/draft.json",
     "league": "content/league.json",
     "playoffs": "content/playoffs.json",
+    "power": "content/power.json",
     "rosters": "content/rosters.json",
     "standings": "content/standings.json"
   },
-  "generated_at": "2026-05-18T23:03:09Z",
+  "generated_at": "2026-05-18T23:18:10Z",
   "league_name": "Wet Meat League 2.0",
-  "mode": "offseason"
+  "mode": "offseason",
+  "power": {
+    "method": "computed",
+    "week": 14
+  }
 }

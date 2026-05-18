@@ -1,0 +1,6 @@
+# Pipeline dependencies.
+# The core site pipeline (Phases B/C: standings, rosters, playoffs, draft) is
+# stdlib-only. Only the AI power-rankings commentary needs the Anthropic SDK,
+# and it's imported lazily — so without a key the pipeline still runs with a
+# zero-cost deterministic stub and no install required locally.
+anthropic>=0.40

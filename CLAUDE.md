@@ -51,7 +51,13 @@ pipeline pre-digests everything into small JSON files.
   and leaves the git tree unchanged. The Action commits only if
   `git status --porcelain` is non-empty.
 - AI spend is minimized: one batched, prompt-cached power-rankings call per
-  week, deduped by key `power:<season>:w<week>` in `state/state.json`.
+  week, deduped by key `power:<season>:w<week>` in `state/state.json`. With no
+  key the pipeline uses a zero-cost deterministic stub; set the
+  **`ANTHROPIC_API_KEY`** repo secret (Settings → Secrets → Actions) to switch
+  power-rankings commentary to real Claude — no code change needed.
+- The pipeline is idempotent via a content hash in `state.json`: unchanged
+  Sleeper data ⇒ no file writes ⇒ the scheduled Action skips the commit ⇒ no
+  redeploy. Never add a per-run timestamp outside the `generated_at` field.
 - Generated content lives in `content/`. Pipeline state lives in
   `state/state.json`. Tunables live in `config/league.config.json`. None of
   these are hand-edited.

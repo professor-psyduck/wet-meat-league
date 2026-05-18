@@ -1,0 +1,56 @@
+# Scheduled data pipeline: fetch Sleeper -> generate content -> commit.
+# A push to main from this job triggers pages.yml, which redeploys the site.
+#
+# The pipeline is idempotent: if no Sleeper data changed, run.py writes
+# nothing, `git status` is clean, and this job skips the commit — so idle
+# scheduled runs cost nothing and don't redeploy.
+#
+# AI power-rankings commentary turns on automatically once the
+# ANTHROPIC_API_KEY repo secret is set; until then it uses the zero-cost stub.
+name: League data pipeline
+
+on:
+  schedule:
+    # Every 6 hours. Trades/waivers can happen anytime; idle runs are no-ops.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # push generated content/ + state/ back to main
+
+concurrency:
+  group: "pipeline"
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pipeline/run.py
+
+      - name: Commit changes if any
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name  "wmln-pipeline[bot]"
+            git config user.email "wmln-pipeline@users.noreply.github.com"
+            git add content state
+            git commit -m "pipeline: refresh league content"
+            git push
+            echo "pushed updated content"
+          else
+            echo "no changes — nothing to commit"
+          fi

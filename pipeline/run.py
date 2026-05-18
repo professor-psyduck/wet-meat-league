@@ -20,6 +20,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import tempfile
@@ -29,6 +30,7 @@ from pathlib import Path
 from resolve import resolve_context, load_config
 from sleeper import SleeperClient
 from state import State
+from generators.power_rankings import build as build_power
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIR = REPO_ROOT / "content"
@@ -311,10 +313,31 @@ def build_draft(client: SleeperClient, ctx) -> dict:
     }
 
 
+def build_weekly_points(client: SleeperClient, league_id: str,
+                        regular_weeks: int) -> dict:
+    """{roster_id: [pts_wk1, ...]} over the regular season (for recent form)."""
+    wp: dict[int, list] = {}
+    for wk in range(1, regular_weeks + 1):
+        for m in client.get_matchups(league_id, wk):
+            rid = m.get("roster_id")
+            if rid is None:
+                continue
+            wp.setdefault(rid, []).append(round(m.get("points") or 0, 2))
+    return wp
+
+
+def _stable_hash(obj) -> str:
+    """Order-independent content hash (excludes generated_at -> idempotent)."""
+    return hashlib.sha256(
+        json.dumps(obj, sort_keys=True, default=str).encode()).hexdigest()
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--seed-league", help="override the data league id (testing)")
     ap.add_argument("--content-dir", default=str(CONTENT_DIR))
+    ap.add_argument("--fake-claude", action="store_true",
+                    help="force the zero-cost stub commentary (no API call)")
     args, _ignored = ap.parse_known_args()
 
     content_dir = Path(args.content_dir)
@@ -323,7 +346,6 @@ def main() -> None:
     ctx = resolve_context(client, config)
 
     data_league_id = args.seed_league or ctx.data_league_id
-    now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     print(f"[run] mode={ctx.mode} data_league={data_league_id} "
           f"({ctx.data_season}, {ctx.data_status})")
 
@@ -334,12 +356,46 @@ def main() -> None:
     playoffs = build_playoffs(client, data_league_id, teams)
     draft = build_draft(client, ctx)
 
-    league_json = {
-        "generated_at": now,
-        "network": {
-            "name": config.get("network_name", "Wet Meat League Network"),
-            "abbr": config.get("network_abbr", "WMLN"),
-        },
+    # Regular-season weekly points feed "recent form" in the power model.
+    settings = (client.get_league(data_league_id) or {}).get("settings", {}) or {}
+    pws = settings.get("playoff_week_start") or 0
+    if ctx.data_status == "complete":
+        regular_weeks = max(pws - 1, 0)
+    elif ctx.mode == "in_season":
+        regular_weeks = max(ctx.nfl_week - 1, 0)
+    else:
+        regular_weeks = 0
+    weekly_points = (build_weekly_points(client, data_league_id, regular_weeks)
+                     if regular_weeks else {})
+    power_key = f"power:{ctx.data_season}:w{regular_weeks}"
+
+    st = State()
+
+    # Reuse AI commentary we already paid for, keyed by power_key.
+    prev_power = None
+    ppath = content_dir / "power.json"
+    if ppath.exists():
+        try:
+            prev_power = json.loads(ppath.read_text())
+        except (OSError, json.JSONDecodeError):
+            prev_power = None
+    precomputed = None
+    if (not args.fake_claude and st.is_seen(power_key)
+            and prev_power and prev_power.get("method") == "ai"):
+        precomputed = {str(r["roster_id"]): r.get("blurb", "")
+                       for r in prev_power.get("rankings", [])}
+
+    power = build_power(teams, weekly_points, ctx.data_season,
+                        use_ai=not args.fake_claude,
+                        precomputed_blurbs=precomputed)
+
+    champ = ((playoffs.get("champion") or {}).get("team_name")
+             if playoffs.get("available") else None)
+
+    # Payloads WITHOUT generated_at so the content hash is stable.
+    league_payload = {
+        "network": {"name": config.get("network_name", "Wet Meat League Network"),
+                    "abbr": config.get("network_abbr", "WMLN")},
         "context": ctx.to_json(),
         "teams": [{k: t[k] for k in
                    ("roster_id", "owner_id", "manager", "team_name", "avatar",
@@ -347,28 +403,23 @@ def main() -> None:
                   for t in teams],
         "players": players,
     }
-
-    write_json(content_dir / "league.json", league_json)
-    write_json(content_dir / "standings.json",
-               {"generated_at": now, "season": ctx.data_season,
-                "league_name": ctx.league_name, "standings": standings})
-    write_json(content_dir / "rosters.json",
-               {"generated_at": now, "season": ctx.data_season, "rosters": rosters})
-    write_json(content_dir / "playoffs.json",
-               {"generated_at": now, "season": ctx.data_season,
-                "league_name": ctx.league_name, **playoffs})
-    write_json(content_dir / "draft.json", {"generated_at": now, **draft})
-
-    champ = (playoffs.get("champion") or {}).get("team_name") if playoffs.get("available") else None
-    manifest = {
-        "generated_at": now,
+    standings_payload = {"season": ctx.data_season,
+                         "league_name": ctx.league_name, "standings": standings}
+    rosters_payload = {"season": ctx.data_season, "rosters": rosters}
+    playoffs_payload = {"season": ctx.data_season,
+                        "league_name": ctx.league_name, **playoffs}
+    draft_payload = dict(draft)
+    power_payload = power
+    manifest_core = {
         "mode": ctx.mode,
         "data_season": ctx.data_season,
         "data_status": ctx.data_status,
         "league_name": ctx.league_name,
         "champion": champ,
+        "power": {"week": regular_weeks, "method": power.get("method")},
         "draft": {"draft_id": ctx.draft_id,
-                  "status": draft.get("status") if draft.get("available") else ctx.draft_status,
+                  "status": draft.get("status") if draft.get("available")
+                  else ctx.draft_status,
                   "season": ctx.nfl_season,
                   "picks_made": draft.get("picks_made", 0)},
         "files": {
@@ -377,17 +428,40 @@ def main() -> None:
             "rosters": "content/rosters.json",
             "playoffs": "content/playoffs.json",
             "draft": "content/draft.json",
+            "power": "content/power.json",
         },
     }
-    write_json(content_dir / "manifest.json", manifest)
 
-    st = State()
+    bundle = {"league": league_payload, "standings": standings_payload,
+              "rosters": rosters_payload, "playoffs": playoffs_payload,
+              "draft": draft_payload, "power": power_payload,
+              "manifest": manifest_core}
+    content_hash = _stable_hash(bundle)
+
+    if st.get_cursor("content_hash") == content_hash:
+        print("[run] no content changes — nothing written (idempotent)")
+        return
+
+    now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    write_json(content_dir / "league.json", {"generated_at": now, **league_payload})
+    write_json(content_dir / "standings.json", {"generated_at": now, **standings_payload})
+    write_json(content_dir / "rosters.json", {"generated_at": now, **rosters_payload})
+    write_json(content_dir / "playoffs.json", {"generated_at": now, **playoffs_payload})
+    write_json(content_dir / "draft.json", {"generated_at": now, **draft_payload})
+    write_json(content_dir / "power.json", {"generated_at": now, **power_payload})
+    write_json(content_dir / "power-rankings" / f"{ctx.data_season}-w{regular_weeks}.json",
+               {"generated_at": now, **power_payload})
+    write_json(content_dir / "manifest.json", {"generated_at": now, **manifest_core})
+
     st.set_resolved(ctx.to_json())
+    st.set_cursor("content_hash", content_hash)
+    if power.get("method") == "ai" and not st.is_seen(power_key):
+        st.mark_seen(power_key, ["content/power.json"])
     st.touch_run()
     st.save()
 
-    print(f"[run] wrote {len(teams)} teams, {len(players)} players, "
-          f"standings + rosters -> {content_dir}")
+    print(f"[run] wrote {len(teams)} teams, {len(players)} players; "
+          f"power={power.get('method')} ({power_key})")
     if playoffs.get("available"):
         print(f"[run] {ctx.data_season} champion: {champ}")
 

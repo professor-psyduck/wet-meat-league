@@ -383,6 +383,56 @@ a:hover { color: var(--accent); }
   .podium { grid-template-columns: 1fr; }
 }
 
+/* ---------- power rankings ---------- */
+.pr-list { display: flex; flex-direction: column; gap: 0.6rem; }
+.pr-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.85rem 1rem;
+}
+.pr-rank {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: var(--text-mute);
+  min-width: 2.5rem;
+  text-align: center;
+}
+.pr-main { flex: 1; min-width: 0; }
+.pr-team {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  font-weight: 700;
+  font-size: 1.02rem;
+}
+.pr-team:hover { color: var(--accent); }
+.pr-rec { color: var(--text-mute); font-weight: 600; font-size: 0.82rem; }
+.pr-blurb {
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+}
+.pr-side { text-align: right; min-width: 4rem; }
+.pr-power {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.3rem;
+}
+.pr-trend { font-size: 0.8rem; font-weight: 700; }
+.pr-trend.pos { color: var(--good); }
+.pr-trend.neg { color: var(--bad); }
+.pr-trend.flat { color: var(--text-mute); }
+
+@media (max-width: 720px) {
+  .pr-row { flex-wrap: wrap; }
+  .pr-rank { min-width: 2rem; font-size: 1.2rem; }
+}
+
 /* ---------- Footer ---------- */
 .footer {
   border-top: 1px solid var(--border);
