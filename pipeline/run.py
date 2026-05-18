@@ -232,6 +232,85 @@ def build_playoffs(client: SleeperClient, league_id: str, teams: list[dict]) -> 
     }
 
 
+_SLOT_LABELS = [
+    ("slots_qb", "QB"), ("slots_rb", "RB"), ("slots_wr", "WR"),
+    ("slots_te", "TE"), ("slots_flex", "FLEX"), ("slots_super_flex", "SFLEX"),
+    ("slots_k", "K"), ("slots_def", "DEF"), ("slots_bn", "BN"),
+]
+
+
+def build_draft(client: SleeperClient, ctx) -> dict:
+    """2026 draft hub: format, roster needs, order, and the pick board.
+
+    Pre-draft, order/start/picks are empty; this stays valid and the
+    frontend shows what's known so far. Post-draft it fills in.
+    """
+    if not ctx.draft_id:
+        return {"available": False}
+    draft = client.get_draft(ctx.draft_id)
+    if not draft:
+        return {"available": False}
+
+    s = draft.get("settings", {}) or {}
+    teams, _ = build_team_directory(client, ctx.current_league_id)
+    by_roster = {t["roster_id"]: t for t in teams}
+    league = client.get_league(ctx.current_league_id) or {}
+    lsettings = league.get("settings", {}) or {}
+
+    def team_ref(rid):
+        t = by_roster.get(rid)
+        return {
+            "roster_id": rid,
+            "team_name": t["team_name"] if t else (f"Team {rid}" if rid else "TBD"),
+            "avatar": t["avatar"] if t else None,
+            "manager": t["manager"] if t else None,
+        }
+
+    slot_to_roster = draft.get("slot_to_roster_id") or {}
+    order = [{"slot": int(slot), **team_ref(rid)}
+             for slot, rid in sorted(slot_to_roster.items(), key=lambda kv: int(kv[0]))]
+
+    roster_slots = [{"pos": label, "count": s.get(key)}
+                    for key, label in _SLOT_LABELS if s.get(key)]
+
+    raw_picks = client.get_draft_picks(ctx.draft_id)
+    picks = []
+    for p in raw_picks:
+        meta = p.get("metadata") or {}
+        name = " ".join(x for x in [meta.get("first_name"), meta.get("last_name")] if x).strip()
+        picks.append({
+            "round": p.get("round"),
+            "pick_no": p.get("pick_no"),
+            "roster_id": p.get("roster_id"),
+            "team_name": team_ref(p.get("roster_id"))["team_name"],
+            "player": {"n": name or meta.get("last_name") or p.get("player_id"),
+                       "pos": meta.get("position") or "?",
+                       "t": meta.get("team") or ""},
+            "is_keeper": bool(p.get("is_keeper")),
+        })
+
+    return {
+        "available": True,
+        "draft_id": ctx.draft_id,
+        "season": draft.get("season") or ctx.nfl_season,
+        "status": draft.get("status"),
+        "type": draft.get("type"),
+        "rounds": s.get("rounds"),
+        "teams": s.get("teams"),
+        "scoring": (draft.get("metadata") or {}).get("scoring_type"),
+        "start_time": draft.get("start_time"),
+        "order_finalized": draft.get("draft_order") is not None,
+        "order": order,
+        "roster_slots": roster_slots,
+        "keepers": {
+            "max_keepers": lsettings.get("max_keepers"),
+            "keeper_deadline": lsettings.get("keeper_deadline"),
+        },
+        "picks": picks,
+        "picks_made": len(picks),
+    }
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--seed-league", help="override the data league id (testing)")
@@ -253,6 +332,7 @@ def main() -> None:
     standings = build_standings(teams)
     rosters = build_rosters(teams)
     playoffs = build_playoffs(client, data_league_id, teams)
+    draft = build_draft(client, ctx)
 
     league_json = {
         "generated_at": now,
@@ -277,6 +357,7 @@ def main() -> None:
     write_json(content_dir / "playoffs.json",
                {"generated_at": now, "season": ctx.data_season,
                 "league_name": ctx.league_name, **playoffs})
+    write_json(content_dir / "draft.json", {"generated_at": now, **draft})
 
     champ = (playoffs.get("champion") or {}).get("team_name") if playoffs.get("available") else None
     manifest = {
@@ -286,13 +367,16 @@ def main() -> None:
         "data_status": ctx.data_status,
         "league_name": ctx.league_name,
         "champion": champ,
-        "draft": {"draft_id": ctx.draft_id, "status": ctx.draft_status,
-                  "season": ctx.nfl_season},
+        "draft": {"draft_id": ctx.draft_id,
+                  "status": draft.get("status") if draft.get("available") else ctx.draft_status,
+                  "season": ctx.nfl_season,
+                  "picks_made": draft.get("picks_made", 0)},
         "files": {
             "league": "content/league.json",
             "standings": "content/standings.json",
             "rosters": "content/rosters.json",
             "playoffs": "content/playoffs.json",
+            "draft": "content/draft.json",
         },
     }
     write_json(content_dir / "manifest.json", manifest)

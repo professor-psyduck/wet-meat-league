@@ -252,14 +252,84 @@ const Views = {
   },
 
   async draft() {
-    let info = "";
-    try {
-      const m = await getManifest();
-      info = ` Current 2026 status: ${m.draft?.status || "tbd"}.`;
-    } catch { /* ignore */ }
-    return section("2026 Draft", "Draft Hub",
-      "Countdown, draft order, and keeper rules for the 2026 season are " +
-      "coming next." + info);
+    const d = await getDraft();
+    if (!d.available) {
+      return section("2026 Draft", "Draft Hub",
+        "No draft is configured for 2026 yet.");
+    }
+    const statusLabel = {
+      pre_draft: "Not started", drafting: "On the clock", complete: "Complete",
+    }[d.status] || d.status || "—";
+
+    const wrap = el("div", {});
+    wrap.append(el("div", { class: "hero" },
+      el("span", { class: "eyebrow" }, `${d.season} Season`),
+      el("h1", {}, "The Draft"),
+      el("p", {}, `${cap(d.type)} · ${d.rounds} rounds · ${d.teams} teams · ` +
+        `${String(d.scoring || "").toUpperCase()} · Status: ${statusLabel}`)));
+
+    let when = "Not scheduled yet — check back.";
+    if (d.start_time) {
+      const dt = new Date(d.start_time);
+      const days = Math.ceil((dt.getTime() - Date.now()) / 86400000);
+      when = dt.toLocaleString() +
+        (days > 0 ? ` · in ${days} day${days === 1 ? "" : "s"}` : "");
+    }
+    const facts = el("div", { class: "grid" });
+    facts.append(el("div", { class: "card" },
+      el("h3", {}, "When"), el("p", {}, when)));
+    facts.append(el("div", { class: "card" },
+      el("h3", {}, "Roster"),
+      el("p", {}, d.roster_slots.map((x) => `${x.pos} ${x.count}`).join(" · "))));
+    if (d.keepers && d.keepers.max_keepers != null) {
+      facts.append(el("div", { class: "card" },
+        el("h3", {}, "Keepers"),
+        el("p", {}, `${d.keepers.max_keepers} keeper` +
+          `${d.keepers.max_keepers === 1 ? "" : "s"} per team`)));
+    }
+    wrap.append(facts);
+
+    wrap.append(sectionHeader("Draft Order",
+      d.order_finalized ? "Order" : "Provisional Order"));
+    if (!d.order_finalized) {
+      wrap.append(el("p", { class: "note" },
+        "The official draft order isn't set yet — slots below are provisional."));
+    }
+    const ot = el("table", { class: "table" });
+    ot.append(el("thead", {}, el("tr", {},
+      el("th", {}, "Slot"), el("th", {}, "Team"), el("th", {}, "Manager"))));
+    const otb = el("tbody", {});
+    for (const o of d.order) {
+      otb.append(el("tr", {},
+        el("td", {}, `#${o.slot}`),
+        el("td", {}, teamCell(o.team_name, o.avatar)),
+        el("td", {}, o.manager || "—")));
+    }
+    ot.append(otb);
+    wrap.append(ot);
+
+    if (d.picks_made > 0) {
+      wrap.append(sectionHeader("The Board", `${d.picks_made} picks`));
+      const board = el("table", { class: "table" });
+      board.append(el("thead", {}, el("tr", {},
+        el("th", {}, "Pick"), el("th", {}, "Player"),
+        el("th", {}, "Pos"), el("th", {}, "NFL"), el("th", {}, "Team"))));
+      const btb = el("tbody", {});
+      for (const p of d.picks) {
+        btb.append(el("tr", {},
+          el("td", {}, `${p.round}.${String(p.pick_no).padStart(2, "0")}`),
+          el("td", {}, p.player.n + (p.is_keeper ? " 🔒" : "")),
+          el("td", {}, p.player.pos),
+          el("td", {}, p.player.t || "—"),
+          el("td", {}, p.team_name)));
+      }
+      board.append(btb);
+      wrap.append(board);
+    } else {
+      wrap.append(sectionHeader("The Board", "Pick-by-pick"),
+        placeholder("No picks yet — the board fills in live once the draft starts."));
+    }
+    return wrap;
   },
 
   notFound() {
@@ -269,6 +339,7 @@ const Views = {
 };
 
 const fmtScore = (v) => (v == null ? "—" : Number(v).toFixed(2));
+const cap = (s) => (s ? s.charAt(0).toUpperCase() + s.slice(1) : "—");
 
 function podSpot(place, team) {
   return el("div", { class: `pod pod--${place}` },

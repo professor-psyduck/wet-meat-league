@@ -4,16 +4,18 @@
   "data_status": "complete",
   "draft": {
     "draft_id": "1357559174719885312",
+    "picks_made": 0,
     "season": "2026",
     "status": "pre_draft"
   },
   "files": {
+    "draft": "content/draft.json",
     "league": "content/league.json",
     "playoffs": "content/playoffs.json",
     "rosters": "content/rosters.json",
     "standings": "content/standings.json"
   },
-  "generated_at": "2026-05-18T22:57:47Z",
+  "generated_at": "2026-05-18T23:03:09Z",
   "league_name": "Wet Meat League 2.0",
   "mode": "offseason"
 }
