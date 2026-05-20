@@ -102,11 +102,18 @@ def build_team_directory(client: SleeperClient, league_id: str) -> tuple[list[di
     return teams, by_id
 
 
-def build_slim_players(client: SleeperClient, teams: list[dict]) -> dict:
-    """player_id -> {n: name, pos, t: team} for ROSTERED players only."""
+def build_slim_players(client: SleeperClient, teams: list[dict],
+                       extras: set[str] | None = None) -> dict:
+    """player_id -> {n: name, pos, t: team} for rostered + supplied extras.
+
+    `extras` lets the caller include players that appear in transactions
+    (waivers, trades, drops) but are no longer on any current roster.
+    """
     needed: set[str] = set()
     for t in teams:
         needed.update(t["players"])
+    if extras:
+        needed.update(extras)
     if not needed:
         return {}
     allp = client.get_players()
@@ -313,6 +320,78 @@ def build_draft(client: SleeperClient, ctx) -> dict:
     }
 
 
+def build_transactions(client: SleeperClient, league_id: str,
+                       weeks_total: int,
+                       by_roster: dict) -> tuple[list[dict], set[str]]:
+    """Chronological feed of completed transactions across the season.
+
+    Returns (rows, needed_pids). Rows are sorted newest-first. `needed_pids`
+    is the set of player IDs referenced anywhere, so the caller can extend
+    the slim player map.
+    """
+    rows: list[dict] = []
+    needed: set[str] = set()
+    for wk in range(1, max(weeks_total, 0) + 1):
+        for t in client.get_transactions(league_id, wk):
+            if t.get("status") != "complete":
+                continue  # hide failed waivers from the public wire
+            adds = t.get("adds") or {}
+            drops = t.get("drops") or {}
+            picks = t.get("draft_picks") or []
+            wb = t.get("waiver_budget") or []
+            needed.update(str(p) for p in adds.keys())
+            needed.update(str(p) for p in drops.keys())
+
+            row: dict = {
+                "id": t.get("transaction_id"),
+                "type": t.get("type"),
+                "week": t.get("leg") or wk,
+                "created": t.get("created"),  # ms epoch
+                "roster_ids": t.get("roster_ids") or [],
+            }
+            if t.get("type") == "trade":
+                sides = []
+                for rid in row["roster_ids"]:
+                    side = by_roster.get(rid, {})
+                    sides.append({
+                        "roster_id": rid,
+                        "team_name": side.get("team_name") or f"Team {rid}",
+                        "avatar": side.get("avatar"),
+                        "manager": side.get("manager"),
+                        "received": {
+                            "players": [str(p) for p, r in adds.items() if r == rid],
+                            "picks": [_fmt_pick(p) for p in picks if p.get("owner_id") == rid],
+                            "waiver_budget": [
+                                {"amount": w.get("amount"), "from_roster_id": w.get("sender")}
+                                for w in wb if w.get("receiver") == rid
+                            ],
+                        },
+                    })
+                row["sides"] = sides
+            else:
+                rid = row["roster_ids"][0] if row["roster_ids"] else None
+                side = by_roster.get(rid, {}) if rid is not None else {}
+                row["roster_id"] = rid
+                row["team_name"] = side.get("team_name") or (f"Team {rid}" if rid else "—")
+                row["avatar"] = side.get("avatar")
+                row["manager"] = side.get("manager")
+                row["adds"] = [str(p) for p in adds.keys()]
+                row["drops"] = [str(p) for p in drops.keys()]
+                if t.get("type") == "waiver":
+                    row["bid"] = (t.get("settings") or {}).get("waiver_bid")
+            rows.append(row)
+    rows.sort(key=lambda r: r["created"] or 0, reverse=True)
+    return rows, needed
+
+
+def _fmt_pick(p: dict) -> dict:
+    return {
+        "season": p.get("season"),
+        "round": p.get("round"),
+        "from_roster_id": p.get("previous_owner_id"),
+    }
+
+
 def build_weekly_points(client: SleeperClient, league_id: str,
                         regular_weeks: int) -> dict:
     """{roster_id: [pts_wk1, ...]} over the regular season (for recent form)."""
@@ -350,7 +429,18 @@ def main() -> None:
           f"({ctx.data_season}, {ctx.data_status})")
 
     teams, _ = build_team_directory(client, data_league_id)
-    players = build_slim_players(client, teams)
+    by_roster = {t["roster_id"]: t for t in teams}
+
+    if ctx.data_status == "complete":
+        weeks_total = 18
+    elif ctx.mode == "in_season":
+        weeks_total = max(ctx.nfl_week, 0)
+    else:
+        weeks_total = 0
+    transactions, tx_pids = build_transactions(
+        client, data_league_id, weeks_total, by_roster)
+
+    players = build_slim_players(client, teams, extras=tx_pids)
     standings = build_standings(teams)
     rosters = build_rosters(teams)
     playoffs = build_playoffs(client, data_league_id, teams)
@@ -410,6 +500,11 @@ def main() -> None:
                         "league_name": ctx.league_name, **playoffs}
     draft_payload = dict(draft)
     power_payload = power
+    transactions_payload = {"season": ctx.data_season,
+                            "league_name": ctx.league_name,
+                            "transactions": transactions}
+
+    n_trades = sum(1 for t in transactions if t["type"] == "trade")
     manifest_core = {
         "mode": ctx.mode,
         "data_season": ctx.data_season,
@@ -417,6 +512,7 @@ def main() -> None:
         "league_name": ctx.league_name,
         "champion": champ,
         "power": {"week": regular_weeks, "method": power.get("method")},
+        "transactions": {"count": len(transactions), "trades": n_trades},
         "draft": {"draft_id": ctx.draft_id,
                   "status": draft.get("status") if draft.get("available")
                   else ctx.draft_status,
@@ -429,12 +525,14 @@ def main() -> None:
             "playoffs": "content/playoffs.json",
             "draft": "content/draft.json",
             "power": "content/power.json",
+            "transactions": "content/transactions.json",
         },
     }
 
     bundle = {"league": league_payload, "standings": standings_payload,
               "rosters": rosters_payload, "playoffs": playoffs_payload,
               "draft": draft_payload, "power": power_payload,
+              "transactions": transactions_payload,
               "manifest": manifest_core}
     content_hash = _stable_hash(bundle)
 
@@ -448,6 +546,8 @@ def main() -> None:
     write_json(content_dir / "rosters.json", {"generated_at": now, **rosters_payload})
     write_json(content_dir / "playoffs.json", {"generated_at": now, **playoffs_payload})
     write_json(content_dir / "draft.json", {"generated_at": now, **draft_payload})
+    write_json(content_dir / "transactions.json",
+               {"generated_at": now, **transactions_payload})
     write_json(content_dir / "power.json", {"generated_at": now, **power_payload})
     write_json(content_dir / "power-rankings" / f"{ctx.data_season}-w{regular_weeks}.json",
                {"generated_at": now, **power_payload})
@@ -460,7 +560,8 @@ def main() -> None:
     st.touch_run()
     st.save()
 
-    print(f"[run] wrote {len(teams)} teams, {len(players)} players; "
+    print(f"[run] wrote {len(teams)} teams, {len(players)} players, "
+          f"{len(transactions)} transactions ({n_trades} trades); "
           f"power={power.get('method')} ({power_key})")
     if playoffs.get("available"):
         print(f"[run] {ctx.data_season} champion: {champ}")

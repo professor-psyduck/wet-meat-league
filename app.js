@@ -8,7 +8,7 @@
 
 import {
   getManifest, getLeague, getStandings, getRosters, getPlayoffs, getPower,
-  resolvePlayer, teamById,
+  getTransactions, resolvePlayer, teamById,
 } from "./lib/data.js";
 
 /* ---------- tiny DOM helpers ---------- */
@@ -162,6 +162,50 @@ const Views = {
     }
     table.append(tb);
     wrap.append(table);
+    return wrap;
+  },
+
+  async transactions() {
+    const [m, lg, tx] = await Promise.all([getManifest(), getLeague(), getTransactions()]);
+    const tbi = Object.fromEntries((lg.teams || []).map((t) => [t.roster_id, t]));
+
+    const wrap = el("div", {});
+    wrap.append(sectionHeader(`${tx.season} Season`, "Transactions"));
+
+    const counts = { trade: 0, waiver: 0, free_agent: 0, commissioner: 0 };
+    for (const t of tx.transactions) counts[t.type] = (counts[t.type] || 0) + 1;
+    wrap.append(el("p", { class: "note" },
+      `${tx.transactions.length} completed · ${counts.trade || 0} trades · ` +
+      `${counts.waiver || 0} waivers · ${counts.free_agent || 0} free-agent moves` +
+      (counts.commissioner ? ` · ${counts.commissioner} commissioner` : "")));
+
+    const list = el("div", { class: "tx-list" });
+    let active = "all";
+    const labels = {
+      all: "All", trade: "Trades", waiver: "Waivers",
+      free_agent: "Free Agents", commissioner: "Commissioner",
+    };
+    const filterRow = el("div", { class: "tx-filter" });
+    const buttons = [];
+    function applyFilter() {
+      for (const b of buttons) b.classList.toggle("is-active", b.dataset.f === active);
+      for (const c of list.children) {
+        c.classList.toggle("is-hidden",
+          active !== "all" && c.dataset.type !== active);
+      }
+    }
+    for (const k of ["all", "trade", "waiver", "free_agent", "commissioner"]) {
+      if (k !== "all" && !counts[k]) continue;
+      const b = el("button", { type: "button", "data-f": k }, labels[k]);
+      b.addEventListener("click", () => { active = k; applyFilter(); });
+      buttons.push(b);
+      filterRow.append(b);
+    }
+    wrap.append(filterRow);
+
+    for (const t of tx.transactions) list.append(txCard(t, lg, tbi));
+    wrap.append(list);
+    applyFilter();
     return wrap;
   },
 
@@ -396,6 +440,91 @@ function gameCard(g) {
     row(g.t1), row(g.t2));
 }
 
+function fmtTxDate(ms) {
+  if (!ms) return "";
+  return new Date(ms).toLocaleDateString(undefined,
+    { month: "short", day: "numeric" });
+}
+
+function playerChip(pid, lg) {
+  const p = resolvePlayer(lg, pid);
+  return el("span", { class: "pchip" },
+    el("span", { class: "pchip__n" }, p.n),
+    el("span", { class: "pchip__pos" },
+      `${p.pos}${p.t ? " · " + p.t : ""}`));
+}
+
+function pickChip(pick, tbi) {
+  const from = pick.from_roster_id != null ? tbi[pick.from_roster_id] : null;
+  return el("span", { class: "pchip pchip--pick" },
+    el("span", { class: "pchip__n" },
+      `${pick.season || "?"} R${pick.round || "?"} pick`),
+    el("span", { class: "pchip__pos" },
+      from ? `from ${from.team_name}` : ""));
+}
+
+function wbChip(wb, tbi) {
+  const from = wb.from_roster_id != null ? tbi[wb.from_roster_id] : null;
+  return el("span", { class: "pchip pchip--wb" },
+    el("span", { class: "pchip__n" }, `$${wb.amount} FAAB`),
+    el("span", { class: "pchip__pos" },
+      from ? `from ${from.team_name}` : ""));
+}
+
+function txCard(tx, lg, tbi) {
+  const card = el("div", { class: "tx-card", "data-type": tx.type });
+  const typeLabel = {
+    trade: "TRADE", waiver: "WAIVER",
+    free_agent: "FREE AGENT", commissioner: "COMMISSIONER",
+  }[tx.type] || tx.type.toUpperCase();
+
+  card.append(el("div", { class: "tx-meta" },
+    el("span", { class: `tx-badge tx-badge--${tx.type}` }, typeLabel),
+    el("span", { class: "tx-when" },
+      `Wk ${tx.week}${tx.created ? " · " + fmtTxDate(tx.created) : ""}`)));
+
+  if (tx.type === "trade") {
+    const grid = el("div", { class: "tx-trade" });
+    for (const side of tx.sides || []) {
+      const col = el("div", { class: "tx-side" });
+      col.append(el("a", { class: "tx-team", href: `#/team/${side.roster_id}` },
+        avatar(side.avatar, side.team_name),
+        el("span", {}, side.team_name)));
+      col.append(el("div", { class: "tx-label" }, "received"));
+      const items = el("div", { class: "tx-items" });
+      for (const pid of side.received.players) items.append(playerChip(pid, lg));
+      for (const pk of side.received.picks) items.append(pickChip(pk, tbi));
+      for (const w of side.received.waiver_budget) items.append(wbChip(w, tbi));
+      if (!items.childNodes.length) items.append(el("span", { class: "pchip pchip--none" }, "(nothing)"));
+      col.append(items);
+      grid.append(col);
+    }
+    card.append(grid);
+  } else {
+    const head = el("div", { class: "tx-single" });
+    head.append(el("a", { class: "tx-team", href: `#/team/${tx.roster_id}` },
+      avatar(tx.avatar, tx.team_name),
+      el("span", {}, tx.team_name)));
+    if (tx.type === "waiver" && tx.bid != null) {
+      head.append(el("span", { class: "tx-bid" }, `$${tx.bid} FAAB`));
+    }
+    card.append(head);
+    if (tx.adds?.length) {
+      const items = el("span", { class: "tx-items" });
+      for (const pid of tx.adds) items.append(playerChip(pid, lg));
+      card.append(el("div", { class: "tx-line" },
+        el("span", { class: "tx-label tx-label--add" }, "Added"), items));
+    }
+    if (tx.drops?.length) {
+      const items = el("span", { class: "tx-items" });
+      for (const pid of tx.drops) items.append(playerChip(pid, lg));
+      card.append(el("div", { class: "tx-line" },
+        el("span", { class: "tx-label tx-label--drop" }, "Dropped"), items));
+    }
+  }
+  return card;
+}
+
 function rosterTable(title, ids, lg) {
   const table = el("table", { class: "table" });
   table.append(el("thead", {}, el("tr", {},
@@ -418,6 +547,7 @@ function section(eyebrow, title, body) {
 const ROUTES = [
   { pattern: "/", view: "home", title: "Home" },
   { pattern: "/standings", view: "standings", title: "Standings" },
+  { pattern: "/transactions", view: "transactions", title: "Transactions" },
   { pattern: "/playoffs", view: "playoffs", title: "Playoffs" },
   { pattern: "/power", view: "power", title: "Power Rankings" },
   { pattern: "/teams", view: "teams", title: "Teams" },

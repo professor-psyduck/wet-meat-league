@@ -94,6 +94,10 @@ class SleeperClient:
         """Per-roster matchup entries for a week (matchup_id, points)."""
         return self._get(f"league/{league_id}/matchups/{week}") or []
 
+    def get_transactions(self, league_id: str, week: int) -> list[dict]:
+        """All transactions for a week (trades, waivers, free agents)."""
+        return self._get(f"league/{league_id}/transactions/{week}") or []
+
     def get_winners_bracket(self, league_id: str) -> list[dict]:
         return self._get(f"league/{league_id}/winners_bracket") or []
 

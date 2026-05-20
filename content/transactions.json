@@ -1,0 +1,6014 @@
+{
+  "generated_at": "2026-05-20T00:27:40Z",
+  "league_name": "Wet Meat League 2.0",
+  "season": "2025",
+  "transactions": [
+    {
+      "adds": [
+        "4381"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1766673681079,
+      "drops": [
+        "11620"
+      ],
+      "id": "1309927997033160704",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 17
+    },
+    {
+      "adds": [
+        "5001"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1766603901722,
+      "drops": [
+        "6865"
+      ],
+      "id": "1309635321196974080",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 17
+    },
+    {
+      "adds": [
+        "CLE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1766597056718,
+      "drops": [
+        "PHI"
+      ],
+      "id": "1309606611165151232",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 17
+    },
+    {
+      "adds": [
+        "7611"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1766528662113,
+      "drops": [
+        "KC"
+      ],
+      "id": "1309319743404015616",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 16
+    },
+    {
+      "adds": [
+        "DET"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1766517377202,
+      "drops": [
+        "12512"
+      ],
+      "id": "1309272411052462080",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 16
+    },
+    {
+      "adds": [
+        "9487"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1766463539620,
+      "drops": [
+        "12484"
+      ],
+      "id": "1309046599871123456",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 16
+    },
+    {
+      "adds": [
+        "5848"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1766102778759,
+      "drops": [
+        "9756"
+      ],
+      "id": "1307533459148787712",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "9756"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1766102692663,
+      "drops": [
+        "8122"
+      ],
+      "id": "1307533098036002816",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "12493"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1766102561912,
+      "drops": [
+        "1339"
+      ],
+      "id": "1307532549626544128",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "11579"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1766101525435,
+      "drops": [
+        "7611"
+      ],
+      "id": "1307528202326917120",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "6865"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1766076250802,
+      "drops": [
+        "12508"
+      ],
+      "id": "1307422192832643072",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "8800"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1766075829447,
+      "drops": [
+        "10219"
+      ],
+      "id": "1307420425541685248",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "LAR"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1766066835793,
+      "drops": [
+        "SF"
+      ],
+      "id": "1307382703418523648",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "JAX"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1766029838796,
+      "drops": [
+        "8154"
+      ],
+      "id": "1307227526770225152",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 16
+    },
+    {
+      "adds": [
+        "5022"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1766011423292,
+      "drops": [
+        "8131"
+      ],
+      "id": "1307150286543941632",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "7523"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1766008270817,
+      "drops": [
+        "12499"
+      ],
+      "id": "1307137064109637632",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "10219"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1766008148672,
+      "drops": [
+        "11834"
+      ],
+      "id": "1307136551792185344",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 16
+    },
+    {
+      "adds": [
+        "KC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1765980866521,
+      "drops": [
+        "JAX"
+      ],
+      "id": "1307022122161278976",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 16
+    },
+    {
+      "adds": [
+        "3163"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 6,
+      "created": 1765928320114,
+      "drops": [
+        "12476"
+      ],
+      "id": "1306801726556233728",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 15
+    },
+    {
+      "adds": [
+        "7607"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 16,
+      "created": 1765925994148,
+      "drops": [
+        "9504"
+      ],
+      "id": "1306791970747736064",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 15
+    },
+    {
+      "adds": [
+        "BUF"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 0,
+      "created": 1765915437785,
+      "drops": [],
+      "id": "1306747694147960832",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 15
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1765915419627,
+      "drops": [
+        "CLE"
+      ],
+      "id": "1306747617992011776",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "11646"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 0,
+      "created": 1765904658623,
+      "drops": [
+        "4988"
+      ],
+      "id": "1306702483069874176",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 15
+    },
+    {
+      "adds": [
+        "3257"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 0,
+      "created": 1765904559010,
+      "drops": [],
+      "id": "1306702065258463232",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 15
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1765904501070,
+      "drops": [
+        "6803"
+      ],
+      "id": "1306701822244687872",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1765904439222,
+      "drops": [
+        "10226"
+      ],
+      "id": "1306701562835394560",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "12533"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1765730759874,
+      "drops": [
+        "10219"
+      ],
+      "id": "1305973098847162368",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "8154"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1765661027848,
+      "drops": [],
+      "id": "1305680621535789056",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "11370"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1765658994226,
+      "drops": [
+        "8116"
+      ],
+      "id": "1305672091906883584",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "11435"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1765658771200,
+      "drops": [
+        "6783"
+      ],
+      "id": "1305671156468043776",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "8116"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1765658715701,
+      "drops": [
+        "12524"
+      ],
+      "id": "1305670923688374272",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "8131"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1765654792225,
+      "drops": [
+        "5001"
+      ],
+      "id": "1305654467433082880",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "CAR"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "created": 1765499588668,
+      "drops": [
+        "BAL"
+      ],
+      "id": "1305003496533131264",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "11586"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1765492235280,
+      "drops": [
+        "9487"
+      ],
+      "id": "1304972654188449792",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "11655"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1765473652083,
+      "drops": [],
+      "id": "1304894710615150592",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1765422833617,
+      "drops": [
+        "19"
+      ],
+      "id": "1304681562515726336",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "12524"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1765396535837,
+      "drops": [
+        "6804"
+      ],
+      "id": "1304571261636075520",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "PIT"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1765393006193,
+      "drops": [],
+      "id": "1304556457231929344",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "2307"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1765392929526,
+      "drops": [],
+      "id": "1304556135671406592",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "CHI"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1765389789833,
+      "drops": [
+        "ATL"
+      ],
+      "id": "1304542966840299520",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "8183"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1765381669606,
+      "drops": [
+        "9225"
+      ],
+      "id": "1304508908143915008",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 15
+    },
+    {
+      "adds": [
+        "JAX"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 10,
+      "created": 1765381580284,
+      "drops": [
+        "MIA"
+      ],
+      "id": "1304508533496107008",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 15
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1765377736710,
+      "drops": [
+        "WAS"
+      ],
+      "id": "1304492412382507008",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 15
+    },
+    {
+      "adds": [
+        "5967"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 0,
+      "created": 1765376747125,
+      "drops": [
+        "5970"
+      ],
+      "id": "1304488261762191360",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 15
+    },
+    {
+      "adds": [
+        "NO"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 8,
+      "created": 1765330109888,
+      "drops": [
+        "LAR"
+      ],
+      "id": "1304292651012472832",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 14
+    },
+    {
+      "adds": [
+        "12508"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 6,
+      "created": 1765328479792,
+      "drops": [
+        "11625"
+      ],
+      "id": "1304285813890113536",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 14
+    },
+    {
+      "adds": [
+        "5001"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 1,
+      "created": 1765311653722,
+      "drops": [
+        "5022"
+      ],
+      "id": "1304215240237383680",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 14
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1765297603365,
+      "drops": [
+        "5870"
+      ],
+      "id": "1304156308773015552",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 14
+    },
+    {
+      "adds": [
+        "SF"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1765290032870,
+      "drops": [
+        "KC"
+      ],
+      "id": "1304124555815559168",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 14
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1765278982793,
+      "drops": [
+        "3163"
+      ],
+      "id": "1304078208429232128",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 14
+    },
+    {
+      "adds": [
+        "11643"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 14,
+      "created": 1765209060268,
+      "drops": [
+        "12495"
+      ],
+      "id": "1303784932107116544",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 14
+    },
+    {
+      "adds": [
+        "8122"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1765123181256,
+      "drops": [
+        "8111"
+      ],
+      "id": "1303424729423544320",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 14
+    },
+    {
+      "adds": [
+        "10222"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1765072232766,
+      "drops": [
+        "9508"
+      ],
+      "id": "1303211035963985920",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 14
+    },
+    {
+      "adds": [
+        "12495"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "created": 1764892184443,
+      "drops": [
+        "12498"
+      ],
+      "id": "1302455858566823936",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 14
+    },
+    {
+      "adds": [
+        "12484"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1764876926686,
+      "drops": [
+        "12493"
+      ],
+      "id": "1302391862895575040",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 14
+    },
+    {
+      "adds": [
+        "MIN"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1764864166786,
+      "drops": [
+        "9500"
+      ],
+      "id": "1302338343995998208",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 14
+    },
+    {
+      "adds": [
+        "10219"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1764841624893,
+      "drops": [
+        "12533"
+      ],
+      "id": "1302243796439822336",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 14
+    },
+    {
+      "adds": [
+        "PHI"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1764790768555,
+      "drops": [
+        "SF"
+      ],
+      "id": "1302030489497894912",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 14
+    },
+    {
+      "adds": [
+        "12517"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 2,
+      "created": 1764776865661,
+      "drops": [
+        "LAC"
+      ],
+      "id": "1301972176534003712",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 14
+    },
+    {
+      "adds": [
+        "3163"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 4,
+      "created": 1764768365932,
+      "drops": [
+        "12508"
+      ],
+      "id": "1301936526090842112",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 14
+    },
+    {
+      "adds": [
+        "MIA"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1764731183787,
+      "drops": [
+        "JAX"
+      ],
+      "id": "1301780572871356416",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [
+        "2216"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 11,
+      "created": 1764720447932,
+      "drops": [
+        "8676"
+      ],
+      "id": "1301735543427579904",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [
+        "11647"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "bid": 12,
+      "created": 1764693647947,
+      "drops": [
+        "5844"
+      ],
+      "id": "1301623136143310848",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [
+        "11834"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1764692828708,
+      "drops": [
+        "11655"
+      ],
+      "id": "1301619700005871616",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [
+        "4892"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1764692594462,
+      "drops": [
+        "7523"
+      ],
+      "id": "1301618717506961408",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [
+        "KC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1764692576942,
+      "drops": [
+        "PHI"
+      ],
+      "id": "1301618644022759424",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [
+        "11625"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 3,
+      "created": 1764652017296,
+      "drops": [
+        "11435"
+      ],
+      "id": "1301448524537270272",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [
+        "WAS"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 0,
+      "created": 1764595361028,
+      "drops": [
+        "9506"
+      ],
+      "id": "1301210890929975296",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1764523283923,
+      "drops": [
+        "9756"
+      ],
+      "id": "1300908577640157184",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 13
+    },
+    {
+      "adds": [
+        "TB"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1764368511254,
+      "drops": [
+        "NO"
+      ],
+      "id": "1300259414011281408",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 13
+    },
+    {
+      "adds": [
+        "9225"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1764216697083,
+      "drops": [
+        "8183"
+      ],
+      "id": "1299622659230818304",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 13
+    },
+    {
+      "adds": [
+        "9480"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1764186092419,
+      "drops": [
+        "8136"
+      ],
+      "id": "1299494293961973760",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 13
+    },
+    {
+      "adds": [
+        "SF"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1764177720215,
+      "drops": [
+        "DET"
+      ],
+      "id": "1299459178397446144",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 13
+    },
+    {
+      "adds": [
+        "PHI"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1764176960671,
+      "drops": [
+        "LV"
+      ],
+      "id": "1299455992639033344",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 13
+    },
+    {
+      "adds": [
+        "JAX"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1764169666945,
+      "drops": [
+        "GB"
+      ],
+      "id": "1299425400534863872",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [
+        "5970"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 7,
+      "created": 1764164991184,
+      "drops": [
+        "4177"
+      ],
+      "id": "1299405788971798528",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 13
+    },
+    {
+      "adds": [
+        "NO"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 1,
+      "created": 1764094644549,
+      "drops": [
+        "3257"
+      ],
+      "id": "1299110733799231488",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 12
+    },
+    {
+      "adds": [
+        "12476"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 11,
+      "created": 1764094254788,
+      "drops": [],
+      "id": "1299109099023130624",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 12
+    },
+    {
+      "adds": [
+        "LAC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 5,
+      "created": 1764078001890,
+      "drops": [
+        "3163"
+      ],
+      "id": "1299040929423831040",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 12
+    },
+    {
+      "adds": [
+        "7523"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1764001479055,
+      "drops": [
+        "4892"
+      ],
+      "id": "1298719969395118080",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 12
+    },
+    {
+      "adds": [
+        "4098"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1763917350000,
+      "drops": [
+        "10222"
+      ],
+      "id": "1298367106559008768",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 12
+    },
+    {
+      "adds": [
+        "9506"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1763824281344,
+      "drops": [
+        "IND"
+      ],
+      "id": "1297976748327063552",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 12
+    },
+    {
+      "adds": [
+        "10222"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1763748913343,
+      "drops": [
+        "5967"
+      ],
+      "id": "1297660632019001344",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 12
+    },
+    {
+      "adds": [
+        "4037"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1763655024033,
+      "drops": [
+        "6149"
+      ],
+      "id": "1297266831706312704",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 12
+    },
+    {
+      "adds": [
+        "12474",
+        "12527",
+        "1479",
+        "2449"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1763651353735,
+      "drops": [
+        "12474",
+        "12527",
+        "1479",
+        "2449"
+      ],
+      "id": "1297251437364940800",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3,
+        6
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "commissioner",
+      "week": 12
+    },
+    {
+      "created": 1763643911859,
+      "id": "1297220223870447616",
+      "roster_ids": [
+        3,
+        6
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+          "manager": "RoombaCentral",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 6,
+                "round": 3,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "12474",
+              "1479"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 3,
+          "team_name": "CeeDeez Nuts"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+          "manager": "bostwik",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 3,
+                "round": 7,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "12527",
+              "2449"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 6,
+          "team_name": "JackinGoffInLaportaPotty"
+        }
+      ],
+      "type": "trade",
+      "week": 12
+    },
+    {
+      "adds": [
+        "10213"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "bid": 0,
+      "created": 1763595435603,
+      "drops": [
+        "4098"
+      ],
+      "id": "1297016899716009984",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "waiver",
+      "week": 12
+    },
+    {
+      "adds": [
+        "10226"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1763579383596,
+      "drops": [
+        "12540"
+      ],
+      "id": "1296949572718858240",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 12
+    },
+    {
+      "created": 1763576926350,
+      "id": "1296939266286317568",
+      "roster_ids": [
+        3,
+        6
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+          "manager": "RoombaCentral",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 6,
+                "round": 7,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "12527",
+              "2449"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 3,
+          "team_name": "CeeDeez Nuts"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+          "manager": "bostwik",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 3,
+                "round": 3,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "12474",
+              "1479"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 6,
+          "team_name": "JackinGoffInLaportaPotty"
+        }
+      ],
+      "type": "trade",
+      "week": 12
+    },
+    {
+      "created": 1763574809094,
+      "id": "1296930385870987264",
+      "roster_ids": [
+        5,
+        6
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+          "manager": "__hellbent",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 6,
+                "round": 5,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "11604",
+              "11627"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 5,
+          "team_name": "Amon-Ra Doggin "
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+          "manager": "bostwik",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 5,
+                "round": 2,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "7553",
+              "8144"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 6,
+          "team_name": "JackinGoffInLaportaPotty"
+        }
+      ],
+      "type": "trade",
+      "week": 12
+    },
+    {
+      "adds": [
+        "4177"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "created": 1763572241418,
+      "drops": [
+        "11637"
+      ],
+      "id": "1296919616257269760",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "free_agent",
+      "week": 12
+    },
+    {
+      "adds": [
+        "ATL"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 0,
+      "created": 1763572122508,
+      "drops": [
+        "KC"
+      ],
+      "id": "1296919117508403200",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 12
+    },
+    {
+      "adds": [
+        "3163"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 6,
+      "created": 1763571046040,
+      "drops": [
+        "10859"
+      ],
+      "id": "1296914602478559232",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 12
+    },
+    {
+      "adds": [
+        "DET"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1763562480713,
+      "drops": [
+        "CHI"
+      ],
+      "id": "1296878676889079808",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 12
+    },
+    {
+      "adds": [
+        "LAR"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 0,
+      "created": 1763517570576,
+      "drops": [
+        "LAC"
+      ],
+      "id": "1296690310121811968",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "7090"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 0,
+      "created": 1763517508760,
+      "drops": [
+        "10213"
+      ],
+      "id": "1296690050846699520",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "LV"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1763490835102,
+      "drops": [
+        "ATL"
+      ],
+      "id": "1296578173420462080",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "11435"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 5,
+      "created": 1763488335578,
+      "drops": [
+        "11647"
+      ],
+      "id": "1296567689652760576",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "CLE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 0,
+      "created": 1763486258360,
+      "drops": [],
+      "id": "1296558977168986112",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "4098"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "bid": 0,
+      "created": 1763425065368,
+      "drops": [
+        "11199"
+      ],
+      "id": "1296302315157880833",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "3257"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 0,
+      "created": 1763352995581,
+      "drops": [
+        "4943"
+      ],
+      "id": "1296000032566169600",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "CHI"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1763298728310,
+      "drops": [
+        "DET"
+      ],
+      "id": "1295772419130167296",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "11597"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "created": 1763274567635,
+      "drops": [
+        "7891"
+      ],
+      "id": "1295671081914368000",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "7891"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "created": 1763274536261,
+      "drops": [
+        "6806"
+      ],
+      "id": "1295670950322278400",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "10232"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1763142106506,
+      "drops": [
+        "3163"
+      ],
+      "id": "1295115499675324416",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "4983"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 1,
+      "created": 1763114264073,
+      "drops": [
+        "10219"
+      ],
+      "id": "1294998720043040768",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "8183"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1763075076542,
+      "drops": [
+        "2307"
+      ],
+      "id": "1294834355625021440",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "created": 1763044402254,
+      "id": "1294705698336178176",
+      "roster_ids": [
+        5,
+        6
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+          "manager": "__hellbent",
+          "received": {
+            "picks": [],
+            "players": [],
+            "waiver_budget": []
+          },
+          "roster_id": 5,
+          "team_name": "Amon-Ra Doggin "
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+          "manager": "bostwik",
+          "received": {
+            "picks": [],
+            "players": [
+              "11604"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 6,
+          "team_name": "JackinGoffInLaportaPotty"
+        }
+      ],
+      "type": "trade",
+      "week": 11
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1763044303961,
+      "drops": [
+        "5001"
+      ],
+      "id": "1294705286069637120",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "12533"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1763044238785,
+      "drops": [
+        "12533"
+      ],
+      "id": "1294705012697497600",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2,
+        6
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "commissioner",
+      "week": 11
+    },
+    {
+      "adds": [
+        "4892",
+        "8137"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1763044161158,
+      "drops": [
+        "4892",
+        "8137"
+      ],
+      "id": "1294704687106228224",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5,
+        6
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "commissioner",
+      "week": 11
+    },
+    {
+      "adds": [
+        "12508"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1763044141365,
+      "drops": [
+        "12508"
+      ],
+      "id": "1294704604088381440",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2,
+        5
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "commissioner",
+      "week": 11
+    },
+    {
+      "adds": [
+        "4881",
+        "5927"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1763044113181,
+      "drops": [
+        "4881",
+        "5927"
+      ],
+      "id": "1294704485876137984",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2,
+        6
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "commissioner",
+      "week": 11
+    },
+    {
+      "adds": [
+        "5001"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1763043566717,
+      "drops": [
+        "4983"
+      ],
+      "id": "1294702193844187136",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "8111"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1762994537601,
+      "drops": [
+        "7591"
+      ],
+      "id": "1294496550826807296",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "1339"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1762994476688,
+      "drops": [
+        "8205"
+      ],
+      "id": "1294496295339180032",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "8132"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1762976534303,
+      "drops": [
+        "7090"
+      ],
+      "id": "1294421039521988608",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "10213"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "created": 1762972962244,
+      "drops": [
+        "8188"
+      ],
+      "id": "1294406057220661248",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "LAC"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "created": 1762972534759,
+      "drops": [
+        "CAR"
+      ],
+      "id": "1294404264218599424",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "created": 1762972186582,
+      "id": "1294402803858415616",
+      "roster_ids": [
+        2,
+        5,
+        6
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+          "manager": "Prof_Ducky69fdf",
+          "received": {
+            "picks": [],
+            "players": [
+              "4881",
+              "5927"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 2,
+          "team_name": "here so I wont get fined"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+          "manager": "__hellbent",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 6,
+                "round": 8,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "11604",
+              "12508"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 5,
+          "team_name": "Amon-Ra Doggin "
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+          "manager": "bostwik",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 5,
+                "round": 2,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "12533",
+              "4892",
+              "8137"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 6,
+          "team_name": "JackinGoffInLaportaPotty"
+        }
+      ],
+      "type": "trade",
+      "week": 11
+    },
+    {
+      "adds": [
+        "KC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1762970315849,
+      "drops": [
+        "JAX"
+      ],
+      "id": "1294394957435510784",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "ATL"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1762969812286,
+      "drops": [
+        "BUF"
+      ],
+      "id": "1294392845339209728",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "2307"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1762965797242,
+      "drops": [
+        "4098"
+      ],
+      "id": "1294376005019897856",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "GB"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1762965726513,
+      "drops": [
+        "LAR"
+      ],
+      "id": "1294375708360994816",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "BAL"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 5,
+      "created": 1762965390566,
+      "drops": [
+        "CLE"
+      ],
+      "id": "1294374299301314560",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "NE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 5,
+      "created": 1762960563909,
+      "drops": [
+        "TB"
+      ],
+      "id": "1294354054830387200",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "421"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 3,
+      "created": 1762917809914,
+      "drops": [
+        "11560"
+      ],
+      "id": "1294174731578114048",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 10
+    },
+    {
+      "adds": [
+        "6783"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "bid": 6,
+      "created": 1762912466889,
+      "drops": [
+        "6271"
+      ],
+      "id": "1294152321311195136",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "waiver",
+      "week": 10
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1762850026719,
+      "drops": [
+        "8122"
+      ],
+      "id": "1293890428256387072",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "10219"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1762713439767,
+      "drops": [],
+      "id": "1293317541053079552",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "LAR"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1762699224717,
+      "drops": [
+        "LAC"
+      ],
+      "id": "1293257918816190464",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "11199"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1762698521405,
+      "drops": [
+        "5001"
+      ],
+      "id": "1293254968911876096",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "4943"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1762640644945,
+      "drops": [
+        "421"
+      ],
+      "id": "1293012217444208640",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "6149"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1762501451609,
+      "drops": [
+        "12501"
+      ],
+      "id": "1292428398278250496",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "7591"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1762469247195,
+      "drops": [
+        "PHI"
+      ],
+      "id": "1292293323175792640",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "11565"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1762469212179,
+      "drops": [
+        "4039"
+      ],
+      "id": "1292293176308006912",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "6271"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1762400427596,
+      "drops": [
+        "11610"
+      ],
+      "id": "1292004672852209664",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "TB"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1762365908153,
+      "drops": [],
+      "id": "1291859887818543104",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "CAR"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 0,
+      "created": 1762310801501,
+      "drops": [
+        "LAR"
+      ],
+      "id": "1291628753767649280",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "CLE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 5,
+      "created": 1762297466079,
+      "drops": [
+        "NE"
+      ],
+      "id": "1291572820949606400",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "BUF"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 5,
+      "created": 1762278184586,
+      "drops": [
+        "GB"
+      ],
+      "id": "1291491948506398720",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "421"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 0,
+      "created": 1762235522150,
+      "drops": [
+        "12517"
+      ],
+      "id": "1291313009280430080",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "5012"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 5,
+      "created": 1762215733589,
+      "drops": [
+        "4147"
+      ],
+      "id": "1291230010039861248",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "9487"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1762175734171,
+      "drops": [
+        "8132"
+      ],
+      "id": "1291062240325165056",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "12517"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1761763132483,
+      "drops": [
+        "5012"
+      ],
+      "id": "1289331663414792192",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 9
+    },
+    {
+      "adds": [
+        "4147"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1761756623478,
+      "drops": [
+        "PIT"
+      ],
+      "id": "1289304362664882176",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 9
+    },
+    {
+      "adds": [
+        "HOU"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1761754367162,
+      "drops": [
+        "CIN"
+      ],
+      "id": "1289294898993844224",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 9
+    },
+    {
+      "adds": [
+        "JAX"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1761754189488,
+      "drops": [
+        "BUF"
+      ],
+      "id": "1289294153775063040",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 9
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1761753833151,
+      "drops": [
+        "8111"
+      ],
+      "id": "1289292659189374976",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 9
+    },
+    {
+      "adds": [
+        "12540"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 0,
+      "created": 1761745928254,
+      "drops": [
+        "5995"
+      ],
+      "id": "1289259503648243712",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "11610"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "bid": 1,
+      "created": 1761716824424,
+      "drops": [
+        "KC"
+      ],
+      "id": "1289137433337683968",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "8167"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "bid": 1,
+      "created": 1761716769658,
+      "drops": [
+        "4454"
+      ],
+      "id": "1289137203632418816",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "LAR"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 3,
+      "created": 1761711024484,
+      "drops": [
+        "TB"
+      ],
+      "id": "1289113106621927424",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "4098"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 11,
+      "created": 1761700396040,
+      "drops": [
+        "12490"
+      ],
+      "id": "1289068527696740353",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "DET"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1761673134824,
+      "drops": [
+        "ATL"
+      ],
+      "id": "1288954185873645568",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "5012"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 0,
+      "created": 1761658418572,
+      "drops": [],
+      "id": "1288892461439029248",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "3163"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1761657404604,
+      "drops": [],
+      "id": "1288888208544788480",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1761647850274,
+      "drops": [
+        "6783"
+      ],
+      "id": "1288848134780260352",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "11655"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 12,
+      "created": 1761573424118,
+      "drops": [
+        "11626"
+      ],
+      "id": "1288535968856436736",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "8111"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1761444032927,
+      "drops": [],
+      "id": "1287993262866432000",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "19"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1761410704087,
+      "drops": [
+        "3163"
+      ],
+      "id": "1287853471583735808",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "9508"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1761355598445,
+      "drops": [
+        "5848"
+      ],
+      "id": "1287622341769035776",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "KC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1761348155866,
+      "drops": [
+        "11783"
+      ],
+      "id": "1287591125330202624",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "CIN"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1761256350032,
+      "drops": [
+        "8183"
+      ],
+      "id": "1287206063753408512",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "5001"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1761256130093,
+      "drops": [
+        "4144"
+      ],
+      "id": "1287205141258207232",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "8122"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 1,
+      "created": 1761184324056,
+      "drops": [
+        "4098"
+      ],
+      "id": "1286903964914176000",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "created": 1761181612525,
+      "id": "1286892591924678656",
+      "roster_ids": [
+        5,
+        6
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+          "manager": "__hellbent",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 6,
+                "round": 3,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "11584"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 5,
+          "team_name": "Amon-Ra Doggin "
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+          "manager": "bostwik",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 5,
+                "round": 1,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "4988"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 6,
+          "team_name": "JackinGoffInLaportaPotty"
+        }
+      ],
+      "type": "trade",
+      "week": 8
+    },
+    {
+      "adds": [
+        "12508"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1761180898308,
+      "drops": [
+        "8122"
+      ],
+      "id": "1286889596281421824",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "11626"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1761166694785,
+      "drops": [
+        "1339"
+      ],
+      "id": "1286830022392315904",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "7090"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1761165792351,
+      "drops": [
+        "11650"
+      ],
+      "id": "1286826237309779968",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1761154409255,
+      "drops": [
+        "10213"
+      ],
+      "id": "1286778493144678400",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "9504"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1761153334981,
+      "drops": [
+        "8111"
+      ],
+      "id": "1286773987312934912",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "5995"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 0,
+      "created": 1761148713525,
+      "drops": [
+        "9482"
+      ],
+      "id": "1286754603517374464",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "12534"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 0,
+      "created": 1761148620726,
+      "drops": [],
+      "id": "1286754214290132992",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "LAC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1761147890169,
+      "drops": [
+        "KC"
+      ],
+      "id": "1286751150116184064",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "12485"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 15,
+      "created": 1761108374139,
+      "drops": [
+        "7571"
+      ],
+      "id": "1286585407869300736",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "TB"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 0,
+      "created": 1761087783891,
+      "drops": [
+        "CHI"
+      ],
+      "id": "1286499046113951744",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "12498"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 2,
+      "created": 1761087742982,
+      "drops": [
+        "10219"
+      ],
+      "id": "1286498874520784896",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "ATL"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 1,
+      "created": 1761070603181,
+      "drops": [
+        "LAR"
+      ],
+      "id": "1286426984989065216",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "12493"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 5,
+      "created": 1761070384364,
+      "drops": [
+        "9757"
+      ],
+      "id": "1286426067204071424",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "8142"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 3,
+      "created": 1761057859610,
+      "drops": [],
+      "id": "1286373534582456320",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1761057780358,
+      "drops": [
+        "7591"
+      ],
+      "id": "1286373202171273216",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1761047846510,
+      "drops": [
+        "2216"
+      ],
+      "id": "1286331536597094400",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "BUF"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 1,
+      "created": 1761043448951,
+      "drops": [
+        "CLE"
+      ],
+      "id": "1286313091893567488",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "8111"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 5,
+      "created": 1761021910455,
+      "drops": [
+        "2505"
+      ],
+      "id": "1286222752893632512",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "11650"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1760829288129,
+      "drops": [
+        "4037"
+      ],
+      "id": "1285414836305428480",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "LAR"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1760819612428,
+      "drops": [
+        "JAX"
+      ],
+      "id": "1285374253469822976",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "7553"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1760766095991,
+      "drops": [
+        "9508"
+      ],
+      "id": "1285149789268250624",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "10213"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1760727890253,
+      "drops": [
+        "3200"
+      ],
+      "id": "1284989542784303104",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "9508"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1760673927235,
+      "drops": [
+        "7562"
+      ],
+      "id": "1284763205486276608",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "7562"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1760668278801,
+      "drops": [
+        "7553"
+      ],
+      "id": "1284739514236932096",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "4144"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1760631265396,
+      "drops": [
+        "7090"
+      ],
+      "id": "1284584268764286976",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "CHI"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "created": 1760592318512,
+      "drops": [
+        "BUF"
+      ],
+      "id": "1284420913692971008",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "1339"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1760548931456,
+      "drops": [
+        "8123"
+      ],
+      "id": "1284238935186235392",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "9482"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 0,
+      "created": 1760543684650,
+      "drops": [
+        "5995"
+      ],
+      "id": "1284216928491048960",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1760543583105,
+      "drops": [
+        "5012"
+      ],
+      "id": "1284216502576238592",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "KC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 5,
+      "created": 1760541977034,
+      "drops": [
+        "LAR"
+      ],
+      "id": "1284209766226231296",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "4454"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "bid": 27,
+      "created": 1760496786159,
+      "drops": [
+        "10213"
+      ],
+      "id": "1284020221958443008",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "waiver",
+      "week": 6
+    },
+    {
+      "adds": [
+        "11647"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 12,
+      "created": 1760459885917,
+      "drops": [
+        "12498"
+      ],
+      "id": "1283865451130007552",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 6
+    },
+    {
+      "adds": [
+        "5022"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 7,
+      "created": 1760453506936,
+      "drops": [
+        "4033"
+      ],
+      "id": "1283838695744483328",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 6
+    },
+    {
+      "adds": [
+        "5870"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 5,
+      "created": 1760409996855,
+      "drops": [
+        "4981"
+      ],
+      "id": "1283656201237696512",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 6
+    },
+    {
+      "adds": [
+        "8122"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1760282381021,
+      "drops": [
+        "7607"
+      ],
+      "id": "1283120941630517248",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "JAX"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1760246342612,
+      "drops": [
+        "LV"
+      ],
+      "id": "1282969785591681024",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "CLE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1760230279533,
+      "drops": [],
+      "id": "1282902412155158528",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "11783"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1760160125396,
+      "drops": [
+        "11610"
+      ],
+      "id": "1282608164373565440",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "3200"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1760141677640,
+      "drops": [],
+      "id": "1282530788876754944",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "8123"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1759984725919,
+      "drops": [
+        "12508"
+      ],
+      "id": "1281872485649764352",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "LV"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1759941385377,
+      "drops": [
+        "ARI"
+      ],
+      "id": "1281690702241075200",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1759924552109,
+      "drops": [
+        "MIN"
+      ],
+      "id": "1281620098397765632",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "9757"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1759897097007,
+      "drops": [
+        "11586"
+      ],
+      "id": "1281504943353634816",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "adds": [
+        "LAR"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 5,
+      "created": 1759890157214,
+      "drops": [
+        "CLE"
+      ],
+      "id": "1281475835752116224",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "adds": [
+        "8188"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 0,
+      "created": 1759874728953,
+      "drops": [
+        "7670"
+      ],
+      "id": "1281411124935274496",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "adds": [
+        "11560"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 2,
+      "created": 1759874610413,
+      "drops": [
+        "5849"
+      ],
+      "id": "1281410627742494720",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "adds": [
+        "12498"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1759868314334,
+      "drops": [
+        "9480"
+      ],
+      "id": "1281384220068970496",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "adds": [
+        "4098"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 1,
+      "created": 1759865624062,
+      "drops": [
+        "5870"
+      ],
+      "id": "1281372936250351616",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "adds": [
+        "NE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 5,
+      "created": 1759855721072,
+      "drops": [
+        "DET"
+      ],
+      "id": "1281331400103952384",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "adds": [
+        "GB"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 7,
+      "created": 1759852356088,
+      "drops": [
+        "BAL"
+      ],
+      "id": "1281317286333915136",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "created": 1759586117270,
+      "id": "1280200599794614272",
+      "roster_ids": [
+        5,
+        8
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+          "manager": "__hellbent",
+          "received": {
+            "picks": [],
+            "players": [
+              "12481",
+              "12530"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 5,
+          "team_name": "Amon-Ra Doggin "
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+          "manager": "laidbacula",
+          "received": {
+            "picks": [],
+            "players": [
+              "7049",
+              "7543"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 8,
+          "team_name": "Brave Mujahideen Fighters"
+        }
+      ],
+      "type": "trade",
+      "week": 5
+    },
+    {
+      "adds": [
+        "4988"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1759585432286,
+      "drops": [
+        "11199"
+      ],
+      "id": "1280197726763507712",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 5
+    },
+    {
+      "adds": [
+        "7021"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1759561473563,
+      "drops": [
+        "9494"
+      ],
+      "id": "1280097236599967744",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 5
+    },
+    {
+      "adds": [
+        "11610"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1759423008222,
+      "drops": [],
+      "id": "1279516470866366464",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 5
+    },
+    {
+      "adds": [
+        "12508"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1759368585449,
+      "drops": [
+        "12541"
+      ],
+      "id": "1279288205211865088",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 5
+    },
+    {
+      "adds": [
+        "7607"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1759350567529,
+      "drops": [
+        "11560"
+      ],
+      "id": "1279212632577949696",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 5
+    },
+    {
+      "adds": [
+        "11199"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1759339819956,
+      "drops": [
+        "11655"
+      ],
+      "id": "1279167553989545984",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 5
+    },
+    {
+      "adds": [
+        "IND"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1759339487875,
+      "drops": [
+        "8188"
+      ],
+      "id": "1279166161140862977",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 5
+    },
+    {
+      "adds": [
+        "9480"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1759335032036,
+      "drops": [
+        "3200"
+      ],
+      "id": "1279147471997517824",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 5
+    },
+    {
+      "adds": [
+        "8136"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 2,
+      "created": 1759333286007,
+      "drops": [
+        "8917"
+      ],
+      "id": "1279140148621119488",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "adds": [
+        "5995"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 0,
+      "created": 1759329866876,
+      "drops": [
+        "4988"
+      ],
+      "id": "1279125807746256896",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 5
+    },
+    {
+      "adds": [
+        "CLE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 5,
+      "created": 1759278483739,
+      "drops": [
+        "GB"
+      ],
+      "id": "1278910291245039616",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [
+        "9494"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "bid": 9,
+      "created": 1759278299920,
+      "drops": [
+        "3321"
+      ],
+      "id": "1278909520256442368",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [
+        "12474"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 41,
+      "created": 1759247579407,
+      "drops": [
+        "12495"
+      ],
+      "id": "1278780669077504000",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [
+        "2505"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 5,
+      "created": 1759237936484,
+      "drops": [
+        "12519"
+      ],
+      "id": "1278740223731187712",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [
+        "5848"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "bid": 20,
+      "created": 1759211139417,
+      "drops": [
+        "4098"
+      ],
+      "id": "1278627828685889536",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [
+        "ARI"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1759175698388,
+      "drops": [
+        "HOU"
+      ],
+      "id": "1278479178236186624",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [
+        "BAL"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 5,
+      "created": 1759157211533,
+      "drops": [
+        "LAC"
+      ],
+      "id": "1278401638746329088",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [
+        "7553"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 25,
+      "created": 1759088697875,
+      "drops": [
+        "1339"
+      ],
+      "id": "1278114271640686592",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [
+        "9500"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1759078552384,
+      "drops": [
+        "4066"
+      ],
+      "id": "1278071718367232000",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 4
+    },
+    {
+      "adds": [
+        "7567"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "bid": 10,
+      "created": 1759078503670,
+      "drops": [
+        "10222"
+      ],
+      "id": "1278071514045886464",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [
+        "12495"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1758946834650,
+      "drops": [],
+      "id": "1277519254144446464",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 4
+    },
+    {
+      "adds": [
+        "8188"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1758828561666,
+      "drops": [
+        "10444"
+      ],
+      "id": "1277023181294551040",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 4
+    },
+    {
+      "adds": [
+        "7090"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1758817635663,
+      "drops": [
+        "7528"
+      ],
+      "id": "1276977354316480512",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 4
+    },
+    {
+      "adds": [
+        "4098"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1758766664904,
+      "drops": [
+        "8154"
+      ],
+      "id": "1276763567458111488",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 4
+    },
+    {
+      "adds": [
+        "HOU"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1758732647977,
+      "drops": [
+        "TB"
+      ],
+      "id": "1276620890129317888",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 4
+    },
+    {
+      "adds": [
+        "8917"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 5,
+      "created": 1758727758630,
+      "drops": [],
+      "id": "1276600382721622016",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 4
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1758727703419,
+      "drops": [
+        "8136"
+      ],
+      "id": "1276600151149940736",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 4
+    },
+    {
+      "adds": [
+        "3200"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 15,
+      "created": 1758687863994,
+      "drops": [
+        "1689"
+      ],
+      "id": "1276433052490268672",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 3
+    },
+    {
+      "adds": [
+        "11586"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 5,
+      "created": 1758678968395,
+      "drops": [
+        "12469"
+      ],
+      "id": "1276395741643821056",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 3
+    },
+    {
+      "adds": [
+        "12519"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 5,
+      "created": 1758678943750,
+      "drops": [
+        "7587"
+      ],
+      "id": "1276395638275207168",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 3
+    },
+    {
+      "adds": [
+        "10219"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 14,
+      "created": 1758677550007,
+      "drops": [
+        "5848"
+      ],
+      "id": "1276389792493355008",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 3
+    },
+    {
+      "adds": [
+        "10213"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "bid": 24,
+      "created": 1758652231146,
+      "drops": [
+        "4950"
+      ],
+      "id": "1276283597489184768",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "waiver",
+      "week": 3
+    },
+    {
+      "adds": [
+        "LAC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1758649970247,
+      "drops": [
+        "ATL"
+      ],
+      "id": "1276274114595659776",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 3
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1758649628832,
+      "drops": [
+        "1234"
+      ],
+      "id": "1276272682597359616",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "DET"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 5,
+      "created": 1758641186204,
+      "drops": [
+        "BAL"
+      ],
+      "id": "1276237271644770304",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 3
+    },
+    {
+      "adds": [
+        "5012"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 8,
+      "created": 1758624250255,
+      "drops": [],
+      "id": "1276166237130334208",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 3
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1758624136764,
+      "drops": [
+        "4137"
+      ],
+      "id": "1276165761114570752",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "11560"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1758419364531,
+      "drops": [
+        "9504"
+      ],
+      "id": "1275306884118622208",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "1339"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1758244664493,
+      "drops": [
+        "7553"
+      ],
+      "id": "1274574139050446848",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "1234"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1758141905238,
+      "drops": [
+        "8125"
+      ],
+      "id": "1274143135496151040",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "6804"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1758141141336,
+      "drops": [
+        "9500"
+      ],
+      "id": "1274139931454750720",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "8136"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1758128083243,
+      "drops": [
+        "4098"
+      ],
+      "id": "1274085161847250944",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "7587"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1758126782425,
+      "drops": [
+        "5012"
+      ],
+      "id": "1274079705821122560",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "5870"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "created": 1758126490616,
+      "drops": [
+        "8143"
+      ],
+      "id": "1274078481885458432",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "8132"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1758126406952,
+      "drops": [
+        "12517"
+      ],
+      "id": "1274078130973184000",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "TB"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1758126053850,
+      "drops": [
+        "SF"
+      ],
+      "id": "1274076649956048896",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "SEA"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1758125899269,
+      "drops": [
+        "CIN"
+      ],
+      "id": "1274076001596362752",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "8121"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 8,
+      "created": 1758112463260,
+      "drops": [],
+      "id": "1274019646885855232",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Sutton in LaPorta John",
+      "type": "waiver",
+      "week": 3
+    },
+    {
+      "adds": [
+        "GB"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 14,
+      "created": 1758073943067,
+      "drops": [
+        "NE"
+      ],
+      "id": "1273858081486307329",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "12490"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 26,
+      "created": 1758073902999,
+      "drops": [],
+      "id": "1273857913428934656",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1758071980959,
+      "drops": [
+        "4018"
+      ],
+      "id": "1273849851808870401",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 2
+    },
+    {
+      "adds": [
+        "BUF"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "bid": 0,
+      "created": 1758063024267,
+      "drops": [
+        "LAR"
+      ],
+      "id": "1273812284723957760",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "7002"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 53,
+      "created": 1758056385663,
+      "drops": [
+        "1339"
+      ],
+      "id": "1273784440400650240",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "11627"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 47,
+      "created": 1758048490247,
+      "drops": [],
+      "id": "1273751324621557760",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "JackinGoffInLaportaPotty",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "ATL"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "bid": 0,
+      "created": 1758040571664,
+      "drops": [
+        "ARI"
+      ],
+      "id": "1273718111677190144",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "11564"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 5,
+      "created": 1758038129020,
+      "drops": [],
+      "id": "1273707866485719040",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "8126"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
+      "bid": 22,
+      "created": 1758018143200,
+      "drops": [
+        "4663"
+      ],
+      "id": "1273624039880925184",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "CeeDeez Nuts",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "4098"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1757856680199,
+      "drops": [],
+      "id": "1272946814974201856",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 2
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1757634670578,
+      "drops": [
+        "8121"
+      ],
+      "id": "1272015639132782592",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 2
+    },
+    {
+      "adds": [
+        "8125"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1757529618482,
+      "drops": [
+        "9494"
+      ],
+      "id": "1271575018706321408",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 2
+    },
+    {
+      "adds": [
+        "9504"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 20,
+      "created": 1757474344470,
+      "drops": [
+        "9225"
+      ],
+      "id": "1271343182692511744",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 1
+    },
+    {
+      "adds": [
+        "7591"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 20,
+      "created": 1757438942779,
+      "drops": [
+        "12522"
+      ],
+      "id": "1271194697238351872",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 1
+    },
+    {
+      "adds": [
+        "12506"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 25,
+      "created": 1757351449445,
+      "drops": [
+        "12504"
+      ],
+      "id": "1270827723597565952",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 1
+    },
+    {
+      "adds": [
+        "SF"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 3,
+      "created": 1757350881206,
+      "drops": [
+        "WAS"
+      ],
+      "id": "1270825340230447104",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 1
+    },
+    {
+      "adds": [
+        "9754"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 25,
+      "created": 1757274762356,
+      "drops": [
+        "12495"
+      ],
+      "id": "1270506074637619200",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 1
+    },
+    {
+      "adds": [
+        "8121"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1757263433139,
+      "drops": [
+        "7090"
+      ],
+      "id": "1270458556457431040",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "10444"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1757078125031,
+      "drops": [],
+      "id": "1269681317918814208",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "created": 1757031679728,
+      "id": "1269486512198647808",
+      "roster_ids": [
+        5,
+        9
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+          "manager": "__hellbent",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 9,
+                "round": 12,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "11655"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 5,
+          "team_name": "Amon-Ra Doggin "
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+          "manager": "DaMan_K",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 5,
+                "round": 7,
+                "season": "2026"
+              }
+            ],
+            "players": [
+              "6806"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 9,
+          "team_name": "Sutton in LaPorta John"
+        }
+      ],
+      "type": "trade",
+      "week": 1
+    },
+    {
+      "adds": [
+        "12512"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1757030988034,
+      "drops": [
+        "10219"
+      ],
+      "id": "1269483611023740928",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "waiver",
+      "week": 1
+    },
+    {
+      "adds": [
+        "12541"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1757030921800,
+      "drops": [
+        "12512"
+      ],
+      "id": "1269483333218205696",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "12495"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1756959993321,
+      "drops": [
+        "12519"
+      ],
+      "id": "1269185837615034368",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "10219"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1756860598255,
+      "drops": [
+        "12541"
+      ],
+      "id": "1268768944492118016",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "LAR"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "created": 1756828221370,
+      "drops": [
+        "HOU"
+      ],
+      "id": "1268633145993863168",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "12469"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1756574346575,
+      "drops": [
+        "11564"
+      ],
+      "id": "1267568317925703680",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "9494"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1756404726855,
+      "drops": [
+        "12547"
+      ],
+      "id": "1266856881255632897",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "NE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1756383816304,
+      "drops": [],
+      "id": "1266769176043724800",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "4018"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1756383795290,
+      "drops": [
+        "NE"
+      ],
+      "id": "1266769087908814848",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "NE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1756382888924,
+      "drops": [
+        "NYG"
+      ],
+      "id": "1266765286330089472",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "CIN"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "created": 1756348997604,
+      "drops": [
+        "DET"
+      ],
+      "id": "1266623135835242496",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Smelling Salts",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "WAS"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1756348148770,
+      "drops": [
+        "12457"
+      ],
+      "id": "1266619575567396864",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [
+        "ARI"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
+      "created": 1756348083144,
+      "drops": [
+        "12484"
+      ],
+      "id": "1266619300307812352",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Amon-Ra Doggin ",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1752351616643,
+      "drops": [
+        "19"
+      ],
+      "id": "1249856904880992256",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 1
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1736012621463,
+      "drops": [
+        "8220"
+      ],
+      "id": "1181326192041799680",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "here so I wont get fined",
+      "type": "free_agent",
+      "week": 1
+    }
+  ]
+}

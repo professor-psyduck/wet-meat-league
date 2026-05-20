@@ -17,7 +17,7 @@
     "nfl_week": 0,
     "season_type": "off"
   },
-  "generated_at": "2026-05-18T23:18:10Z",
+  "generated_at": "2026-05-20T00:27:40Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -28,10 +28,20 @@
       "pos": "WR",
       "t": "LV"
     },
+    "10219": {
+      "n": "Chris Rodriguez",
+      "pos": "RB",
+      "t": "JAX"
+    },
     "10222": {
       "n": "Jayden Reed",
       "pos": "WR",
       "t": "GB"
+    },
+    "10226": {
+      "n": "Andrei Iosivas",
+      "pos": "WR",
+      "t": "CIN"
     },
     "10229": {
       "n": "Rashee Rice",
@@ -48,6 +58,21 @@
       "pos": "TE",
       "t": "BUF"
     },
+    "10444": {
+      "n": "Cedric Tillman",
+      "pos": "WR",
+      "t": "CLE"
+    },
+    "10859": {
+      "n": "Sam LaPorta",
+      "pos": "TE",
+      "t": "DET"
+    },
+    "11199": {
+      "n": "Emari Demercado",
+      "pos": "RB",
+      "t": "KC"
+    },
     "11370": {
       "n": "Chris Brooks",
       "pos": "RB",
@@ -57,6 +82,11 @@
       "n": "Emanuel Wilson",
       "pos": "RB",
       "t": "SEA"
+    },
+    "11560": {
+      "n": "Caleb Williams",
+      "pos": "QB",
+      "t": "CHI"
     },
     "11563": {
       "n": "Bo Nix",
@@ -108,10 +138,30 @@
       "pos": "TE",
       "t": "LV"
     },
+    "11610": {
+      "n": "Malik Washington",
+      "pos": "WR",
+      "t": "MIA"
+    },
+    "11620": {
+      "n": "Rome Odunze",
+      "pos": "WR",
+      "t": "CHI"
+    },
     "11624": {
       "n": "Xavier Worthy",
       "pos": "WR",
       "t": "KC"
+    },
+    "11625": {
+      "n": "Adonai Mitchell",
+      "pos": "WR",
+      "t": "NYJ"
+    },
+    "11626": {
+      "n": "Xavier Legette",
+      "pos": "WR",
+      "t": "CAR"
     },
     "11627": {
       "n": "Troy Franklin",
@@ -138,6 +188,11 @@
       "pos": "WR",
       "t": "LAC"
     },
+    "11637": {
+      "n": "Keon Coleman",
+      "pos": "WR",
+      "t": "BUF"
+    },
     "11638": {
       "n": "Ricky Pearsall",
       "pos": "WR",
@@ -158,20 +213,60 @@
       "pos": "RB",
       "t": "LAC"
     },
+    "11650": {
+      "n": "Luke McCaffrey",
+      "pos": "WR",
+      "t": "WAS"
+    },
     "11655": {
       "n": "Tyrone Tracy",
       "pos": "RB",
       "t": "NYG"
+    },
+    "11783": {
+      "n": "Ryan Flournoy",
+      "pos": "WR",
+      "t": "DAL"
+    },
+    "11834": {
+      "n": "Devaughn Vele",
+      "pos": "WR",
+      "t": "NO"
+    },
+    "1234": {
+      "n": "Russell Wilson",
+      "pos": "QB",
+      "t": ""
+    },
+    "12457": {
+      "n": "Jaydon Blue",
+      "pos": "RB",
+      "t": "DAL"
+    },
+    "12469": {
+      "n": "Dylan Sampson",
+      "pos": "RB",
+      "t": "CLE"
     },
     "12474": {
       "n": "Woody Marks",
       "pos": "RB",
       "t": "HOU"
     },
+    "12476": {
+      "n": "Devin Neal",
+      "pos": "RB",
+      "t": "NO"
+    },
     "12481": {
       "n": "Cam Skattebo",
       "pos": "RB",
       "t": "NYG"
+    },
+    "12484": {
+      "n": "Jayden Higgins",
+      "pos": "WR",
+      "t": "HOU"
     },
     "12485": {
       "n": "Tez Johnson",
@@ -183,10 +278,40 @@
       "pos": "RB",
       "t": "DEN"
     },
+    "12490": {
+      "n": "Bhayshul Tuten",
+      "pos": "RB",
+      "t": "JAX"
+    },
     "12493": {
       "n": "Oronde Gadsden",
       "pos": "TE",
       "t": "LAC"
+    },
+    "12495": {
+      "n": "Ollie Gordon",
+      "pos": "RB",
+      "t": "MIA"
+    },
+    "12498": {
+      "n": "Mason Taylor",
+      "pos": "TE",
+      "t": "NYJ"
+    },
+    "12499": {
+      "n": "Elic Ayomanor",
+      "pos": "WR",
+      "t": "TEN"
+    },
+    "12501": {
+      "n": "Matthew Golden",
+      "pos": "WR",
+      "t": "GB"
+    },
+    "12504": {
+      "n": "Kaleb Johnson",
+      "pos": "RB",
+      "t": "PIT"
     },
     "12506": {
       "n": "Harold Fannin",
@@ -197,6 +322,16 @@
       "n": "Omarion Hampton",
       "pos": "RB",
       "t": "LAC"
+    },
+    "12508": {
+      "n": "Jaxson Dart",
+      "pos": "QB",
+      "t": "NYG"
+    },
+    "12512": {
+      "n": "Quinshon Judkins",
+      "pos": "RB",
+      "t": "CLE"
     },
     "12514": {
       "n": "Emeka Egbuka",
@@ -212,6 +347,21 @@
       "n": "Tyler Warren",
       "pos": "TE",
       "t": "IND"
+    },
+    "12519": {
+      "n": "Luther Burden",
+      "pos": "WR",
+      "t": "CHI"
+    },
+    "12522": {
+      "n": "Cam Ward",
+      "pos": "QB",
+      "t": "TEN"
+    },
+    "12524": {
+      "n": "Shedeur Sanders",
+      "pos": "QB",
+      "t": "CLE"
     },
     "12526": {
       "n": "Tetairoa McMillan",
@@ -243,6 +393,26 @@
       "pos": "RB",
       "t": "CHI"
     },
+    "12540": {
+      "n": "Chimere Dike",
+      "pos": "WR",
+      "t": "TEN"
+    },
+    "12541": {
+      "n": "Dont'e Thornton",
+      "pos": "WR",
+      "t": "LV"
+    },
+    "12547": {
+      "n": "Kyle Williams",
+      "pos": "WR",
+      "t": "NE"
+    },
+    "1339": {
+      "n": "Zach Ertz",
+      "pos": "TE",
+      "t": ""
+    },
     "1466": {
       "n": "Travis Kelce",
       "pos": "TE",
@@ -252,6 +422,16 @@
       "n": "Keenan Allen",
       "pos": "WR",
       "t": ""
+    },
+    "1689": {
+      "n": "Adam Thielen",
+      "pos": "WR",
+      "t": ""
+    },
+    "19": {
+      "n": "Joe Flacco",
+      "pos": "QB",
+      "t": "CIN"
     },
     "2133": {
       "n": "Davante Adams",
@@ -273,6 +453,11 @@
       "pos": "WR",
       "t": ""
     },
+    "2505": {
+      "n": "Darren Waller",
+      "pos": "TE",
+      "t": ""
+    },
     "3163": {
       "n": "Jared Goff",
       "pos": "QB",
@@ -282,6 +467,11 @@
       "n": "Derrick Henry",
       "pos": "RB",
       "t": "BAL"
+    },
+    "3200": {
+      "n": "Sterling Shepard",
+      "pos": "WR",
+      "t": ""
     },
     "3214": {
       "n": "Hunter Henry",
@@ -298,6 +488,21 @@
       "pos": "QB",
       "t": "DAL"
     },
+    "3321": {
+      "n": "Tyreek Hill",
+      "pos": "WR",
+      "t": ""
+    },
+    "4018": {
+      "n": "Joe Mixon",
+      "pos": "RB",
+      "t": ""
+    },
+    "4033": {
+      "n": "David Njoku",
+      "pos": "TE",
+      "t": "LAC"
+    },
     "4034": {
       "n": "Christian McCaffrey",
       "pos": "RB",
@@ -313,15 +518,45 @@
       "pos": "WR",
       "t": "TB"
     },
+    "4039": {
+      "n": "Cooper Kupp",
+      "pos": "WR",
+      "t": "SEA"
+    },
     "4046": {
       "n": "Patrick Mahomes",
       "pos": "QB",
       "t": "KC"
     },
+    "4066": {
+      "n": "Evan Engram",
+      "pos": "TE",
+      "t": "DEN"
+    },
     "4098": {
       "n": "Kareem Hunt",
       "pos": "RB",
       "t": ""
+    },
+    "4137": {
+      "n": "James Conner",
+      "pos": "RB",
+      "t": "ARI"
+    },
+    "4144": {
+      "n": "Jonnu Smith",
+      "pos": "TE",
+      "t": ""
+    },
+    "4147": {
+      "n": "Samaje Perine",
+      "pos": "RB",
+      "t": "CIN"
+    },
+    "4177": {
+      "n": "Mack Hollins",
+      "pos": "WR",
+      "t": "NE"
     },
     "4199": {
       "n": "Aaron Jones",
@@ -343,6 +578,16 @@
       "pos": "TE",
       "t": ""
     },
+    "4454": {
+      "n": "Kendrick Bourne",
+      "pos": "WR",
+      "t": "ARI"
+    },
+    "4663": {
+      "n": "Austin Ekeler",
+      "pos": "RB",
+      "t": ""
+    },
     "4866": {
       "n": "Saquon Barkley",
       "pos": "RB",
@@ -358,6 +603,21 @@
       "pos": "QB",
       "t": "TB"
     },
+    "4943": {
+      "n": "Sam Darnold",
+      "pos": "QB",
+      "t": "SEA"
+    },
+    "4950": {
+      "n": "Christian Kirk",
+      "pos": "WR",
+      "t": "SF"
+    },
+    "4981": {
+      "n": "Calvin Ridley",
+      "pos": "WR",
+      "t": "TEN"
+    },
     "4983": {
       "n": "DJ Moore",
       "pos": "WR",
@@ -367,6 +627,11 @@
       "n": "Josh Allen",
       "pos": "QB",
       "t": "BUF"
+    },
+    "4988": {
+      "n": "Nick Chubb",
+      "pos": "RB",
+      "t": ""
     },
     "5001": {
       "n": "Dalton Schultz",
@@ -388,6 +653,11 @@
       "pos": "WR",
       "t": "DEN"
     },
+    "5844": {
+      "n": "T.J. Hockenson",
+      "pos": "TE",
+      "t": "MIN"
+    },
     "5846": {
       "n": "DK Metcalf",
       "pos": "WR",
@@ -398,6 +668,11 @@
       "pos": "WR",
       "t": "PHI"
     },
+    "5849": {
+      "n": "Kyler Murray",
+      "pos": "QB",
+      "t": "MIN"
+    },
     "5850": {
       "n": "Josh Jacobs",
       "pos": "RB",
@@ -407,6 +682,11 @@
       "n": "A.J. Brown",
       "pos": "WR",
       "t": "PHI"
+    },
+    "5870": {
+      "n": "Daniel Jones",
+      "pos": "QB",
+      "t": "IND"
     },
     "5872": {
       "n": "Deebo Samuel",
@@ -433,10 +713,35 @@
       "pos": "RB",
       "t": "TEN"
     },
+    "5970": {
+      "n": "Greg Dortch",
+      "pos": "WR",
+      "t": "DET"
+    },
+    "5995": {
+      "n": "Justice Hill",
+      "pos": "RB",
+      "t": "BAL"
+    },
+    "6149": {
+      "n": "Darius Slayton",
+      "pos": "WR",
+      "t": "NYG"
+    },
+    "6271": {
+      "n": "Olamide Zaccheaus",
+      "pos": "WR",
+      "t": "ATL"
+    },
     "6770": {
       "n": "Joe Burrow",
       "pos": "QB",
       "t": "CIN"
+    },
+    "6783": {
+      "n": "Jerry Jeudy",
+      "pos": "WR",
+      "t": "CLE"
     },
     "6786": {
       "n": "CeeDee Lamb",
@@ -463,6 +768,21 @@
       "pos": "WR",
       "t": "CIN"
     },
+    "6803": {
+      "n": "Brandon Aiyuk",
+      "pos": "WR",
+      "t": "SF"
+    },
+    "6804": {
+      "n": "Jordan Love",
+      "pos": "QB",
+      "t": "GB"
+    },
+    "6806": {
+      "n": "J.K. Dobbins",
+      "pos": "RB",
+      "t": "DEN"
+    },
     "6813": {
       "n": "Jonathan Taylor",
       "pos": "RB",
@@ -472,6 +792,11 @@
       "n": "Michael Pittman",
       "pos": "WR",
       "t": "PIT"
+    },
+    "6865": {
+      "n": "Colby Parkinson",
+      "pos": "TE",
+      "t": "LAR"
     },
     "6904": {
       "n": "Jalen Hurts",
@@ -513,6 +838,11 @@
       "pos": "WR",
       "t": "DEN"
     },
+    "7528": {
+      "n": "Najee Harris",
+      "pos": "RB",
+      "t": ""
+    },
     "7543": {
       "n": "Travis Etienne",
       "pos": "RB",
@@ -527,6 +857,11 @@
       "n": "Kyle Pitts",
       "pos": "TE",
       "t": "ATL"
+    },
+    "7562": {
+      "n": "Tutu Atwell",
+      "pos": "WR",
+      "t": "MIA"
     },
     "7564": {
       "n": "Ja'Marr Chase",
@@ -543,10 +878,25 @@
       "pos": "WR",
       "t": "HOU"
     },
+    "7571": {
+      "n": "Rashod Bateman",
+      "pos": "WR",
+      "t": "BAL"
+    },
+    "7587": {
+      "n": "Dyami Brown",
+      "pos": "WR",
+      "t": "WAS"
+    },
     "7588": {
       "n": "Javonte Williams",
       "pos": "RB",
       "t": "DAL"
+    },
+    "7591": {
+      "n": "Justin Fields",
+      "pos": "QB",
+      "t": "KC"
     },
     "7594": {
       "n": "Chuba Hubbard",
@@ -563,20 +913,55 @@
       "pos": "RB",
       "t": "NE"
     },
+    "7670": {
+      "n": "Joshua Palmer",
+      "pos": "WR",
+      "t": "BUF"
+    },
+    "7891": {
+      "n": "Brock Wright",
+      "pos": "TE",
+      "t": "DET"
+    },
     "8110": {
       "n": "Jake Ferguson",
       "pos": "TE",
       "t": "DAL"
+    },
+    "8111": {
+      "n": "Cade Otton",
+      "pos": "TE",
+      "t": "TB"
     },
     "8112": {
       "n": "Drake London",
       "pos": "WR",
       "t": "ATL"
     },
+    "8116": {
+      "n": "Pierre Strong",
+      "pos": "RB",
+      "t": "GB"
+    },
     "8121": {
       "n": "Romeo Doubs",
       "pos": "WR",
       "t": "NE"
+    },
+    "8122": {
+      "n": "Zonovan Knight",
+      "pos": "RB",
+      "t": "ARI"
+    },
+    "8123": {
+      "n": "Hassan Haskins",
+      "pos": "RB",
+      "t": ""
+    },
+    "8125": {
+      "n": "Calvin Austin",
+      "pos": "WR",
+      "t": "NYG"
     },
     "8126": {
       "n": "Wan'Dale Robinson",
@@ -588,6 +973,11 @@
       "pos": "TE",
       "t": "ARI"
     },
+    "8131": {
+      "n": "Isaiah Likely",
+      "pos": "TE",
+      "t": "NYG"
+    },
     "8132": {
       "n": "Tyler Allgeier",
       "pos": "RB",
@@ -597,6 +987,11 @@
       "n": "Khalil Shakir",
       "pos": "WR",
       "t": "BUF"
+    },
+    "8136": {
+      "n": "Rachaad White",
+      "pos": "RB",
+      "t": "WAS"
     },
     "8137": {
       "n": "George Pickens",
@@ -612,6 +1007,11 @@
       "n": "Alec Pierce",
       "pos": "WR",
       "t": "IND"
+    },
+    "8143": {
+      "n": "Jerome Ford",
+      "pos": "RB",
+      "t": "WAS"
     },
     "8144": {
       "n": "Chris Olave",
@@ -638,6 +1038,11 @@
       "pos": "RB",
       "t": "KC"
     },
+    "8154": {
+      "n": "Brian Robinson",
+      "pos": "RB",
+      "t": "ATL"
+    },
     "8155": {
       "n": "Breece Hall",
       "pos": "RB",
@@ -653,6 +1058,21 @@
       "pos": "QB",
       "t": "SF"
     },
+    "8188": {
+      "n": "Tyquan Thornton",
+      "pos": "WR",
+      "t": "KC"
+    },
+    "8205": {
+      "n": "Isiah Pacheco",
+      "pos": "RB",
+      "t": "DET"
+    },
+    "8220": {
+      "n": "Sincere McCormick",
+      "pos": "RB",
+      "t": "SF"
+    },
     "8228": {
       "n": "Jaylen Warren",
       "pos": "RB",
@@ -663,9 +1083,19 @@
       "pos": "RB",
       "t": "MIN"
     },
+    "8676": {
+      "n": "Rashid Shaheed",
+      "pos": "WR",
+      "t": "SEA"
+    },
     "8800": {
       "n": "Malik Davis",
       "pos": "RB",
+      "t": "DAL"
+    },
+    "8917": {
+      "n": "KaVontae Turpin",
+      "pos": "WR",
       "t": "DAL"
     },
     "9221": {
@@ -678,6 +1108,11 @@
       "pos": "RB",
       "t": "CIN"
     },
+    "9225": {
+      "n": "Tank Bigsby",
+      "pos": "RB",
+      "t": "PHI"
+    },
     "9226": {
       "n": "De'Von Achane",
       "pos": "RB",
@@ -687,6 +1122,11 @@
       "n": "Brenton Strange",
       "pos": "TE",
       "t": "JAX"
+    },
+    "9482": {
+      "n": "Michael Mayer",
+      "pos": "TE",
+      "t": "LV"
     },
     "9484": {
       "n": "Tucker Kraft",
@@ -708,6 +1148,31 @@
       "pos": "WR",
       "t": "LAR"
     },
+    "9494": {
+      "n": "Marvin Mims",
+      "pos": "WR",
+      "t": "DEN"
+    },
+    "9500": {
+      "n": "Josh Downs",
+      "pos": "WR",
+      "t": "IND"
+    },
+    "9504": {
+      "n": "Kayshon Boutte",
+      "pos": "WR",
+      "t": "NE"
+    },
+    "9506": {
+      "n": "Sean Tucker",
+      "pos": "RB",
+      "t": "TB"
+    },
+    "9508": {
+      "n": "Tyjae Spears",
+      "pos": "RB",
+      "t": "TEN"
+    },
     "9509": {
       "n": "Bijan Robinson",
       "pos": "RB",
@@ -723,9 +1188,34 @@
       "pos": "WR",
       "t": "LAC"
     },
+    "9756": {
+      "n": "Jordan Addison",
+      "pos": "WR",
+      "t": "MIN"
+    },
+    "9757": {
+      "n": "Kendre Miller",
+      "pos": "RB",
+      "t": "NO"
+    },
     "9997": {
       "n": "Zay Flowers",
       "pos": "WR",
+      "t": "BAL"
+    },
+    "ARI": {
+      "n": "Arizona Cardinals",
+      "pos": "DEF",
+      "t": "ARI"
+    },
+    "ATL": {
+      "n": "Atlanta Falcons",
+      "pos": "DEF",
+      "t": "ATL"
+    },
+    "BAL": {
+      "n": "Baltimore Ravens",
+      "pos": "DEF",
       "t": "BAL"
     },
     "BUF": {
@@ -743,6 +1233,11 @@
       "pos": "DEF",
       "t": "CHI"
     },
+    "CIN": {
+      "n": "Cincinnati Bengals",
+      "pos": "DEF",
+      "t": "CIN"
+    },
     "CLE": {
       "n": "Cleveland Browns",
       "pos": "DEF",
@@ -758,20 +1253,50 @@
       "pos": "DEF",
       "t": "DET"
     },
+    "GB": {
+      "n": "Green Bay Packers",
+      "pos": "DEF",
+      "t": "GB"
+    },
     "HOU": {
       "n": "Houston Texans",
       "pos": "DEF",
       "t": "HOU"
+    },
+    "IND": {
+      "n": "Indianapolis Colts",
+      "pos": "DEF",
+      "t": "IND"
     },
     "JAX": {
       "n": "Jacksonville Jaguars",
       "pos": "DEF",
       "t": "JAX"
     },
+    "KC": {
+      "n": "Kansas City Chiefs",
+      "pos": "DEF",
+      "t": "KC"
+    },
+    "LAC": {
+      "n": "Los Angeles Chargers",
+      "pos": "DEF",
+      "t": "LAC"
+    },
     "LAR": {
       "n": "Los Angeles Rams",
       "pos": "DEF",
       "t": "LAR"
+    },
+    "LV": {
+      "n": "Las Vegas Raiders",
+      "pos": "DEF",
+      "t": "LV"
+    },
+    "MIA": {
+      "n": "Miami Dolphins",
+      "pos": "DEF",
+      "t": "MIA"
     },
     "MIN": {
       "n": "Minnesota Vikings",
@@ -788,6 +1313,16 @@
       "pos": "DEF",
       "t": "NO"
     },
+    "NYG": {
+      "n": "New York Giants",
+      "pos": "DEF",
+      "t": "NYG"
+    },
+    "PHI": {
+      "n": "Philadelphia Eagles",
+      "pos": "DEF",
+      "t": "PHI"
+    },
     "PIT": {
       "n": "Pittsburgh Steelers",
       "pos": "DEF",
@@ -798,10 +1333,20 @@
       "pos": "DEF",
       "t": "SEA"
     },
+    "SF": {
+      "n": "San Francisco 49ers",
+      "pos": "DEF",
+      "t": "SF"
+    },
     "TB": {
       "n": "Tampa Bay Buccaneers",
       "pos": "DEF",
       "t": "TB"
+    },
+    "WAS": {
+      "n": "Washington Commanders",
+      "pos": "DEF",
+      "t": "WAS"
     }
   },
   "teams": [

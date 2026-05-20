@@ -14,13 +14,18 @@
     "playoffs": "content/playoffs.json",
     "power": "content/power.json",
     "rosters": "content/rosters.json",
-    "standings": "content/standings.json"
+    "standings": "content/standings.json",
+    "transactions": "content/transactions.json"
   },
-  "generated_at": "2026-05-18T23:18:10Z",
+  "generated_at": "2026-05-20T00:27:40Z",
   "league_name": "Wet Meat League 2.0",
   "mode": "offseason",
   "power": {
     "method": "computed",
     "week": 14
+  },
+  "transactions": {
+    "count": 301,
+    "trades": 8
   }
 }
