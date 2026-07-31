@@ -17,7 +17,7 @@
     "nfl_week": 0,
     "season_type": "pre"
   },
-  "generated_at": "2026-07-27T18:49:30Z",
+  "generated_at": "2026-07-31T07:18:22Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -691,7 +691,7 @@
     "5872": {
       "n": "Deebo Samuel",
       "pos": "WR",
-      "t": ""
+      "t": "SF"
     },
     "5892": {
       "n": "David Montgomery",
