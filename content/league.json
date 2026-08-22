@@ -17,7 +17,7 @@
     "nfl_week": 2,
     "season_type": "pre"
   },
-  "generated_at": "2026-08-18T18:29:59Z",
+  "generated_at": "2026-08-22T00:30:57Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -471,7 +471,7 @@
     "3200": {
       "n": "Sterling Shepard",
       "pos": "WR",
-      "t": ""
+      "t": "HOU"
     },
     "3214": {
       "n": "Hunter Henry",
