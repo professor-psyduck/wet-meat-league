@@ -1,67 +1,67 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-22T00:30:57Z",
+  "generated_at": "2026-08-24T06:31:15Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
   },
   "order": [
     {
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
-      "manager": "EntropyEngine",
-      "roster_id": 1,
-      "slot": 1,
-      "team_name": "Fully Torqued"
-    },
-    {
-      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
-      "manager": "Prof_Ducky69fdf",
-      "roster_id": 2,
-      "slot": 2,
-      "team_name": "here so I wont get fined"
-    },
-    {
       "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
       "manager": "RoombaCentral",
       "roster_id": 3,
-      "slot": 3,
+      "slot": 1,
       "team_name": "CeeDeez Nuts"
     },
     {
       "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
       "manager": "SmeIIingSalts",
       "roster_id": 4,
-      "slot": 4,
+      "slot": 2,
       "team_name": "Smelling Salts"
     },
     {
       "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
       "manager": "__hellbent",
       "roster_id": 5,
-      "slot": 5,
+      "slot": 3,
       "team_name": "Amon-Ra Doggin "
     },
     {
-      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
-      "manager": "bostwik",
-      "roster_id": 6,
-      "slot": 6,
-      "team_name": "JackinGoffInLaportaPotty"
-    },
-    {
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
-      "manager": "moontitties",
-      "roster_id": 7,
-      "slot": 7,
-      "team_name": "MoonKings"
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "slot": 4,
+      "team_name": "Fully Torqued"
     },
     {
       "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
       "manager": "laidbacula",
       "roster_id": 8,
-      "slot": 8,
+      "slot": 5,
       "team_name": "Brave Mujahideen Fighters"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "slot": 6,
+      "team_name": "America Jackson"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "slot": 7,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "slot": 8,
+      "team_name": "here so I wont get fined"
     },
     {
       "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
@@ -71,14 +71,14 @@
       "team_name": "Sutton in LaPorta John"
     },
     {
-      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
-      "manager": "cfaz23",
-      "roster_id": 10,
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "manager": "moontitties",
+      "roster_id": 7,
       "slot": 10,
-      "team_name": "America Jackson"
+      "team_name": "MoonKings"
     }
   ],
-  "order_finalized": false,
+  "order_finalized": true,
   "picks": [],
   "picks_made": 0,
   "roster_slots": [
