@@ -17,7 +17,7 @@
     "nfl_week": 3,
     "season_type": "pre"
   },
-  "generated_at": "2026-08-25T00:31:26Z",
+  "generated_at": "2026-08-25T18:30:35Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -126,7 +126,7 @@
     "11589": {
       "n": "Trey Benson",
       "pos": "RB",
-      "t": "ARI"
+      "t": ""
     },
     "11597": {
       "n": "Theo Johnson",
