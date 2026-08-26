@@ -1,7 +1,7 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-26T06:30:40Z",
+  "generated_at": "2026-08-26T19:00:25Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
@@ -114,7 +114,7 @@
   "rounds": 15,
   "scoring": "ppr",
   "season": "2026",
-  "start_time": null,
+  "start_time": 1787954400000,
   "status": "pre_draft",
   "teams": 10,
   "type": "snake"
