@@ -1,7 +1,7 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-27T21:30:06Z",
+  "generated_at": "2026-08-28T03:25:03Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
@@ -79,8 +79,117 @@
     }
   ],
   "order_finalized": true,
-  "picks": [],
-  "picks_made": 0,
+  "picks": [
+    {
+      "is_keeper": true,
+      "pick_no": 4,
+      "player": {
+        "n": "Bijan Robinson",
+        "pos": "RB",
+        "t": "ATL"
+      },
+      "roster_id": 1,
+      "round": 1,
+      "team_name": "Fully Torqued"
+    },
+    {
+      "is_keeper": true,
+      "pick_no": 9,
+      "player": {
+        "n": "Jahmyr Gibbs",
+        "pos": "RB",
+        "t": "DET"
+      },
+      "roster_id": 9,
+      "round": 1,
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "is_keeper": true,
+      "pick_no": 20,
+      "player": {
+        "n": "Jonathan Taylor",
+        "pos": "RB",
+        "t": "IND"
+      },
+      "roster_id": 3,
+      "round": 2,
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": true,
+      "pick_no": 28,
+      "player": {
+        "n": "Omarion Hampton",
+        "pos": "RB",
+        "t": "LAC"
+      },
+      "roster_id": 2,
+      "round": 3,
+      "team_name": "here so I wont get fined"
+    },
+    {
+      "is_keeper": true,
+      "pick_no": 34,
+      "player": {
+        "n": "DeVonta Smith",
+        "pos": "WR",
+        "t": "PHI"
+      },
+      "roster_id": 6,
+      "round": 4,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "is_keeper": true,
+      "pick_no": 71,
+      "player": {
+        "n": "Rashee Rice",
+        "pos": "WR",
+        "t": "KC"
+      },
+      "roster_id": 7,
+      "round": 8,
+      "team_name": "MoonKings"
+    },
+    {
+      "is_keeper": true,
+      "pick_no": 103,
+      "player": {
+        "n": "Javonte Williams",
+        "pos": "RB",
+        "t": "DAL"
+      },
+      "roster_id": 5,
+      "round": 11,
+      "team_name": "Straight Yorkin' It"
+    },
+    {
+      "is_keeper": true,
+      "pick_no": 106,
+      "player": {
+        "n": "Tucker Kraft",
+        "pos": "TE",
+        "t": "GB"
+      },
+      "roster_id": 10,
+      "round": 11,
+      "team_name": "America Jackson"
+    },
+    {
+      "is_keeper": true,
+      "pick_no": 119,
+      "player": {
+        "n": "Jake Ferguson",
+        "pos": "TE",
+        "t": "DAL"
+      },
+      "roster_id": 4,
+      "round": 12,
+      "team_name": "Smelling Salts"
+    }
+  ],
+  "picks_made": 9,
   "roster_slots": [
     {
       "count": 1,
