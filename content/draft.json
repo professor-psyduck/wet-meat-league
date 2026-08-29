@@ -1,7 +1,7 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-29T12:32:25Z",
+  "generated_at": "2026-08-29T18:28:04Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
@@ -225,6 +225,90 @@
       "team_name": "Sutton in LaPorta John"
     },
     {
+      "is_keeper": false,
+      "pick_no": 13,
+      "player": {
+        "n": "Chase Brown",
+        "pos": "RB",
+        "t": "CIN"
+      },
+      "roster_id": 2,
+      "round": 2,
+      "team_name": "here so I wont get fined"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 14,
+      "player": {
+        "n": "Ashton Jeanty",
+        "pos": "RB",
+        "t": "LV"
+      },
+      "roster_id": 6,
+      "round": 2,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 15,
+      "player": {
+        "n": "Kenneth Walker",
+        "pos": "RB",
+        "t": "KC"
+      },
+      "roster_id": 10,
+      "round": 2,
+      "team_name": "America Jackson"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 16,
+      "player": {
+        "n": "Brock Bowers",
+        "pos": "TE",
+        "t": "LV"
+      },
+      "roster_id": 8,
+      "round": 2,
+      "team_name": "Brave Mujahideen Fighters"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 17,
+      "player": {
+        "n": "A.J. Brown",
+        "pos": "WR",
+        "t": "NE"
+      },
+      "roster_id": 1,
+      "round": 2,
+      "team_name": "Fully Torqued"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 18,
+      "player": {
+        "n": "Derrick Henry",
+        "pos": "RB",
+        "t": "BAL"
+      },
+      "roster_id": 6,
+      "round": 2,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 19,
+      "player": {
+        "n": "Josh Allen",
+        "pos": "QB",
+        "t": "BUF"
+      },
+      "roster_id": 4,
+      "round": 2,
+      "team_name": "Smelling Salts"
+    },
+    {
       "is_keeper": true,
       "pick_no": 20,
       "player": {
@@ -235,6 +319,90 @@
       "roster_id": 3,
       "round": 2,
       "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 21,
+      "player": {
+        "n": "Trey McBride",
+        "pos": "TE",
+        "t": "ARI"
+      },
+      "roster_id": 6,
+      "round": 3,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 22,
+      "player": {
+        "n": "George Pickens",
+        "pos": "WR",
+        "t": "DAL"
+      },
+      "roster_id": 4,
+      "round": 3,
+      "team_name": "Smelling Salts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 23,
+      "player": {
+        "n": "Nico Collins",
+        "pos": "WR",
+        "t": "HOU"
+      },
+      "roster_id": 5,
+      "round": 3,
+      "team_name": "Straight Yorkin' It"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 24,
+      "player": {
+        "n": "Kyren Williams",
+        "pos": "RB",
+        "t": "LAR"
+      },
+      "roster_id": 1,
+      "round": 3,
+      "team_name": "Fully Torqued"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 25,
+      "player": {
+        "n": "Drake London",
+        "pos": "WR",
+        "t": "ATL"
+      },
+      "roster_id": 8,
+      "round": 3,
+      "team_name": "Brave Mujahideen Fighters"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 26,
+      "player": {
+        "n": "Josh Jacobs",
+        "pos": "RB",
+        "t": "GB"
+      },
+      "roster_id": 10,
+      "round": 3,
+      "team_name": "America Jackson"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 27,
+      "player": {
+        "n": "Chris Olave",
+        "pos": "WR",
+        "t": "NO"
+      },
+      "roster_id": 5,
+      "round": 3,
+      "team_name": "Straight Yorkin' It"
     },
     {
       "is_keeper": true,
@@ -309,7 +477,7 @@
       "team_name": "Smelling Salts"
     }
   ],
-  "picks_made": 19,
+  "picks_made": 33,
   "roster_slots": [
     {
       "count": 1,
@@ -344,7 +512,7 @@
   "scoring": "ppr",
   "season": "2026",
   "start_time": 1787954502607,
-  "status": "paused",
+  "status": "drafting",
   "teams": 10,
   "type": "snake"
 }
