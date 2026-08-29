@@ -1,8 +1,8 @@
 {
   "cursors": {
-    "content_hash": "3ef0c905fac4f41173d782fa20ad0c94d1a25af476d95484b952b3a341c28304"
+    "content_hash": "30ab42009efddd1ae8d40e4e2602d3b9c100d1d3698b67ca750ec94fc549ab7f"
   },
-  "last_run": "2026-08-28T03:25:03Z",
+  "last_run": "2026-08-29T00:53:38Z",
   "resolved": {
     "chain": [
       "1357559174707281920",
@@ -14,7 +14,7 @@
     "data_season": "2025",
     "data_status": "complete",
     "draft_id": "1357559174719885312",
-    "draft_status": "pre_draft",
+    "draft_status": "drafting",
     "league_name": "Wet Meat League 2.0",
     "mode": "offseason",
     "nfl_season": "2026",

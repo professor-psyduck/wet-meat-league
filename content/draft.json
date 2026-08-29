@@ -1,7 +1,7 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-28T03:25:03Z",
+  "generated_at": "2026-08-29T00:53:38Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
@@ -81,6 +81,42 @@
   "order_finalized": true,
   "picks": [
     {
+      "is_keeper": false,
+      "pick_no": 1,
+      "player": {
+        "n": "Ja'Marr Chase",
+        "pos": "WR",
+        "t": "CIN"
+      },
+      "roster_id": 3,
+      "round": 1,
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 2,
+      "player": {
+        "n": "Puka Nacua",
+        "pos": "WR",
+        "t": "LAR"
+      },
+      "roster_id": 4,
+      "round": 1,
+      "team_name": "Smelling Salts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 3,
+      "player": {
+        "n": "Jaxon Smith-Njigba",
+        "pos": "WR",
+        "t": "SEA"
+      },
+      "roster_id": 6,
+      "round": 1,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
       "is_keeper": true,
       "pick_no": 4,
       "player": {
@@ -91,6 +127,54 @@
       "roster_id": 1,
       "round": 1,
       "team_name": "Fully Torqued"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 5,
+      "player": {
+        "n": "Christian McCaffrey",
+        "pos": "RB",
+        "t": "SF"
+      },
+      "roster_id": 8,
+      "round": 1,
+      "team_name": "Brave Mujahideen Fighters"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 6,
+      "player": {
+        "n": "CeeDee Lamb",
+        "pos": "WR",
+        "t": "DAL"
+      },
+      "roster_id": 10,
+      "round": 1,
+      "team_name": "America Jackson"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 7,
+      "player": {
+        "n": "James Cook",
+        "pos": "RB",
+        "t": "BUF"
+      },
+      "roster_id": 6,
+      "round": 1,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 8,
+      "player": {
+        "n": "Amon-Ra St. Brown",
+        "pos": "WR",
+        "t": "DET"
+      },
+      "roster_id": 2,
+      "round": 1,
+      "team_name": "here so I wont get fined"
     },
     {
       "is_keeper": true,
@@ -189,7 +273,7 @@
       "team_name": "Smelling Salts"
     }
   ],
-  "picks_made": 9,
+  "picks_made": 16,
   "roster_slots": [
     {
       "count": 1,
@@ -223,8 +307,8 @@
   "rounds": 15,
   "scoring": "ppr",
   "season": "2026",
-  "start_time": 1787954400000,
-  "status": "pre_draft",
+  "start_time": 1787954502607,
+  "status": "drafting",
   "teams": 10,
   "type": "snake"
 }
