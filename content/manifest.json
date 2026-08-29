@@ -4,7 +4,7 @@
   "data_status": "complete",
   "draft": {
     "draft_id": "1357559174719885312",
-    "picks_made": 18,
+    "picks_made": 19,
     "season": "2026",
     "status": "paused"
   },
@@ -17,7 +17,7 @@
     "standings": "content/standings.json",
     "transactions": "content/transactions.json"
   },
-  "generated_at": "2026-08-29T06:37:15Z",
+  "generated_at": "2026-08-29T12:32:25Z",
   "league_name": "Wet Meat League 2.0",
   "mode": "offseason",
   "power": {
