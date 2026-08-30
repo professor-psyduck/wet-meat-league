@@ -1,7 +1,7 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-29T18:28:04Z",
+  "generated_at": "2026-08-30T01:04:42Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
@@ -15,11 +15,11 @@
       "team_name": "CeeDeez Nuts"
     },
     {
-      "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
+      "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
       "manager": "SmeIIingSalts",
       "roster_id": 4,
       "slot": 2,
-      "team_name": "Smelling Salts"
+      "team_name": "Hot Dog Fridge"
     },
     {
       "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
@@ -102,7 +102,7 @@
       },
       "roster_id": 4,
       "round": 1,
-      "team_name": "Smelling Salts"
+      "team_name": "Hot Dog Fridge"
     },
     {
       "is_keeper": false,
@@ -306,7 +306,7 @@
       },
       "roster_id": 4,
       "round": 2,
-      "team_name": "Smelling Salts"
+      "team_name": "Hot Dog Fridge"
     },
     {
       "is_keeper": true,
@@ -342,7 +342,7 @@
       },
       "roster_id": 4,
       "round": 3,
-      "team_name": "Smelling Salts"
+      "team_name": "Hot Dog Fridge"
     },
     {
       "is_keeper": false,
@@ -417,6 +417,66 @@
       "team_name": "here so I wont get fined"
     },
     {
+      "is_keeper": false,
+      "pick_no": 29,
+      "player": {
+        "n": "Tetairoa McMillan",
+        "pos": "WR",
+        "t": "CAR"
+      },
+      "roster_id": 9,
+      "round": 3,
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 30,
+      "player": {
+        "n": "Malik Nabers",
+        "pos": "WR",
+        "t": "NYG"
+      },
+      "roster_id": 7,
+      "round": 3,
+      "team_name": "MoonKings"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 31,
+      "player": {
+        "n": "Jeremiyah Love",
+        "pos": "RB",
+        "t": "ARI"
+      },
+      "roster_id": 7,
+      "round": 4,
+      "team_name": "MoonKings"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 32,
+      "player": {
+        "n": "Colston Loveland",
+        "pos": "TE",
+        "t": "CHI"
+      },
+      "roster_id": 9,
+      "round": 4,
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 33,
+      "player": {
+        "n": "Garrett Wilson",
+        "pos": "WR",
+        "t": "NYJ"
+      },
+      "roster_id": 2,
+      "round": 4,
+      "team_name": "here so I wont get fined"
+    },
+    {
       "is_keeper": true,
       "pick_no": 34,
       "player": {
@@ -426,6 +486,246 @@
       },
       "roster_id": 6,
       "round": 4,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 35,
+      "player": {
+        "n": "Lamar Jackson",
+        "pos": "QB",
+        "t": "BAL"
+      },
+      "roster_id": 10,
+      "round": 4,
+      "team_name": "America Jackson"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 36,
+      "player": {
+        "n": "Breece Hall",
+        "pos": "RB",
+        "t": "NYJ"
+      },
+      "roster_id": 8,
+      "round": 4,
+      "team_name": "Brave Mujahideen Fighters"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 37,
+      "player": {
+        "n": "Ladd McConkey",
+        "pos": "WR",
+        "t": "LAC"
+      },
+      "roster_id": 1,
+      "round": 4,
+      "team_name": "Fully Torqued"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 38,
+      "player": {
+        "n": "Zay Flowers",
+        "pos": "WR",
+        "t": "BAL"
+      },
+      "roster_id": 5,
+      "round": 4,
+      "team_name": "Straight Yorkin' It"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 39,
+      "player": {
+        "n": "Jaylen Waddle",
+        "pos": "WR",
+        "t": "DEN"
+      },
+      "roster_id": 4,
+      "round": 4,
+      "team_name": "Hot Dog Fridge"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 40,
+      "player": {
+        "n": "D'Andre Swift",
+        "pos": "RB",
+        "t": "CHI"
+      },
+      "roster_id": 3,
+      "round": 4,
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 41,
+      "player": {
+        "n": "Emeka Egbuka",
+        "pos": "WR",
+        "t": "TB"
+      },
+      "roster_id": 3,
+      "round": 5,
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 42,
+      "player": {
+        "n": "Travis Etienne",
+        "pos": "RB",
+        "t": "NO"
+      },
+      "roster_id": 4,
+      "round": 5,
+      "team_name": "Hot Dog Fridge"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 43,
+      "player": {
+        "n": "Cam Skattebo",
+        "pos": "RB",
+        "t": "NYG"
+      },
+      "roster_id": 5,
+      "round": 5,
+      "team_name": "Straight Yorkin' It"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 44,
+      "player": {
+        "n": "Tyler Warren",
+        "pos": "TE",
+        "t": "IND"
+      },
+      "roster_id": 1,
+      "round": 5,
+      "team_name": "Fully Torqued"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 45,
+      "player": {
+        "n": "Tee Higgins",
+        "pos": "WR",
+        "t": "CIN"
+      },
+      "roster_id": 8,
+      "round": 5,
+      "team_name": "Brave Mujahideen Fighters"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 46,
+      "player": {
+        "n": "Davante Adams",
+        "pos": "WR",
+        "t": "LAR"
+      },
+      "roster_id": 10,
+      "round": 5,
+      "team_name": "America Jackson"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 47,
+      "player": {
+        "n": "Drake Maye",
+        "pos": "QB",
+        "t": "NE"
+      },
+      "roster_id": 5,
+      "round": 5,
+      "team_name": "Straight Yorkin' It"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 48,
+      "player": {
+        "n": "Carnell Tate",
+        "pos": "WR",
+        "t": "TEN"
+      },
+      "roster_id": 2,
+      "round": 5,
+      "team_name": "here so I wont get fined"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 49,
+      "player": {
+        "n": "Terry McLaurin",
+        "pos": "WR",
+        "t": "WAS"
+      },
+      "roster_id": 9,
+      "round": 5,
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 50,
+      "player": {
+        "n": "Jalen Hurts",
+        "pos": "QB",
+        "t": "PHI"
+      },
+      "roster_id": 7,
+      "round": 5,
+      "team_name": "MoonKings"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 51,
+      "player": {
+        "n": "Sam LaPorta",
+        "pos": "TE",
+        "t": "DET"
+      },
+      "roster_id": 7,
+      "round": 6,
+      "team_name": "MoonKings"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 52,
+      "player": {
+        "n": "Quinshon Judkins",
+        "pos": "RB",
+        "t": "CLE"
+      },
+      "roster_id": 9,
+      "round": 6,
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 53,
+      "player": {
+        "n": "Bhayshul Tuten",
+        "pos": "RB",
+        "t": "JAX"
+      },
+      "roster_id": 2,
+      "round": 6,
+      "team_name": "here so I wont get fined"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 54,
+      "player": {
+        "n": "Luther Burden",
+        "pos": "WR",
+        "t": "CHI"
+      },
+      "roster_id": 6,
+      "round": 6,
       "team_name": "JackinGoffInLaportaPotty"
     },
     {
@@ -474,10 +774,10 @@
       },
       "roster_id": 4,
       "round": 12,
-      "team_name": "Smelling Salts"
+      "team_name": "Hot Dog Fridge"
     }
   ],
-  "picks_made": 33,
+  "picks_made": 58,
   "roster_slots": [
     {
       "count": 1,
