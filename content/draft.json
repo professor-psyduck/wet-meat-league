@@ -1,7 +1,7 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-30T06:37:59Z",
+  "generated_at": "2026-08-30T12:33:36Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
@@ -765,6 +765,18 @@
       "team_name": "Fully Torqued"
     },
     {
+      "is_keeper": false,
+      "pick_no": 58,
+      "player": {
+        "n": "Parker Washington",
+        "pos": "WR",
+        "t": "JAX"
+      },
+      "roster_id": 5,
+      "round": 6,
+      "team_name": "Straight Yorkin' It"
+    },
+    {
       "is_keeper": true,
       "pick_no": 71,
       "player": {
@@ -813,7 +825,7 @@
       "team_name": "Hot Dog Fridge"
     }
   ],
-  "picks_made": 61,
+  "picks_made": 62,
   "roster_slots": [
     {
       "count": 1,
