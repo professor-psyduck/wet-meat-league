@@ -1,7 +1,7 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-30T12:33:36Z",
+  "generated_at": "2026-08-30T18:27:58Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
@@ -777,6 +777,150 @@
       "team_name": "Straight Yorkin' It"
     },
     {
+      "is_keeper": false,
+      "pick_no": 59,
+      "player": {
+        "n": "Mike Evans",
+        "pos": "WR",
+        "t": "SF"
+      },
+      "roster_id": 4,
+      "round": 6,
+      "team_name": "Hot Dog Fridge"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 60,
+      "player": {
+        "n": "Joe Burrow",
+        "pos": "QB",
+        "t": "CIN"
+      },
+      "roster_id": 3,
+      "round": 6,
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 61,
+      "player": {
+        "n": "Christian Watson",
+        "pos": "WR",
+        "t": "GB"
+      },
+      "roster_id": 3,
+      "round": 7,
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 62,
+      "player": {
+        "n": "TreVeyon Henderson",
+        "pos": "RB",
+        "t": "NE"
+      },
+      "roster_id": 4,
+      "round": 7,
+      "team_name": "Hot Dog Fridge"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 63,
+      "player": {
+        "n": "DJ Moore",
+        "pos": "WR",
+        "t": "BUF"
+      },
+      "roster_id": 9,
+      "round": 7,
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 64,
+      "player": {
+        "n": "Jameson Williams",
+        "pos": "WR",
+        "t": "DET"
+      },
+      "roster_id": 1,
+      "round": 7,
+      "team_name": "Fully Torqued"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 65,
+      "player": {
+        "n": "Jayden Daniels",
+        "pos": "QB",
+        "t": "WAS"
+      },
+      "roster_id": 8,
+      "round": 7,
+      "team_name": "Brave Mujahideen Fighters"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 66,
+      "player": {
+        "n": "Brian Thomas",
+        "pos": "WR",
+        "t": "JAX"
+      },
+      "roster_id": 10,
+      "round": 7,
+      "team_name": "America Jackson"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 67,
+      "player": {
+        "n": "Harold Fannin",
+        "pos": "TE",
+        "t": "CLE"
+      },
+      "roster_id": 3,
+      "round": 7,
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 68,
+      "player": {
+        "n": "Rome Odunze",
+        "pos": "WR",
+        "t": "CHI"
+      },
+      "roster_id": 2,
+      "round": 7,
+      "team_name": "here so I wont get fined"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 69,
+      "player": {
+        "n": "Jaylen Warren",
+        "pos": "RB",
+        "t": "PIT"
+      },
+      "roster_id": 9,
+      "round": 7,
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 70,
+      "player": {
+        "n": "Kyle Pitts",
+        "pos": "TE",
+        "t": "ATL"
+      },
+      "roster_id": 7,
+      "round": 7,
+      "team_name": "MoonKings"
+    },
+    {
       "is_keeper": true,
       "pick_no": 71,
       "player": {
@@ -787,6 +931,66 @@
       "roster_id": 7,
       "round": 8,
       "team_name": "MoonKings"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 72,
+      "player": {
+        "n": "Marvin Harrison",
+        "pos": "WR",
+        "t": "ARI"
+      },
+      "roster_id": 9,
+      "round": 8,
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 73,
+      "player": {
+        "n": "Caleb Williams",
+        "pos": "QB",
+        "t": "CHI"
+      },
+      "roster_id": 2,
+      "round": 8,
+      "team_name": "here so I wont get fined"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 74,
+      "player": {
+        "n": "Justin Herbert",
+        "pos": "QB",
+        "t": "LAC"
+      },
+      "roster_id": 6,
+      "round": 8,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 75,
+      "player": {
+        "n": "DK Metcalf",
+        "pos": "WR",
+        "t": "PIT"
+      },
+      "roster_id": 10,
+      "round": 8,
+      "team_name": "America Jackson"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 76,
+      "player": {
+        "n": "Rhamondre Stevenson",
+        "pos": "RB",
+        "t": "NE"
+      },
+      "roster_id": 8,
+      "round": 8,
+      "team_name": "Brave Mujahideen Fighters"
     },
     {
       "is_keeper": true,
@@ -825,7 +1029,7 @@
       "team_name": "Hot Dog Fridge"
     }
   ],
-  "picks_made": 62,
+  "picks_made": 79,
   "roster_slots": [
     {
       "count": 1,
@@ -860,7 +1064,7 @@
   "scoring": "ppr",
   "season": "2026",
   "start_time": 1787954502607,
-  "status": "paused",
+  "status": "drafting",
   "teams": 10,
   "type": "snake"
 }

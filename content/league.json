@@ -17,7 +17,7 @@
     "nfl_week": 1,
     "season_type": "regular"
   },
-  "generated_at": "2026-08-30T12:33:36Z",
+  "generated_at": "2026-08-30T18:27:58Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -311,7 +311,7 @@
     "12504": {
       "n": "Kaleb Johnson",
       "pos": "RB",
-      "t": "PIT"
+      "t": "GB"
     },
     "12506": {
       "n": "Harold Fannin",
@@ -956,7 +956,7 @@
     "8123": {
       "n": "Hassan Haskins",
       "pos": "RB",
-      "t": "NE"
+      "t": ""
     },
     "8125": {
       "n": "Calvin Austin",
