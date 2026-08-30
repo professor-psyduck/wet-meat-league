@@ -14,10 +14,10 @@
     "league_name": "Wet Meat League 2.0",
     "mode": "offseason",
     "nfl_season": "2026",
-    "nfl_week": 3,
-    "season_type": "pre"
+    "nfl_week": 1,
+    "season_type": "regular"
   },
-  "generated_at": "2026-08-30T01:04:42Z",
+  "generated_at": "2026-08-30T06:37:59Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
