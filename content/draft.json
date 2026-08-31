@@ -1,7 +1,7 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-31T01:06:23Z",
+  "generated_at": "2026-08-31T06:51:48Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
@@ -1137,6 +1137,42 @@
       "team_name": "here so I wont get fined"
     },
     {
+      "is_keeper": false,
+      "pick_no": 89,
+      "player": {
+        "n": "Chris Godwin",
+        "pos": "WR",
+        "t": "TB"
+      },
+      "roster_id": 9,
+      "round": 9,
+      "team_name": "Sutton in LaPorta John"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 90,
+      "player": {
+        "n": "Chuba Hubbard",
+        "pos": "RB",
+        "t": "CAR"
+      },
+      "roster_id": 7,
+      "round": 9,
+      "team_name": "MoonKings"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 91,
+      "player": {
+        "n": "J.K. Dobbins",
+        "pos": "RB",
+        "t": "DEN"
+      },
+      "roster_id": 7,
+      "round": 10,
+      "team_name": "MoonKings"
+    },
+    {
       "is_keeper": true,
       "pick_no": 103,
       "player": {
@@ -1173,7 +1209,7 @@
       "team_name": "Hot Dog Fridge"
     }
   ],
-  "picks_made": 91,
+  "picks_made": 94,
   "roster_slots": [
     {
       "count": 1,
@@ -1208,7 +1244,7 @@
   "scoring": "ppr",
   "season": "2026",
   "start_time": 1787954502607,
-  "status": "drafting",
+  "status": "paused",
   "teams": 10,
   "type": "snake"
 }
