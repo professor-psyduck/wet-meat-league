@@ -1,7 +1,7 @@
 {
   "available": true,
   "draft_id": "1357559174719885312",
-  "generated_at": "2026-08-30T18:27:58Z",
+  "generated_at": "2026-08-31T01:06:23Z",
   "keepers": {
     "keeper_deadline": null,
     "max_keepers": 1
@@ -993,6 +993,150 @@
       "team_name": "Brave Mujahideen Fighters"
     },
     {
+      "is_keeper": false,
+      "pick_no": 77,
+      "player": {
+        "n": "Dak Prescott",
+        "pos": "QB",
+        "t": "DAL"
+      },
+      "roster_id": 1,
+      "round": 8,
+      "team_name": "Fully Torqued"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 78,
+      "player": {
+        "n": "Dalton Kincaid",
+        "pos": "TE",
+        "t": "BUF"
+      },
+      "roster_id": 5,
+      "round": 8,
+      "team_name": "Straight Yorkin' It"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 79,
+      "player": {
+        "n": "Michael Wilson",
+        "pos": "WR",
+        "t": "ARI"
+      },
+      "roster_id": 4,
+      "round": 8,
+      "team_name": "Hot Dog Fridge"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 80,
+      "player": {
+        "n": "Rico Dowdle",
+        "pos": "RB",
+        "t": "PIT"
+      },
+      "roster_id": 3,
+      "round": 8,
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 81,
+      "player": {
+        "n": "Wan'Dale Robinson",
+        "pos": "WR",
+        "t": "TEN"
+      },
+      "roster_id": 3,
+      "round": 9,
+      "team_name": "CeeDeez Nuts"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 82,
+      "player": {
+        "n": "Alec Pierce",
+        "pos": "WR",
+        "t": "IND"
+      },
+      "roster_id": 4,
+      "round": 9,
+      "team_name": "Hot Dog Fridge"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 83,
+      "player": {
+        "n": "RJ Harvey",
+        "pos": "RB",
+        "t": "DEN"
+      },
+      "roster_id": 5,
+      "round": 9,
+      "team_name": "Straight Yorkin' It"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 84,
+      "player": {
+        "n": "Tony Pollard",
+        "pos": "RB",
+        "t": "TEN"
+      },
+      "roster_id": 1,
+      "round": 9,
+      "team_name": "Fully Torqued"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 85,
+      "player": {
+        "n": "Quentin Johnston",
+        "pos": "WR",
+        "t": "LAC"
+      },
+      "roster_id": 8,
+      "round": 9,
+      "team_name": "Brave Mujahideen Fighters"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 86,
+      "player": {
+        "n": "Los Angeles Rams",
+        "pos": "DEF",
+        "t": "LAR"
+      },
+      "roster_id": 10,
+      "round": 9,
+      "team_name": "America Jackson"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 87,
+      "player": {
+        "n": "George Kittle",
+        "pos": "TE",
+        "t": "SF"
+      },
+      "roster_id": 6,
+      "round": 9,
+      "team_name": "JackinGoffInLaportaPotty"
+    },
+    {
+      "is_keeper": false,
+      "pick_no": 88,
+      "player": {
+        "n": "De'Zhaun Stribling",
+        "pos": "WR",
+        "t": "SF"
+      },
+      "roster_id": 2,
+      "round": 9,
+      "team_name": "here so I wont get fined"
+    },
+    {
       "is_keeper": true,
       "pick_no": 103,
       "player": {
@@ -1029,7 +1173,7 @@
       "team_name": "Hot Dog Fridge"
     }
   ],
-  "picks_made": 79,
+  "picks_made": 91,
   "roster_slots": [
     {
       "count": 1,
