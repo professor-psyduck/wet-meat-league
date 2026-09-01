@@ -1,56 +1,56 @@
 {
   "available": true,
   "champion": {
-    "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-    "manager": "laidbacula",
-    "roster_id": 8,
-    "score": 160.34,
-    "team_name": "Brave Mujahideen Fighters"
+    "avatar": null,
+    "manager": null,
+    "roster_id": null,
+    "score": null,
+    "team_name": "TBD"
   },
-  "generated_at": "2026-09-01T11:44:45Z",
+  "generated_at": "2026-09-01T21:06:09Z",
   "league_name": "Wet Meat League 2.0",
   "rounds": [
     {
       "games": [
         {
-          "loser_roster_id": 3,
+          "loser_roster_id": null,
           "m": 1,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
-            "manager": "RoombaCentral",
-            "roster_id": 3,
-            "score": 133.56,
-            "team_name": "CeeDeez Nuts"
+            "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+            "manager": "bostwik",
+            "roster_id": 6,
+            "score": 0,
+            "team_name": "As-salamu Lakers"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-            "manager": "laidbacula",
-            "roster_id": 8,
-            "score": 142.3,
-            "team_name": "Brave Mujahideen Fighters"
+            "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+            "manager": "cfaz23",
+            "roster_id": 10,
+            "score": 0,
+            "team_name": "America Jackson"
           },
-          "winner_roster_id": 8
+          "winner_roster_id": null
         },
         {
-          "loser_roster_id": 4,
+          "loser_roster_id": null,
           "m": 2,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
-            "manager": "SmeIIingSalts",
-            "roster_id": 4,
-            "score": 126.5,
-            "team_name": "Smelling Salts"
+            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+            "manager": "laidbacula",
+            "roster_id": 8,
+            "score": 0,
+            "team_name": "Brave Mujahideen Fighters"
           },
           "t2": {
             "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
             "manager": "Prof_Ducky69fdf",
             "roster_id": 2,
-            "score": 176.7,
-            "team_name": "here so I wont get fined"
+            "score": 0,
+            "team_name": "The Moist Balls"
           },
-          "winner_roster_id": 2
+          "winner_roster_id": null
         }
       ],
       "name": "Round 1",
@@ -60,64 +60,64 @@
     {
       "games": [
         {
-          "loser_roster_id": 4,
+          "loser_roster_id": null,
           "m": 5,
           "placement": 5,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/b9b9ebebc774f9c9ceffa9df1d19f912.jpg",
-            "manager": "RoombaCentral",
-            "roster_id": 3,
-            "score": 106.56,
-            "team_name": "CeeDeez Nuts"
+            "avatar": null,
+            "manager": null,
+            "roster_id": null,
+            "score": null,
+            "team_name": "TBD"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/ab2063de6c36d5204fef8869402dbafb.jpg",
-            "manager": "SmeIIingSalts",
-            "roster_id": 4,
-            "score": 69.0,
-            "team_name": "Smelling Salts"
+            "avatar": null,
+            "manager": null,
+            "roster_id": null,
+            "score": null,
+            "team_name": "TBD"
           },
-          "winner_roster_id": 3
+          "winner_roster_id": null
         },
         {
-          "loser_roster_id": 1,
+          "loser_roster_id": null,
           "m": 3,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
-            "manager": "EntropyEngine",
-            "roster_id": 1,
-            "score": 154.86,
-            "team_name": "Fully Torqued"
+            "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+            "manager": "moontitties",
+            "roster_id": 7,
+            "score": 0,
+            "team_name": "MoonKings"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-            "manager": "laidbacula",
-            "roster_id": 8,
-            "score": 166.4,
-            "team_name": "Brave Mujahideen Fighters"
+            "avatar": null,
+            "manager": null,
+            "roster_id": null,
+            "score": null,
+            "team_name": "TBD"
           },
-          "winner_roster_id": 8
+          "winner_roster_id": null
         },
         {
-          "loser_roster_id": 5,
+          "loser_roster_id": null,
           "m": 4,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
-            "manager": "__hellbent",
-            "roster_id": 5,
-            "score": 135.4,
-            "team_name": "Amon-Ra Doggin "
+            "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+            "manager": "DaMan_K",
+            "roster_id": 9,
+            "score": 0,
+            "team_name": "Sutton in LaPorta John"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
-            "manager": "Prof_Ducky69fdf",
-            "roster_id": 2,
-            "score": 153.0,
-            "team_name": "here so I wont get fined"
+            "avatar": null,
+            "manager": null,
+            "roster_id": null,
+            "score": null,
+            "team_name": "TBD"
           },
-          "winner_roster_id": 2
+          "winner_roster_id": null
         }
       ],
       "name": "Semifinals",
@@ -127,44 +127,44 @@
     {
       "games": [
         {
-          "loser_roster_id": 2,
+          "loser_roster_id": null,
           "m": 6,
           "placement": 1,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-            "manager": "laidbacula",
-            "roster_id": 8,
-            "score": 160.34,
-            "team_name": "Brave Mujahideen Fighters"
+            "avatar": null,
+            "manager": null,
+            "roster_id": null,
+            "score": null,
+            "team_name": "TBD"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
-            "manager": "Prof_Ducky69fdf",
-            "roster_id": 2,
-            "score": 142.52,
-            "team_name": "here so I wont get fined"
+            "avatar": null,
+            "manager": null,
+            "roster_id": null,
+            "score": null,
+            "team_name": "TBD"
           },
-          "winner_roster_id": 8
+          "winner_roster_id": null
         },
         {
-          "loser_roster_id": 5,
+          "loser_roster_id": null,
           "m": 7,
           "placement": 3,
           "t1": {
-            "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
-            "manager": "EntropyEngine",
-            "roster_id": 1,
-            "score": 150.68,
-            "team_name": "Fully Torqued"
+            "avatar": null,
+            "manager": null,
+            "roster_id": null,
+            "score": null,
+            "team_name": "TBD"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/b239de7021766184ad31781a484ded68.jpg",
-            "manager": "__hellbent",
-            "roster_id": 5,
-            "score": 119.12,
-            "team_name": "Amon-Ra Doggin "
+            "avatar": null,
+            "manager": null,
+            "roster_id": null,
+            "score": null,
+            "team_name": "TBD"
           },
-          "winner_roster_id": 1
+          "winner_roster_id": null
         }
       ],
       "name": "Championship",
@@ -173,18 +173,18 @@
     }
   ],
   "runner_up": {
-    "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
-    "manager": "Prof_Ducky69fdf",
-    "roster_id": 2,
-    "score": 142.52,
-    "team_name": "here so I wont get fined"
+    "avatar": null,
+    "manager": null,
+    "roster_id": null,
+    "score": null,
+    "team_name": "TBD"
   },
-  "season": "2025",
+  "season": "2026",
   "third": {
-    "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
-    "manager": "EntropyEngine",
-    "roster_id": 1,
-    "score": 150.68,
-    "team_name": "Fully Torqued"
+    "avatar": null,
+    "manager": null,
+    "roster_id": null,
+    "score": null,
+    "team_name": "TBD"
   }
 }

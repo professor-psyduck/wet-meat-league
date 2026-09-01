@@ -1,12 +1,12 @@
 {
-  "champion": "Brave Mujahideen Fighters",
-  "data_season": "2025",
-  "data_status": "complete",
+  "champion": "TBD",
+  "data_season": "2026",
+  "data_status": "in_season",
   "draft": {
     "draft_id": "1357559174719885312",
-    "picks_made": 149,
+    "picks_made": 150,
     "season": "2026",
-    "status": "paused"
+    "status": "complete"
   },
   "files": {
     "draft": "content/draft.json",
@@ -17,15 +17,15 @@
     "standings": "content/standings.json",
     "transactions": "content/transactions.json"
   },
-  "generated_at": "2026-09-01T11:44:45Z",
+  "generated_at": "2026-09-01T21:06:09Z",
   "league_name": "Wet Meat League 2.0",
-  "mode": "offseason",
+  "mode": "in_season",
   "power": {
     "method": "computed",
-    "week": 14
+    "week": 0
   },
   "transactions": {
-    "count": 301,
-    "trades": 8
+    "count": 3,
+    "trades": 0
   }
 }
