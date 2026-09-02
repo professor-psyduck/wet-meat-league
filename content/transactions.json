@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-09-01T21:06:09Z",
+  "generated_at": "2026-09-02T16:39:01Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "9504"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 0,
+      "created": 1788272536341,
+      "drops": [],
+      "id": "1400520162053980160",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 1
+    },
+    {
+      "adds": [
+        "DET"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1788269336793,
+      "drops": [],
+      "id": "1400506742172864512",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "waiver",
+      "week": 1
+    },
     {
       "adds": [],
       "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",

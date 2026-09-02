@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:06:09Z",
+  "generated_at": "2026-09-02T16:39:01Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -58,7 +58,8 @@
         "7547",
         "8146",
         "9224",
-        "9500"
+        "9500",
+        "DET"
       ],
       "record": {
         "losses": 0,
@@ -74,7 +75,8 @@
         "8146",
         "5022",
         "12490",
-        "13279"
+        "13279",
+        "DET"
       ],
       "team_name": "The Moist Balls"
     },
@@ -367,6 +369,7 @@
         "8131",
         "8151",
         "9484",
+        "9504",
         "9753",
         "LAR"
       ],

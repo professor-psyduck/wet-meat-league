@@ -7,7 +7,7 @@
     "score": null,
     "team_name": "TBD"
   },
-  "generated_at": "2026-09-01T21:06:09Z",
+  "generated_at": "2026-09-02T16:39:01Z",
   "league_name": "Wet Meat League 2.0",
   "rounds": [
     {
@@ -17,18 +17,18 @@
           "m": 1,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
-            "manager": "bostwik",
-            "roster_id": 6,
+            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+            "manager": "laidbacula",
+            "roster_id": 8,
             "score": 0,
-            "team_name": "As-salamu Lakers"
+            "team_name": "Brave Mujahideen Fighters"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
-            "manager": "cfaz23",
-            "roster_id": 10,
+            "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+            "manager": "EntropyEngine",
+            "roster_id": 1,
             "score": 0,
-            "team_name": "America Jackson"
+            "team_name": "Fully Torqued"
           },
           "winner_roster_id": null
         },
@@ -37,18 +37,18 @@
           "m": 2,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-            "manager": "laidbacula",
-            "roster_id": 8,
+            "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+            "manager": "__hellbent",
+            "roster_id": 5,
             "score": 0,
-            "team_name": "Brave Mujahideen Fighters"
+            "team_name": "Uncirc Du Penix"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
-            "manager": "Prof_Ducky69fdf",
-            "roster_id": 2,
+            "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+            "manager": "bostwik",
+            "roster_id": 6,
             "score": 0,
-            "team_name": "The Moist Balls"
+            "team_name": "As-salamu Lakers"
           },
           "winner_roster_id": null
         }
