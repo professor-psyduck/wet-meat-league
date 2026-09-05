@@ -17,7 +17,7 @@
     "nfl_week": 1,
     "season_type": "regular"
   },
-  "generated_at": "2026-09-04T20:48:46Z",
+  "generated_at": "2026-09-05T04:36:15Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -792,6 +792,11 @@
       "n": "Seattle Seahawks",
       "pos": "DEF",
       "t": "SEA"
+    },
+    "TEN": {
+      "n": "Tennessee Titans",
+      "pos": "DEF",
+      "t": "TEN"
     }
   },
   "teams": [
