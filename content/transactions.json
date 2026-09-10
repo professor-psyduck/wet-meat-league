@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-09T20:58:57Z",
+  "generated_at": "2026-09-10T04:50:28Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "7002"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1788987730856,
+      "drops": [
+        "11624"
+      ],
+      "id": "1403519905269088256",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 1
+    },
     {
       "adds": [
         "TEN"
