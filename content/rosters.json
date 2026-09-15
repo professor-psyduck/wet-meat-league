@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:54:12Z",
+  "generated_at": "2026-09-15T05:00:06Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -24,7 +24,7 @@
       "record": {
         "losses": 0,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 1,
       "starters": [
@@ -64,7 +64,7 @@
       "record": {
         "losses": 0,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 2,
       "starters": [
@@ -101,7 +101,7 @@
         "JAX"
       ],
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
         "wins": 0
       },
@@ -140,7 +140,7 @@
         "TEN"
       ],
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
         "wins": 0
       },
@@ -181,7 +181,7 @@
       "record": {
         "losses": 0,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 5,
       "starters": [
@@ -220,7 +220,7 @@
       "record": {
         "losses": 0,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 6,
       "starters": [
@@ -259,7 +259,7 @@
       "record": {
         "losses": 0,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 7,
       "starters": [
@@ -296,7 +296,7 @@
         "LAC"
       ],
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
         "wins": 0
       },
@@ -335,7 +335,7 @@
         "DEN"
       ],
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
         "wins": 0
       },
@@ -375,7 +375,7 @@
         "LAR"
       ],
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
         "wins": 0
       },
