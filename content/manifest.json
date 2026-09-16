@@ -17,7 +17,7 @@
     "standings": "content/standings.json",
     "transactions": "content/transactions.json"
   },
-  "generated_at": "2026-09-15T21:26:06Z",
+  "generated_at": "2026-09-16T17:04:54Z",
   "league_name": "Wet Meat League 2.0",
   "mode": "in_season",
   "power": {
@@ -25,7 +25,7 @@
     "week": 1
   },
   "transactions": {
-    "count": 7,
+    "count": 13,
     "trades": 0
   }
 }
