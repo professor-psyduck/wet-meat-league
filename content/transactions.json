@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-17T04:58:54Z",
+  "generated_at": "2026-09-17T17:05:47Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "KC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "created": 1789663726225,
+      "drops": [
+        "DEN"
+      ],
+      "id": "1406355235349266432",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Jahmyroquai",
+      "type": "free_agent",
+      "week": 2
+    },
+    {
+      "adds": [
+        "3214"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "created": 1789663401968,
+      "drops": [
+        "1479"
+      ],
+      "id": "1406353875316789248",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Jahmyroquai",
+      "type": "free_agent",
+      "week": 2
+    },
     {
       "adds": [
         "6804"
