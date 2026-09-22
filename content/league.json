@@ -14,10 +14,10 @@
     "league_name": "Wet Meat League 2.0",
     "mode": "in_season",
     "nfl_season": "2026",
-    "nfl_week": 2,
+    "nfl_week": 3,
     "season_type": "regular"
   },
-  "generated_at": "2026-09-20T20:53:37Z",
+  "generated_at": "2026-09-22T05:05:41Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -877,9 +877,9 @@
   "teams": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
-      "fpts": 115.2,
-      "fpts_against": 108.84,
-      "losses": 0,
+      "fpts": 216.36,
+      "fpts_against": 265.74,
+      "losses": 1,
       "manager": "EntropyEngine",
       "owner_id": "1049179218359353344",
       "roster_id": 1,
@@ -889,45 +889,45 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
-      "fpts": 154.66,
-      "fpts_against": 145.06,
+      "fpts": 275.88,
+      "fpts_against": 244.44,
       "losses": 0,
       "manager": "Prof_Ducky69fdf",
       "owner_id": "846235989625151488",
       "roster_id": 2,
       "team_name": "The Moist Balls",
       "ties": 0,
-      "wins": 1
+      "wins": 2
     },
     {
       "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
-      "fpts": 145.06,
-      "fpts_against": 154.66,
+      "fpts": 285.74,
+      "fpts_against": 255.12,
       "losses": 1,
       "manager": "RoombaCentral",
       "owner_id": "604066791269912576",
       "roster_id": 3,
       "team_name": "BillCroskeyCanDrownAFish",
       "ties": 0,
-      "wins": 0
+      "wins": 1
     },
     {
       "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
-      "fpts": 92.16,
-      "fpts_against": 149.22,
+      "fpts": 224.28,
+      "fpts_against": 260.14,
       "losses": 1,
       "manager": "SmeIIingSalts",
       "owner_id": "1065849514403188736",
       "roster_id": 4,
       "team_name": "Hot Dog Fridge",
       "ties": 0,
-      "wins": 0
+      "wins": 1
     },
     {
       "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
-      "fpts": 171.82,
-      "fpts_against": 123.46,
-      "losses": 0,
+      "fpts": 282.74,
+      "fpts_against": 255.58,
+      "losses": 1,
       "manager": "__hellbent",
       "owner_id": "846238363399852032",
       "roster_id": 5,
@@ -937,21 +937,21 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
-      "fpts": 159.66,
-      "fpts_against": 129.86,
+      "fpts": 320.94,
+      "fpts_against": 225.0,
       "losses": 0,
       "manager": "bostwik",
       "owner_id": "1065693302403575808",
       "roster_id": 6,
       "team_name": "As-salamu Lakers",
       "ties": 0,
-      "wins": 1
+      "wins": 2
     },
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
-      "fpts": 149.22,
-      "fpts_against": 92.16,
-      "losses": 0,
+      "fpts": 249.68,
+      "fpts_against": 232.84,
+      "losses": 1,
       "manager": "moontitties",
       "owner_id": "1106570064435740672",
       "roster_id": 7,
@@ -961,9 +961,9 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-      "fpts": 123.46,
-      "fpts_against": 171.82,
-      "losses": 1,
+      "fpts": 218.6,
+      "fpts_against": 333.1,
+      "losses": 2,
       "manager": "laidbacula",
       "owner_id": "846237768458829824",
       "roster_id": 8,
@@ -973,9 +973,9 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
-      "fpts": 108.84,
-      "fpts_against": 115.2,
-      "losses": 1,
+      "fpts": 208.22,
+      "fpts_against": 236.42,
+      "losses": 2,
       "manager": "DaMan_K",
       "owner_id": "608030079938797568",
       "roster_id": 9,
@@ -985,15 +985,15 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
-      "fpts": 129.86,
-      "fpts_against": 159.66,
+      "fpts": 286.76,
+      "fpts_against": 260.82,
       "losses": 1,
       "manager": "cfaz23",
       "owner_id": "1048780875728633856",
       "roster_id": 10,
       "team_name": "America Jackson",
       "ties": 0,
-      "wins": 0
+      "wins": 1
     }
   ]
 }

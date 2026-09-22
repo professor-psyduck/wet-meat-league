@@ -7,7 +7,7 @@
     "score": null,
     "team_name": "TBD"
   },
-  "generated_at": "2026-09-20T20:53:37Z",
+  "generated_at": "2026-09-22T05:05:41Z",
   "league_name": "Wet Meat League 2.0",
   "rounds": [
     {
@@ -17,18 +17,18 @@
           "m": 1,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
-            "manager": "moontitties",
-            "roster_id": 7,
+            "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+            "manager": "RoombaCentral",
+            "roster_id": 3,
             "score": 0,
-            "team_name": "MoonKings"
+            "team_name": "BillCroskeyCanDrownAFish"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
-            "manager": "EntropyEngine",
-            "roster_id": 1,
+            "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+            "manager": "__hellbent",
+            "roster_id": 5,
             "score": 0,
-            "team_name": "Fully Torqued"
+            "team_name": "Uncirc Du Penix"
           },
           "winner_roster_id": null
         },
@@ -37,18 +37,18 @@
           "m": 2,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
-            "manager": "RoombaCentral",
-            "roster_id": 3,
+            "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+            "manager": "moontitties",
+            "roster_id": 7,
             "score": 0,
-            "team_name": "BillCroskeyCanDrownAFish"
+            "team_name": "MoonKings"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
-            "manager": "Prof_Ducky69fdf",
-            "roster_id": 2,
+            "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+            "manager": "cfaz23",
+            "roster_id": 10,
             "score": 0,
-            "team_name": "The Moist Balls"
+            "team_name": "America Jackson"
           },
           "winner_roster_id": null
         }
@@ -84,11 +84,11 @@
           "m": 3,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
-            "manager": "__hellbent",
-            "roster_id": 5,
+            "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+            "manager": "bostwik",
+            "roster_id": 6,
             "score": 0,
-            "team_name": "Uncirc Du Penix"
+            "team_name": "As-salamu Lakers"
           },
           "t2": {
             "avatar": null,
@@ -104,11 +104,11 @@
           "m": 4,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
-            "manager": "bostwik",
-            "roster_id": 6,
+            "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+            "manager": "Prof_Ducky69fdf",
+            "roster_id": 2,
             "score": 0,
-            "team_name": "As-salamu Lakers"
+            "team_name": "The Moist Balls"
           },
           "t2": {
             "avatar": null,

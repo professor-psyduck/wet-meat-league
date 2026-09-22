@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:53:37Z",
+  "generated_at": "2026-09-22T05:05:41Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -23,7 +23,7 @@
         "PHI"
       ],
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
         "wins": 1
       },
@@ -65,7 +65,7 @@
       "record": {
         "losses": 0,
         "ties": 0,
-        "wins": 1
+        "wins": 2
       },
       "roster_id": 2,
       "starters": [
@@ -104,7 +104,7 @@
       "record": {
         "losses": 1,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 3,
       "starters": [
@@ -143,16 +143,16 @@
       "record": {
         "losses": 1,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 4,
       "starters": [
         "4984",
         "7543",
         "12529",
-        "8142",
+        "9493",
         "8137",
-        "8110",
+        "1466",
         "7526",
         "2216",
         "GB"
@@ -181,7 +181,7 @@
         "BAL"
       ],
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
         "wins": 1
       },
@@ -222,7 +222,7 @@
       "record": {
         "losses": 0,
         "ties": 0,
-        "wins": 1
+        "wins": 2
       },
       "roster_id": 6,
       "starters": [
@@ -259,7 +259,7 @@
         "SEA"
       ],
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
         "wins": 1
       },
@@ -299,7 +299,7 @@
         "TB"
       ],
       "record": {
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
         "wins": 0
       },
@@ -338,7 +338,7 @@
         "KC"
       ],
       "record": {
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
         "wins": 0
       },
@@ -380,7 +380,7 @@
       "record": {
         "losses": 1,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 10,
       "starters": [
