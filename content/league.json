@@ -17,7 +17,7 @@
     "nfl_week": 3,
     "season_type": "regular"
   },
-  "generated_at": "2026-09-23T11:45:48Z",
+  "generated_at": "2026-09-23T17:09:46Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -112,6 +112,11 @@
       "n": "Xavier Worthy",
       "pos": "WR",
       "t": "KC"
+    },
+    "11625": {
+      "n": "Adonai Mitchell",
+      "pos": "WR",
+      "t": "NYJ"
     },
     "11628": {
       "n": "Marvin Harrison",
@@ -237,6 +242,11 @@
       "n": "Kyle Monangai",
       "pos": "RB",
       "t": "CHI"
+    },
+    "12545": {
+      "n": "Tyler Shough",
+      "pos": "QB",
+      "t": "NO"
     },
     "13279": {
       "n": "Carnell Tate",
@@ -428,6 +438,11 @@
       "pos": "QB",
       "t": "BUF"
     },
+    "5001": {
+      "n": "Dalton Schultz",
+      "pos": "TE",
+      "t": "HOU"
+    },
     "5012": {
       "n": "Mark Andrews",
       "pos": "TE",
@@ -452,6 +467,11 @@
       "n": "Josh Jacobs",
       "pos": "RB",
       "t": "GB"
+    },
+    "5854": {
+      "n": "Drew Lock",
+      "pos": "QB",
+      "t": "SEA"
     },
     "5859": {
       "n": "A.J. Brown",
@@ -592,6 +612,11 @@
       "n": "Nico Collins",
       "pos": "WR",
       "t": "HOU"
+    },
+    "7571": {
+      "n": "Rashod Bateman",
+      "pos": "WR",
+      "t": "BAL"
     },
     "7588": {
       "n": "Javonte Williams",
@@ -743,6 +768,11 @@
       "pos": "RB",
       "t": "MIA"
     },
+    "9228": {
+      "n": "Bryce Young",
+      "pos": "QB",
+      "t": "CAR"
+    },
     "9484": {
       "n": "Tucker Kraft",
       "pos": "TE",
@@ -808,6 +838,11 @@
       "pos": "DEF",
       "t": "BAL"
     },
+    "CAR": {
+      "n": "Carolina Panthers",
+      "pos": "DEF",
+      "t": "CAR"
+    },
     "DEN": {
       "n": "Denver Broncos",
       "pos": "DEF",
@@ -847,6 +882,21 @@
       "n": "Los Angeles Rams",
       "pos": "DEF",
       "t": "LAR"
+    },
+    "MIN": {
+      "n": "Minnesota Vikings",
+      "pos": "DEF",
+      "t": "MIN"
+    },
+    "NO": {
+      "n": "New Orleans Saints",
+      "pos": "DEF",
+      "t": "NO"
+    },
+    "NYG": {
+      "n": "New York Giants",
+      "pos": "DEF",
+      "t": "NYG"
     },
     "PHI": {
       "n": "Philadelphia Eagles",

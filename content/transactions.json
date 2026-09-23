@@ -1,8 +1,227 @@
 {
-  "generated_at": "2026-09-23T11:45:48Z",
+  "generated_at": "2026-09-23T17:09:46Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "5854"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "created": 1790179536945,
+      "drops": [
+        "11370"
+      ],
+      "id": "1408518702315446272",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "11625"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 10,
+      "created": 1790143812504,
+      "drops": [
+        "6819"
+      ],
+      "id": "1408368863145390080",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "NYG"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1790130874646,
+      "drops": [
+        "SF"
+      ],
+      "id": "1408314597840084992",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "5001"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 16,
+      "created": 1790130841672,
+      "drops": [
+        "13337"
+      ],
+      "id": "1408314459532840960",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "12545"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 25,
+      "created": 1790130700138,
+      "drops": [
+        "12508"
+      ],
+      "id": "1408313865896271872",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "MIN"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "bid": 2,
+      "created": 1790123003932,
+      "drops": [
+        "JAX"
+      ],
+      "id": "1408281585668694016",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "11624"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 5,
+      "created": 1790096591581,
+      "drops": [
+        "11628"
+      ],
+      "id": "1408170804243349504",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Jahmyroquai",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "NO"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "bid": 2,
+      "created": 1790092576946,
+      "drops": [
+        "BAL"
+      ],
+      "id": "1408153965639557120",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "9228"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 15,
+      "created": 1790005571017,
+      "drops": [
+        "9754"
+      ],
+      "id": "1407789036327673856",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "7571"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "bid": 3,
+      "created": 1789957110669,
+      "drops": [
+        "10222"
+      ],
+      "id": "1407585778892013568",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "waiver",
+      "week": 2
+    },
+    {
+      "adds": [
+        "CAR"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 2,
+      "created": 1789941765539,
+      "drops": [
+        "TB"
+      ],
+      "id": "1407521416751935488",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 2
+    },
     {
       "adds": [
         "13346"
