@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:09:46Z",
+  "generated_at": "2026-09-23T21:33:38Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -192,7 +192,8 @@
         "8144",
         "10236",
         "9997",
-        "9487"
+        "9487",
+        "NO"
       ],
       "team_name": "Uncirc Du Penix"
     },
@@ -302,14 +303,15 @@
       },
       "roster_id": 8,
       "starters": [
-        "11566",
+        "9228",
         "4034",
         "8155",
         "5872",
         "6801",
         "7002",
         "5892",
-        "7611"
+        "7611",
+        "CAR"
       ],
       "team_name": "Brave Mujahideen Fighters"
     },
