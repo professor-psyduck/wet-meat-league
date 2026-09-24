@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:54:33Z",
+  "generated_at": "2026-09-24T17:16:45Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
@@ -58,6 +58,26 @@
       ],
       "team_name": "Hot Dog Fridge",
       "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "13337"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "bid": 3,
+      "created": 1790207254017,
+      "drops": [
+        "8126"
+      ],
+      "id": "1408634956137136128",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "waiver",
       "week": 3
     },
     {
