@@ -17,7 +17,7 @@
     "nfl_week": 3,
     "season_type": "regular"
   },
-  "generated_at": "2026-09-23T21:33:38Z",
+  "generated_at": "2026-09-24T04:59:04Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -57,6 +57,11 @@
       "n": "Chris Brooks",
       "pos": "RB",
       "t": "GB"
+    },
+    "11435": {
+      "n": "Emanuel Wilson",
+      "pos": "RB",
+      "t": "SEA"
     },
     "11560": {
       "n": "Caleb Williams",
@@ -387,6 +392,11 @@
       "n": "Christian McCaffrey",
       "pos": "RB",
       "t": "SF"
+    },
+    "4035": {
+      "n": "Alvin Kamara",
+      "pos": "RB",
+      "t": "NO"
     },
     "4037": {
       "n": "Chris Godwin",
