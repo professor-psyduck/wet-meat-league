@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-25T05:03:38Z",
+  "generated_at": "2026-09-25T17:16:56Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "10213"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "created": 1790352021769,
+      "drops": [
+        "13296"
+      ],
+      "id": "1409242156102610944",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "4943"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "created": 1790351924085,
+      "drops": [
+        "9758"
+      ],
+      "id": "1409241746386272256",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "free_agent",
+      "week": 3
+    },
+    {
+      "adds": [
+        "9758"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "created": 1790351717299,
+      "drops": [
+        "5854"
+      ],
+      "id": "1409240879062900736",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "free_agent",
+      "week": 3
+    },
     {
       "adds": [
         "SF"

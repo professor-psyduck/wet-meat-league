@@ -17,12 +17,17 @@
     "nfl_week": 3,
     "season_type": "regular"
   },
-  "generated_at": "2026-09-25T05:03:38Z",
+  "generated_at": "2026-09-25T17:16:56Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
   },
   "players": {
+    "10213": {
+      "n": "Tre Tucker",
+      "pos": "WR",
+      "t": "LV"
+    },
     "10219": {
       "n": "Chris Rodriguez",
       "pos": "RB",
@@ -438,6 +443,11 @@
       "pos": "QB",
       "t": "TB"
     },
+    "4943": {
+      "n": "Sam Darnold",
+      "pos": "QB",
+      "t": "SEA"
+    },
     "4983": {
       "n": "DJ Moore",
       "pos": "WR",
@@ -837,6 +847,11 @@
       "n": "Jordan Addison",
       "pos": "WR",
       "t": "MIN"
+    },
+    "9758": {
+      "n": "C.J. Stroud",
+      "pos": "QB",
+      "t": "HOU"
     },
     "9997": {
       "n": "Zay Flowers",
