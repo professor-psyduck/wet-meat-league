@@ -1,8 +1,8 @@
 {
   "cursors": {
-    "content_hash": "17b8b0eb910d70dda0c5a5bc5e3b8ef7bae460f51f672e6c5662447bacad9238"
+    "content_hash": "ceedd10ed999fd46ca489d2c6a68af8ecbfb0e119cee3b0bf89f3ff74a7721ce"
   },
-  "last_run": "2026-09-27T17:01:49Z",
+  "last_run": "2026-09-29T05:49:29Z",
   "resolved": {
     "chain": [
       "1357559174707281920",
@@ -18,7 +18,7 @@
     "league_name": "Wet Meat League 2.0",
     "mode": "in_season",
     "nfl_season": "2026",
-    "nfl_week": 3,
+    "nfl_week": 4,
     "season_type": "regular"
   },
   "schema": 1,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:01:49Z",
+  "generated_at": "2026-09-29T05:49:29Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -25,7 +25,7 @@
       "record": {
         "losses": 1,
         "ties": 0,
-        "wins": 1
+        "wins": 2
       },
       "roster_id": 1,
       "starters": [
@@ -63,7 +63,7 @@
         "CIN"
       ],
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
         "wins": 2
       },
@@ -104,7 +104,7 @@
       "record": {
         "losses": 1,
         "ties": 0,
-        "wins": 1
+        "wins": 2
       },
       "roster_id": 3,
       "starters": [
@@ -141,7 +141,7 @@
         "SF"
       ],
       "record": {
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
         "wins": 1
       },
@@ -181,7 +181,7 @@
         "NO"
       ],
       "record": {
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
         "wins": 1
       },
@@ -222,7 +222,7 @@
       "record": {
         "losses": 0,
         "ties": 0,
-        "wins": 2
+        "wins": 3
       },
       "roster_id": 6,
       "starters": [
@@ -259,7 +259,7 @@
         "SEA"
       ],
       "record": {
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
         "wins": 1
       },
@@ -301,18 +301,18 @@
       "record": {
         "losses": 2,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 8,
       "starters": [
         "9228",
         "4034",
-        "8155",
+        "5892",
         "8112",
         "6801",
         "11604",
-        "5892",
-        "13346",
+        "5872",
+        "7002",
         "CAR"
       ],
       "team_name": "Brave Mujahideen Fighters"
@@ -340,7 +340,7 @@
       "record": {
         "losses": 2,
         "ties": 0,
-        "wins": 0
+        "wins": 1
       },
       "roster_id": 9,
       "starters": [
@@ -378,7 +378,7 @@
         "LAR"
       ],
       "record": {
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
         "wins": 1
       },
