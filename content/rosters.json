@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:24:20Z",
+  "generated_at": "2026-10-03T21:23:27Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -85,6 +85,7 @@
       "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
       "manager": "RoombaCentral",
       "players": [
+        "11435",
         "11581",
         "12506",
         "12514",
@@ -97,7 +98,6 @@
         "7564",
         "8121",
         "8134",
-        "8154",
         "8167",
         "8183",
         "MIN"
