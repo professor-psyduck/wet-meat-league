@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:34:28Z",
+  "generated_at": "2026-10-06T06:28:41Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -25,7 +25,7 @@
       "record": {
         "losses": 1,
         "ties": 0,
-        "wins": 2
+        "wins": 3
       },
       "roster_id": 1,
       "starters": [
@@ -63,7 +63,7 @@
         "BAL"
       ],
       "record": {
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
         "wins": 2
       },
@@ -103,7 +103,7 @@
         "MIN"
       ],
       "record": {
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
         "wins": 2
       },
@@ -142,7 +142,7 @@
         "SF"
       ],
       "record": {
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
         "wins": 1
       },
@@ -182,7 +182,7 @@
         "CHI"
       ],
       "record": {
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
         "wins": 1
       },
@@ -223,7 +223,7 @@
       "record": {
         "losses": 0,
         "ties": 0,
-        "wins": 3
+        "wins": 4
       },
       "roster_id": 6,
       "starters": [
@@ -260,7 +260,7 @@
         "SEA"
       ],
       "record": {
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
         "wins": 1
       },
@@ -302,7 +302,7 @@
       "record": {
         "losses": 2,
         "ties": 0,
-        "wins": 1
+        "wins": 2
       },
       "roster_id": 8,
       "starters": [
@@ -341,7 +341,7 @@
       "record": {
         "losses": 2,
         "ties": 0,
-        "wins": 1
+        "wins": 2
       },
       "roster_id": 9,
       "starters": [
@@ -381,7 +381,7 @@
       "record": {
         "losses": 2,
         "ties": 0,
-        "wins": 1
+        "wins": 2
       },
       "roster_id": 10,
       "starters": [

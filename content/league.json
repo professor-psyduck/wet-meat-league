@@ -14,10 +14,10 @@
     "league_name": "Wet Meat League 2.0",
     "mode": "in_season",
     "nfl_season": "2026",
-    "nfl_week": 4,
+    "nfl_week": 5,
     "season_type": "regular"
   },
-  "generated_at": "2026-10-04T21:34:28Z",
+  "generated_at": "2026-10-06T06:28:41Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -1022,21 +1022,21 @@
   "teams": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
-      "fpts": 351.9,
-      "fpts_against": 379.34,
+      "fpts": 489.5,
+      "fpts_against": 505.14,
       "losses": 1,
       "manager": "EntropyEngine",
       "owner_id": "1049179218359353344",
       "roster_id": 1,
       "team_name": "Fully Torqued",
       "ties": 0,
-      "wins": 2
+      "wins": 3
     },
     {
       "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
-      "fpts": 389.48,
-      "fpts_against": 379.98,
-      "losses": 1,
+      "fpts": 483.72,
+      "fpts_against": 528.26,
+      "losses": 2,
       "manager": "Prof_Ducky69fdf",
       "owner_id": "846235989625151488",
       "roster_id": 2,
@@ -1046,9 +1046,9 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
-      "fpts": 442.32,
-      "fpts_against": 373.78,
-      "losses": 1,
+      "fpts": 542.54,
+      "fpts_against": 503.28,
+      "losses": 2,
       "manager": "RoombaCentral",
       "owner_id": "604066791269912576",
       "roster_id": 3,
@@ -1058,9 +1058,9 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
-      "fpts": 328.44,
-      "fpts_against": 423.64,
-      "losses": 2,
+      "fpts": 452.66,
+      "fpts_against": 560.2,
+      "losses": 3,
       "manager": "SmeIIingSalts",
       "owner_id": "1065849514403188736",
       "roster_id": 4,
@@ -1070,9 +1070,9 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
-      "fpts": 401.4,
-      "fpts_against": 412.16,
-      "losses": 2,
+      "fpts": 542.52,
+      "fpts_against": 576.64,
+      "losses": 3,
       "manager": "__hellbent",
       "owner_id": "846238363399852032",
       "roster_id": 5,
@@ -1082,21 +1082,21 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
-      "fpts": 484.44,
-      "fpts_against": 329.16,
+      "fpts": 613.94,
+      "fpts_against": 429.38,
       "losses": 0,
       "manager": "bostwik",
       "owner_id": "1065693302403575808",
       "roster_id": 6,
       "team_name": "As-salamu Lakers",
       "ties": 0,
-      "wins": 3
+      "wins": 4
     },
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
-      "fpts": 349.92,
-      "fpts_against": 361.5,
-      "losses": 2,
+      "fpts": 475.72,
+      "fpts_against": 499.1,
+      "losses": 3,
       "manager": "moontitties",
       "owner_id": "1106570064435740672",
       "roster_id": 7,
@@ -1106,39 +1106,39 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-      "fpts": 360.24,
-      "fpts_against": 451.54,
+      "fpts": 496.8,
+      "fpts_against": 575.76,
       "losses": 2,
       "manager": "laidbacula",
       "owner_id": "846237768458829824",
       "roster_id": 8,
       "team_name": "Brave Mujahideen Fighters",
       "ties": 0,
-      "wins": 1
+      "wins": 2
     },
     {
       "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
-      "fpts": 336.88,
-      "fpts_against": 336.66,
+      "fpts": 501.36,
+      "fpts_against": 477.78,
       "losses": 2,
       "manager": "DaMan_K",
       "owner_id": "608030079938797568",
       "roster_id": 9,
       "team_name": "Jahmyroquai",
       "ties": 0,
-      "wins": 1
+      "wins": 2
     },
     {
       "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
-      "fpts": 405.2,
-      "fpts_against": 402.46,
+      "fpts": 553.48,
+      "fpts_against": 496.7,
       "losses": 2,
       "manager": "cfaz23",
       "owner_id": "1048780875728633856",
       "roster_id": 10,
       "team_name": "America Jackson",
       "ties": 0,
-      "wins": 1
+      "wins": 2
     }
   ]
 }
