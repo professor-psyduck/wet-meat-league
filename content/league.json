@@ -17,7 +17,7 @@
     "nfl_week": 5,
     "season_type": "regular"
   },
-  "generated_at": "2026-10-07T06:08:17Z",
+  "generated_at": "2026-10-07T23:09:15Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -98,6 +98,11 @@
       "pos": "RB",
       "t": "NYJ"
     },
+    "11577": {
+      "n": "Will Shipley",
+      "pos": "RB",
+      "t": "PHI"
+    },
     "11581": {
       "n": "MarShawn Lloyd",
       "pos": "RB",
@@ -123,6 +128,11 @@
       "pos": "TE",
       "t": "LV"
     },
+    "11610": {
+      "n": "Malik Washington",
+      "pos": "WR",
+      "t": "MIA"
+    },
     "11620": {
       "n": "Rome Odunze",
       "pos": "WR",
@@ -143,6 +153,11 @@
       "pos": "WR",
       "t": "ARI"
     },
+    "11630": {
+      "n": "Roman Wilson",
+      "pos": "WR",
+      "t": "PIT"
+    },
     "11631": {
       "n": "Brian Thomas",
       "pos": "WR",
@@ -157,6 +172,11 @@
       "n": "Ladd McConkey",
       "pos": "WR",
       "t": "LAC"
+    },
+    "11637": {
+      "n": "Keon Coleman",
+      "pos": "WR",
+      "t": "BUF"
     },
     "11643": {
       "n": "Jaylen Wright",
@@ -282,6 +302,11 @@
       "n": "Tyler Shough",
       "pos": "QB",
       "t": "NO"
+    },
+    "13264": {
+      "n": "Dohnte Meyers",
+      "pos": "WR",
+      "t": "CIN"
     },
     "13279": {
       "n": "Carnell Tate",
@@ -432,6 +457,11 @@
       "n": "Kalif Raymond",
       "pos": "WR",
       "t": "CHI"
+    },
+    "4018": {
+      "n": "Joe Mixon",
+      "pos": "RB",
+      "t": ""
     },
     "4034": {
       "n": "Christian McCaffrey",
@@ -878,6 +908,11 @@
       "pos": "RB",
       "t": "ATL"
     },
+    "9511": {
+      "n": "Keaton Mitchell",
+      "pos": "RB",
+      "t": "LAC"
+    },
     "9753": {
       "n": "Zach Charbonnet",
       "pos": "RB",
@@ -907,6 +942,11 @@
       "n": "Zay Flowers",
       "pos": "WR",
       "t": "BAL"
+    },
+    "ATL": {
+      "n": "Atlanta Falcons",
+      "pos": "DEF",
+      "t": "ATL"
     },
     "BAL": {
       "n": "Baltimore Ravens",
@@ -977,6 +1017,11 @@
       "n": "Minnesota Vikings",
       "pos": "DEF",
       "t": "MIN"
+    },
+    "NE": {
+      "n": "New England Patriots",
+      "pos": "DEF",
+      "t": "NE"
     },
     "NO": {
       "n": "New Orleans Saints",
