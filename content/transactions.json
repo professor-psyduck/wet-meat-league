@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:24:47Z",
+  "generated_at": "2026-10-09T06:16:41Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
@@ -20,6 +20,26 @@
       ],
       "team_name": "Hot Dog Fridge",
       "type": "free_agent",
+      "week": 5
+    },
+    {
+      "adds": [
+        "13264"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1791432133992,
+      "drops": [
+        "5892"
+      ],
+      "id": "1413772475115769856",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
       "week": 5
     },
     {
