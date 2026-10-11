@@ -17,7 +17,7 @@
     "nfl_week": 5,
     "season_type": "regular"
   },
-  "generated_at": "2026-10-11T05:55:43Z",
+  "generated_at": "2026-10-11T13:00:07Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -302,6 +302,11 @@
       "n": "Tyler Shough",
       "pos": "QB",
       "t": "NO"
+    },
+    "13150": {
+      "n": "Darius Cooper",
+      "pos": "WR",
+      "t": "PHI"
     },
     "13264": {
       "n": "Dohnte Meyers",
