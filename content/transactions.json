@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-10-14T21:46:03Z",
+  "generated_at": "2026-10-15T04:48:43Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "11647"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1792027338737,
+      "drops": [
+        "9758"
+      ],
+      "id": "1416268944762748928",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "CAR"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1792025406974,
+      "drops": [
+        "ATL"
+      ],
+      "id": "1416260842361511936",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "7600"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1792025061123,
+      "drops": [
+        "5012"
+      ],
+      "id": "1416259391753105408",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "free_agent",
+      "week": 6
+    },
     {
       "adds": [
         "IND"
