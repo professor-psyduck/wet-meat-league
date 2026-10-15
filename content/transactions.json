@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-10-15T04:48:43Z",
+  "generated_at": "2026-10-15T21:28:58Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "DEN"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1792090092751,
+      "drops": [
+        "LAR"
+      ],
+      "id": "1416532154170540032",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "8129"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "created": 1792089982516,
+      "drops": [
+        "13150"
+      ],
+      "id": "1416531691815649280",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Jahmyroquai",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "11635"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1792089682323,
+      "drops": [
+        "9486"
+      ],
+      "id": "1416530432714887168",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 6
+    },
     {
       "adds": [
         "11647"
