@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-16T04:38:45Z",
+  "generated_at": "2026-10-16T21:17:55Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "9757"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1792179658179,
+      "drops": [
+        "11610"
+      ],
+      "id": "1416907818803462144",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [
+        "8132"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1792179371516,
+      "drops": [],
+      "id": "1416906616451710976",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 6
+    },
     {
       "adds": [
         "DEN"
