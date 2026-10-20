@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:51:18Z",
+  "generated_at": "2026-10-20T04:58:06Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -23,7 +23,7 @@
         "KC"
       ],
       "record": {
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
         "wins": 3
       },
@@ -63,7 +63,7 @@
         "CAR"
       ],
       "record": {
-        "losses": 3,
+        "losses": 4,
         "ties": 0,
         "wins": 2
       },
@@ -104,7 +104,7 @@
       "record": {
         "losses": 2,
         "ties": 0,
-        "wins": 3
+        "wins": 4
       },
       "roster_id": 3,
       "starters": [
@@ -142,7 +142,7 @@
         "SF"
       ],
       "record": {
-        "losses": 4,
+        "losses": 5,
         "ties": 0,
         "wins": 1
       },
@@ -184,7 +184,7 @@
       "record": {
         "losses": 3,
         "ties": 0,
-        "wins": 2
+        "wins": 3
       },
       "roster_id": 5,
       "starters": [
@@ -223,7 +223,7 @@
       "record": {
         "losses": 1,
         "ties": 0,
-        "wins": 4
+        "wins": 5
       },
       "roster_id": 6,
       "starters": [
@@ -261,7 +261,7 @@
         "SEA"
       ],
       "record": {
-        "losses": 3,
+        "losses": 4,
         "ties": 0,
         "wins": 2
       },
@@ -303,7 +303,7 @@
       "record": {
         "losses": 3,
         "ties": 0,
-        "wins": 2
+        "wins": 3
       },
       "roster_id": 8,
       "starters": [
@@ -340,7 +340,7 @@
         "JAX"
       ],
       "record": {
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
         "wins": 3
       },
@@ -382,7 +382,7 @@
       "record": {
         "losses": 2,
         "ties": 0,
-        "wins": 3
+        "wins": 4
       },
       "roster_id": 10,
       "starters": [
