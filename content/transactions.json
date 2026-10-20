@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-10-20T04:58:06Z",
+  "generated_at": "2026-10-20T17:15:50Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1792504110948,
+      "drops": [
+        "BAL"
+      ],
+      "id": "1418268672354521088",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "As-salamu Lakers",
+      "type": "free_agent",
+      "week": 6
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "created": 1792498688631,
+      "drops": [
+        "11630"
+      ],
+      "id": "1418245929504399360",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "free_agent",
+      "week": 6
+    },
     {
       "adds": [
         "5012"
