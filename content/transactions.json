@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-10-21T17:18:28Z",
+  "generated_at": "2026-10-21T21:47:18Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "9482"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "created": 1792618220752,
+      "drops": [
+        "5001"
+      ],
+      "id": "1418747283561881600",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "11783"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1792610302336,
+      "drops": [
+        "11635"
+      ],
+      "id": "1418714071313756160",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "9758"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
+      "created": 1792606887060,
+      "drops": [
+        "9502"
+      ],
+      "id": "1418699746607923200",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Hot Dog Fridge",
+      "type": "free_agent",
+      "week": 7
+    },
     {
       "adds": [
         "LAR"

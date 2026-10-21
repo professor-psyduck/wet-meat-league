@@ -17,7 +17,7 @@
     "nfl_week": 7,
     "season_type": "regular"
   },
-  "generated_at": "2026-10-21T17:18:28Z",
+  "generated_at": "2026-10-21T21:47:18Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -34,7 +34,7 @@
       "t": "HOU"
     },
     "10219": {
-      "n": "Chris Rodriguez",
+      "n": "Chris Rodriguez Jr.",
       "pos": "RB",
       "t": "JAX"
     },
@@ -149,7 +149,7 @@
       "t": "NYJ"
     },
     "11628": {
-      "n": "Marvin Harrison",
+      "n": "Marvin Harrison Jr.",
       "pos": "WR",
       "t": "HOU"
     },
@@ -159,7 +159,7 @@
       "t": "PIT"
     },
     "11631": {
-      "n": "Brian Thomas",
+      "n": "Brian Thomas Jr.",
       "pos": "WR",
       "t": "JAX"
     },
@@ -194,7 +194,7 @@
       "t": "LAC"
     },
     "11655": {
-      "n": "Tyrone Tracy",
+      "n": "Tyrone Tracy Jr.",
       "pos": "RB",
       "t": "NYG"
     },
@@ -202,6 +202,11 @@
       "n": "Kirk Cousins",
       "pos": "QB",
       "t": "LV"
+    },
+    "11783": {
+      "n": "Ryan Flournoy",
+      "pos": "WR",
+      "t": "DAL"
     },
     "11834": {
       "n": "Devaughn Vele",
@@ -229,7 +234,7 @@
       "t": "JAX"
     },
     "12495": {
-      "n": "Ollie Gordon",
+      "n": "Ollie Gordon II",
       "pos": "RB",
       "t": "MIA"
     },
@@ -244,7 +249,7 @@
       "t": "GB"
     },
     "12506": {
-      "n": "Harold Fannin",
+      "n": "Harold Fannin Jr.",
       "pos": "TE",
       "t": "CLE"
     },
@@ -279,7 +284,7 @@
       "t": "IND"
     },
     "12519": {
-      "n": "Luther Burden",
+      "n": "Luther Burden III",
       "pos": "WR",
       "t": "CHI"
     },
@@ -329,7 +334,7 @@
       "t": "PIT"
     },
     "13276": {
-      "n": "Omar Cooper",
+      "n": "Omar Cooper Jr.",
       "pos": "WR",
       "t": "NYJ"
     },
@@ -379,7 +384,7 @@
       "t": "MIA"
     },
     "13298": {
-      "n": "KC Concepcion",
+      "n": "KC Concepcion Jr.",
       "pos": "WR",
       "t": "CLE"
     },
@@ -389,7 +394,7 @@
       "t": "WAS"
     },
     "13305": {
-      "n": "Mike Washington",
+      "n": "Mike Washington Jr.",
       "pos": "RB",
       "t": "LV"
     },
@@ -509,7 +514,7 @@
       "t": "NO"
     },
     "4037": {
-      "n": "Chris Godwin",
+      "n": "Chris Godwin Jr.",
       "pos": "WR",
       "t": "TB"
     },
@@ -519,7 +524,7 @@
       "t": "KC"
     },
     "4199": {
-      "n": "Aaron Jones",
+      "n": "Aaron Jones Sr.",
       "pos": "RB",
       "t": "MIN"
     },
@@ -604,7 +609,7 @@
       "t": "NE"
     },
     "5872": {
-      "n": "Deebo Samuel",
+      "n": "Deebo Samuel Sr.",
       "pos": "WR",
       "t": "SF"
     },
@@ -674,7 +679,7 @@
       "t": "IND"
     },
     "6819": {
-      "n": "Michael Pittman",
+      "n": "Michael Pittman Jr.",
       "pos": "WR",
       "t": "PIT"
     },
@@ -709,7 +714,7 @@
       "t": "DEN"
     },
     "7543": {
-      "n": "Travis Etienne",
+      "n": "Travis Etienne Jr.",
       "pos": "RB",
       "t": "NO"
     },
@@ -719,7 +724,7 @@
       "t": "DET"
     },
     "7553": {
-      "n": "Kyle Pitts",
+      "n": "Kyle Pitts Sr.",
       "pos": "TE",
       "t": "ATL"
     },
@@ -819,7 +824,7 @@
       "t": "DAL"
     },
     "8138": {
-      "n": "James Cook",
+      "n": "James Cook III",
       "pos": "RB",
       "t": "BUF"
     },
@@ -849,12 +854,12 @@
       "t": "LAR"
     },
     "8151": {
-      "n": "Kenneth Walker",
+      "n": "Kenneth Walker III",
       "pos": "RB",
       "t": "KC"
     },
     "8154": {
-      "n": "Brian Robinson",
+      "n": "Brian Robinson Jr.",
       "pos": "RB",
       "t": "ATL"
     },
