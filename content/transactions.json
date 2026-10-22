@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-10-22T17:16:18Z",
+  "generated_at": "2026-10-22T21:42:03Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "10235"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1792704681200,
+      "drops": [
+        "8154"
+      ],
+      "id": "1419109924960559104",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "10236"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1792698875097,
+      "drops": [
+        "13294"
+      ],
+      "id": "1419085572403712000",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "11635"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1792698734221,
+      "drops": [
+        "13330"
+      ],
+      "id": "1419084981526921216",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "free_agent",
+      "week": 7
+    },
     {
       "adds": [
         "9482"
