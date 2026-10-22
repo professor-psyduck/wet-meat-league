@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:47:18Z",
+  "generated_at": "2026-10-22T12:01:00Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -70,13 +70,14 @@
       "roster_id": 2,
       "starters": [
         "6804",
-        "12490",
-        "12507",
+        "9224",
+        "12495",
         "13279",
         "9500",
         "7600",
-        "11620",
-        "8146"
+        "7547",
+        "8146",
+        "NYJ"
       ],
       "team_name": "The Moist Balls"
     },
