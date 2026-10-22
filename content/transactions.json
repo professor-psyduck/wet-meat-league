@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:01:00Z",
+  "generated_at": "2026-10-22T17:16:18Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
@@ -20,6 +20,44 @@
       ],
       "team_name": "Uncirc Du Penix",
       "type": "free_agent",
+      "week": 7
+    },
+    {
+      "adds": [
+        "11628"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 0,
+      "created": 1792617427355,
+      "drops": [],
+      "id": "1418743955809398784",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Jahmyroquai",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "10213"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 1,
+      "created": 1792613669117,
+      "drops": [
+        "11834"
+      ],
+      "id": "1418728192616755200",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
       "week": 7
     },
     {

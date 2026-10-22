@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:01:00Z",
+  "generated_at": "2026-10-22T17:16:18Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
@@ -282,9 +282,9 @@
       "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
       "manager": "laidbacula",
       "players": [
+        "10213",
         "11566",
         "11604",
-        "11834",
         "13274",
         "13301",
         "13346",
@@ -323,6 +323,7 @@
       "manager": "DaMan_K",
       "players": [
         "11624",
+        "11628",
         "11655",
         "12512",
         "12517",
