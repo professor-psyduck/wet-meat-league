@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-22T21:42:03Z",
+  "generated_at": "2026-10-23T04:59:36Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "13345"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
+      "created": 1792713594741,
+      "drops": [
+        "12529"
+      ],
+      "id": "1419147311061196800",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Hot Dog Fridge",
+      "type": "free_agent",
+      "week": 7
+    },
     {
       "adds": [
         "10235"
