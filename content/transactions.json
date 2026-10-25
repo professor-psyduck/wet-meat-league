@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-25T11:41:18Z",
+  "generated_at": "2026-10-25T16:30:16Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "12536"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "created": 1792938595794,
+      "drops": [
+        "11783"
+      ],
+      "id": "1420091033882042368",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "free_agent",
+      "week": 7
+    },
     {
       "adds": [
         "2197"
