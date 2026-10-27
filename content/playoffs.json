@@ -7,7 +7,7 @@
     "score": null,
     "team_name": "TBD"
   },
-  "generated_at": "2026-10-25T16:30:16Z",
+  "generated_at": "2026-10-27T05:13:04Z",
   "league_name": "Wet Meat League 2.0",
   "rounds": [
     {
@@ -44,11 +44,11 @@
             "team_name": "Brave Mujahideen Fighters"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
-            "manager": "RoombaCentral",
-            "roster_id": 3,
+            "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+            "manager": "cfaz23",
+            "roster_id": 10,
             "score": 0,
-            "team_name": "BillCroskeyCanDrownAFish"
+            "team_name": "America Jackson"
           },
           "winner_roster_id": null
         }
@@ -104,11 +104,11 @@
           "m": 4,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
-            "manager": "cfaz23",
-            "roster_id": 10,
+            "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+            "manager": "RoombaCentral",
+            "roster_id": 3,
             "score": 0,
-            "team_name": "America Jackson"
+            "team_name": "BillCroskeyCanDrownAFish"
           },
           "t2": {
             "avatar": null,
