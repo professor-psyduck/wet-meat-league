@@ -1,8 +1,206 @@
 {
-  "generated_at": "2026-10-28T13:06:29Z",
+  "generated_at": "2026-10-28T22:40:03Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "4454"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 15,
+      "created": 1793192116458,
+      "drops": [
+        "4037"
+      ],
+      "id": "1421154376612843520",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Jahmyroquai",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "JAX"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "bid": 3,
+      "created": 1793186818241,
+      "drops": [],
+      "id": "1421132154284380160",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "As-salamu Lakers",
+      "type": "waiver",
+      "week": 8
+    },
+    {
+      "adds": [
+        "TB"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1793159397434,
+      "drops": [
+        "NYJ"
+      ],
+      "id": "1421017143083839488",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "13294"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1793159356545,
+      "drops": [
+        "7600"
+      ],
+      "id": "1421016971578712064",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "CIN"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
+      "bid": 0,
+      "created": 1793106277400,
+      "drops": [
+        "2197"
+      ],
+      "id": "1420794341508579328",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Hot Dog Fridge",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "12529"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
+      "bid": 2,
+      "created": 1793106175848,
+      "drops": [
+        "9758"
+      ],
+      "id": "1420793915568553984",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Hot Dog Fridge",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "11783"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 0,
+      "created": 1793105169138,
+      "drops": [
+        "12536"
+      ],
+      "id": "1420789693124993024",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "7021"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 5,
+      "created": 1793105142278,
+      "drops": [
+        "10235"
+      ],
+      "id": "1420789580461780992",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "12469"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1793068141005,
+      "drops": [
+        "9228"
+      ],
+      "id": "1420634385874464768",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 7
+    },
+    {
+      "adds": [
+        "NE"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "bid": 3,
+      "created": 1793027195036,
+      "drops": [
+        "NO"
+      ],
+      "id": "1420462646037123072",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "waiver",
+      "week": 7
+    },
     {
       "adds": [
         "12536"
