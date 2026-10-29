@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-10-29T13:12:17Z",
+  "generated_at": "2026-10-29T22:49:13Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "WAS"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "created": 1793299323519,
+      "drops": [
+        "KC"
+      ],
+      "id": "1421604035621855232",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "5844"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "created": 1793299292681,
+      "drops": [
+        "3271"
+      ],
+      "id": "1421603906273751040",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 8
+    },
     {
       "adds": [
         "4454"
