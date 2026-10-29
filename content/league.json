@@ -17,7 +17,7 @@
     "nfl_week": 8,
     "season_type": "regular"
   },
-  "generated_at": "2026-10-28T22:40:03Z",
+  "generated_at": "2026-10-29T05:55:39Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -1213,7 +1213,7 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
-      "fpts": 778.26,
+      "fpts": 779.26,
       "fpts_against": 915.6,
       "losses": 6,
       "manager": "SmeIIingSalts",
@@ -1274,7 +1274,7 @@
     {
       "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
       "fpts": 884.36,
-      "fpts_against": 860.62,
+      "fpts_against": 861.62,
       "losses": 3,
       "manager": "DaMan_K",
       "owner_id": "608030079938797568",

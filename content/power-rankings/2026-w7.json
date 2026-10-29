@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:40:03Z",
+  "generated_at": "2026-10-29T05:55:39Z",
   "method": "computed",
   "model": null,
   "rankings": [
@@ -61,9 +61,9 @@
       "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
       "blurb": "Jahmyroquai (4-3, 884.36 PF) — competent, unspectacular, the team that quietly ruins your week.",
       "fpts": 884.36,
-      "fpts_against": 860.62,
+      "fpts_against": 861.62,
       "manager": "DaMan_K",
-      "power": 53.1,
+      "power": 53.0,
       "rank": 4,
       "record": {
         "losses": 3,
@@ -167,11 +167,11 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
-      "blurb": "Dead last. Hot Dog Fridge at 1-6, 778.26 PF. The desk reviewed the tape and now regrets it.",
-      "fpts": 778.26,
+      "blurb": "Dead last. Hot Dog Fridge at 1-6, 779.26 PF. The desk reviewed the tape and now regrets it.",
+      "fpts": 779.26,
       "fpts_against": 915.6,
       "manager": "SmeIIingSalts",
-      "power": 6.4,
+      "power": 6.6,
       "rank": 10,
       "record": {
         "losses": 6,
