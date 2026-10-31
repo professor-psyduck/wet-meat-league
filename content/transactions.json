@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-30T22:26:31Z",
+  "generated_at": "2026-10-31T12:42:40Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "KC"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1793446390078,
+      "drops": [
+        "LAR"
+      ],
+      "id": "1422220877474316288",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 8
+    },
     {
       "adds": [
         "8122"
