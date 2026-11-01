@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-10-31T21:41:16Z",
+  "generated_at": "2026-11-01T17:56:59Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "4037"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "created": 1793550871606,
+      "drops": [],
+      "id": "1422659104769310720",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "created": 1793550861436,
+      "drops": [
+        "12533"
+      ],
+      "id": "1422659062109052928",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "11647"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "created": 1793548927127,
+      "drops": [
+        "8122"
+      ],
+      "id": "1422650949029072896",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "3257"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1793548527131,
+      "drops": [
+        "8132"
+      ],
+      "id": "1422649271328452608",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 8
+    },
+    {
+      "adds": [
+        "LAR"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "bid": 0,
+      "created": 1793489807851,
+      "drops": [
+        "TB"
+      ],
+      "id": "1422402984813268992",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "waiver",
+      "week": 8
+    },
     {
       "adds": [
         "4147"
