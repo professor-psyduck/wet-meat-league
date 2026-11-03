@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-11-03T06:55:45Z",
+  "generated_at": "2026-11-03T19:32:33Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "created": 1793706045687,
+      "drops": [
+        "4037"
+      ],
+      "id": "1423309952033767424",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "free_agent",
+      "week": 8
+    },
     {
       "adds": [
         "4037"
