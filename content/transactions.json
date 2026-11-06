@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-11-05T20:01:41Z",
+  "generated_at": "2026-11-06T06:56:33Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "created": 1793920551460,
+      "drops": [
+        "5844"
+      ],
+      "id": "1424209654459781120",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 9
+    },
+    {
+      "adds": [
+        "3286"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "created": 1793916948212,
+      "drops": [
+        "5045"
+      ],
+      "id": "1424194541338013696",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Jahmyroquai",
+      "type": "free_agent",
+      "week": 9
+    },
     {
       "adds": [
         "5045"
