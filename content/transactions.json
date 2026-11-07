@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-11-07T06:07:38Z",
+  "generated_at": "2026-11-07T21:56:41Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "KC"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "bid": 0,
+      "created": 1794068027414,
+      "drops": [
+        "11435"
+      ],
+      "id": "1424828213439307776",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "waiver",
+      "week": 9
+    },
     {
       "adds": [
         "6130"
@@ -44,7 +64,7 @@
     },
     {
       "adds": [],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "created": 1793920551460,
       "drops": [
         "5844"
@@ -193,7 +213,7 @@
       "adds": [
         "DET"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "bid": 1,
       "created": 1793743954104,
       "drops": [
@@ -439,7 +459,7 @@
       "adds": [
         "WAS"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "created": 1793299323519,
       "drops": [
         "KC"
@@ -458,7 +478,7 @@
       "adds": [
         "5844"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "created": 1793299292681,
       "drops": [
         "3271"
@@ -1037,7 +1057,7 @@
       "adds": [
         "1479"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "bid": 2,
       "created": 1792542062306,
       "drops": [
@@ -1057,7 +1077,7 @@
       "adds": [
         "3271"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "bid": 2,
       "created": 1792542021732,
       "drops": [],
@@ -1073,7 +1093,7 @@
     },
     {
       "adds": [],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "created": 1792541928975,
       "drops": [
         "5012"
@@ -1304,7 +1324,7 @@
       "adds": [
         "5012"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "created": 1792341469787,
       "drops": [],
       "id": "1417586505882357761",
@@ -1319,7 +1339,7 @@
     },
     {
       "adds": [],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "created": 1792341436047,
       "drops": [
         "8136"
@@ -1622,7 +1642,7 @@
       "adds": [
         "10213"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "bid": 18,
       "created": 1791928740204,
       "drops": [
@@ -1642,7 +1662,7 @@
       "adds": [
         "KC"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "bid": 3,
       "created": 1791928678115,
       "drops": [
@@ -2039,7 +2059,7 @@
       "adds": [
         "DEN"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "bid": 0,
       "created": 1791334628574,
       "drops": [
@@ -2449,7 +2469,7 @@
       "adds": [
         "5947"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "bid": 0,
       "created": 1790717381801,
       "drops": [
@@ -2469,7 +2489,7 @@
       "adds": [
         "8126"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "bid": 11,
       "created": 1790717269168,
       "drops": [
@@ -2489,7 +2509,7 @@
       "adds": [
         "PIT"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "bid": 3,
       "created": 1790717164570,
       "drops": [
@@ -3128,7 +3148,7 @@
       "adds": [
         "13311"
       ],
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "created": 1789829052825,
       "drops": [],
       "id": "1407048665364807680",

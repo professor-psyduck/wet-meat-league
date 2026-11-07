@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T06:07:38Z",
+  "generated_at": "2026-11-07T21:56:41Z",
   "rosters": [
     {
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
       "manager": "EntropyEngine",
       "players": [
         "11586",
@@ -71,7 +71,7 @@
         "6804",
         "9224",
         "12490",
-        "8146",
+        "11620",
         "7547",
         "10236",
         "12495",
@@ -84,7 +84,6 @@
       "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
       "manager": "RoombaCentral",
       "players": [
-        "11435",
         "11610",
         "11834",
         "12506",
@@ -98,6 +97,7 @@
         "8167",
         "8183",
         "9501",
+        "KC",
         "MIN"
       ],
       "record": {
@@ -313,7 +313,7 @@
         "6801",
         "11604",
         "8136",
-        "8155",
+        "10213",
         "CHI"
       ],
       "team_name": "Brave Mujahideen Fighters"
