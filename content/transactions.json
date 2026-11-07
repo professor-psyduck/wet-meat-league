@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-11-06T19:28:50Z",
+  "generated_at": "2026-11-07T06:07:38Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "6130"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1794000889686,
+      "drops": [
+        "KC"
+      ],
+      "id": "1424546617398243328",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 9
+    },
+    {
+      "adds": [
+        "5844"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "bid": 0,
+      "created": 1793920814457,
+      "drops": [
+        "6803"
+      ],
+      "id": "1424210757549064192",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "waiver",
+      "week": 9
+    },
     {
       "adds": [],
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
