@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-08T22:13:26Z",
+  "generated_at": "2026-11-10T07:26:29Z",
   "method": "computed",
   "model": null,
   "rankings": [
     {
       "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
-      "blurb": "As-salamu Lakers sit atop the Wet Meat League at 7-1. 1206.28 points for — everyone else is, by definition, wet meat.",
-      "fpts": 1206.28,
-      "fpts_against": 893.16,
+      "blurb": "As-salamu Lakers sit atop the Wet Meat League at 8-1. 1319.32 points for — everyone else is, by definition, wet meat.",
+      "fpts": 1319.32,
+      "fpts_against": 990.72,
       "manager": "bostwik",
-      "power": 100.0,
+      "power": 99.3,
       "rank": 1,
       "record": {
         "losses": 1,
         "ties": 0,
-        "wins": 7
+        "wins": 8
       },
       "roster_id": 6,
       "standings_rank": 1,
@@ -23,16 +23,16 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
-      "blurb": "BillCroskeyCanDrownAFish: 6-2, 1055.7 PF. A legitimate contender, and insufferable about it.",
-      "fpts": 1055.7,
-      "fpts_against": 953.12,
+      "blurb": "BillCroskeyCanDrownAFish: 7-2, 1192.28 PF. A legitimate contender, and insufferable about it.",
+      "fpts": 1192.28,
+      "fpts_against": 1083.62,
       "manager": "RoombaCentral",
-      "power": 67.9,
+      "power": 76.1,
       "rank": 2,
       "record": {
         "losses": 2,
         "ties": 0,
-        "wins": 6
+        "wins": 7
       },
       "roster_id": 3,
       "standings_rank": 2,
@@ -41,16 +41,16 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
-      "blurb": "America Jackson: 5-3, 1056.48 PF. A legitimate contender, and insufferable about it.",
-      "fpts": 1056.48,
-      "fpts_against": 927.74,
+      "blurb": "America Jackson: 6-3, 1203.5 PF. A legitimate contender, and insufferable about it.",
+      "fpts": 1203.5,
+      "fpts_against": 1017.62,
       "manager": "cfaz23",
-      "power": 61.1,
+      "power": 69.0,
       "rank": 3,
       "record": {
         "losses": 3,
         "ties": 0,
-        "wins": 5
+        "wins": 6
       },
       "roster_id": 10,
       "standings_rank": 3,
@@ -58,69 +58,69 @@
       "trend": 0
     },
     {
-      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
-      "blurb": "Fully Torqued (4-4, 993.24 PF) — competent, unspectacular, the team that quietly ruins your week.",
-      "fpts": 993.24,
-      "fpts_against": 1056.9,
-      "manager": "EntropyEngine",
-      "power": 41.1,
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "blurb": "Brave Mujahideen Fighters (5-4, 1127.8 PF) — competent, unspectacular, the team that quietly ruins your week.",
+      "fpts": 1127.8,
+      "fpts_against": 1170.98,
+      "manager": "laidbacula",
+      "power": 48.1,
       "rank": 4,
       "record": {
         "losses": 4,
+        "ties": 0,
+        "wins": 5
+      },
+      "roster_id": 8,
+      "standings_rank": 4,
+      "team_name": "Brave Mujahideen Fighters",
+      "trend": 0
+    },
+    {
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+      "blurb": "Fully Torqued (4-5, 1123.74 PF) — competent, unspectacular, the team that quietly ruins your week.",
+      "fpts": 1123.74,
+      "fpts_against": 1193.48,
+      "manager": "EntropyEngine",
+      "power": 40.5,
+      "rank": 5,
+      "record": {
+        "losses": 5,
         "ties": 0,
         "wins": 4
       },
       "roster_id": 1,
       "standings_rank": 5,
       "team_name": "Fully Torqued",
-      "trend": 1
+      "trend": 0
     },
     {
       "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
-      "blurb": "Jahmyroquai (4-4, 994.36 PF) — competent, unspectacular, the team that quietly ruins your week.",
-      "fpts": 994.36,
-      "fpts_against": 1007.7,
+      "blurb": "Jahmyroquai (4-5, 1084.24 PF) — competent, unspectacular, the team that quietly ruins your week.",
+      "fpts": 1084.24,
+      "fpts_against": 1154.72,
       "manager": "DaMan_K",
-      "power": 39.8,
-      "rank": 5,
+      "power": 30.0,
+      "rank": 6,
       "record": {
-        "losses": 4,
+        "losses": 5,
         "ties": 0,
         "wins": 4
       },
       "roster_id": 9,
-      "standings_rank": 4,
-      "team_name": "Jahmyroquai",
-      "trend": -1
-    },
-    {
-      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-      "blurb": "Brave Mujahideen Fighters (4-4, 991.04 PF) — competent, unspectacular, the team that quietly ruins your week.",
-      "fpts": 991.04,
-      "fpts_against": 1079.7,
-      "manager": "laidbacula",
-      "power": 39.6,
-      "rank": 6,
-      "record": {
-        "losses": 4,
-        "ties": 0,
-        "wins": 4
-      },
-      "roster_id": 8,
       "standings_rank": 6,
-      "team_name": "Brave Mujahideen Fighters",
+      "team_name": "Jahmyroquai",
       "trend": 0
     },
     {
       "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
-      "blurb": "Uncirc Du Penix (4-4, 980.48 PF) — competent, unspectacular, the team that quietly ruins your week.",
-      "fpts": 980.48,
-      "fpts_against": 995.12,
+      "blurb": "Uncirc Du Penix (4-5, 1078.04 PF) — competent, unspectacular, the team that quietly ruins your week.",
+      "fpts": 1078.04,
+      "fpts_against": 1108.16,
       "manager": "__hellbent",
-      "power": 35.2,
+      "power": 28.4,
       "rank": 7,
       "record": {
-        "losses": 4,
+        "losses": 5,
         "ties": 0,
         "wins": 4
       },
@@ -131,14 +131,14 @@
     },
     {
       "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
-      "blurb": "The Moist Balls (3-5, 910.68 PF) — competent, unspectacular, the team that quietly ruins your week.",
-      "fpts": 910.68,
-      "fpts_against": 1051.86,
+      "blurb": "The Moist Balls (3-6, 1027.06 PF) — competent, unspectacular, the team that quietly ruins your week.",
+      "fpts": 1027.06,
+      "fpts_against": 1191.72,
       "manager": "Prof_Ducky69fdf",
-      "power": 23.1,
+      "power": 20.0,
       "rank": 8,
       "record": {
-        "losses": 5,
+        "losses": 6,
         "ties": 0,
         "wins": 3
       },
@@ -148,39 +148,39 @@
       "trend": 0
     },
     {
-      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
-      "blurb": "MoonKings (2-6, 905.06 PF) — competent, unspectacular, the team that quietly ruins your week.",
-      "fpts": 905.06,
-      "fpts_against": 981.34,
-      "manager": "moontitties",
-      "power": 12.8,
+      "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
+      "blurb": "Hot Dog Fridge (2-7, 1061.18 PF) — competent, unspectacular, the team that quietly ruins your week.",
+      "fpts": 1061.18,
+      "fpts_against": 1184.38,
+      "manager": "SmeIIingSalts",
+      "power": 18.8,
       "rank": 9,
       "record": {
-        "losses": 6,
+        "losses": 7,
         "ties": 0,
         "wins": 2
       },
-      "roster_id": 7,
+      "roster_id": 4,
       "standings_rank": 9,
-      "team_name": "MoonKings",
+      "team_name": "Hot Dog Fridge",
       "trend": 0
     },
     {
-      "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
-      "blurb": "Dead last. Hot Dog Fridge at 1-7, 921.32 PF. The desk reviewed the tape and now regrets it.",
-      "fpts": 921.32,
-      "fpts_against": 1067.99,
-      "manager": "SmeIIingSalts",
-      "power": 7.2,
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "blurb": "Dead last. MoonKings at 2-7, 996.34 PF. The desk reviewed the tape and now regrets it.",
+      "fpts": 996.34,
+      "fpts_against": 1118.1,
+      "manager": "moontitties",
+      "power": 3.7,
       "rank": 10,
       "record": {
         "losses": 7,
         "ties": 0,
-        "wins": 1
+        "wins": 2
       },
-      "roster_id": 4,
+      "roster_id": 7,
       "standings_rank": 10,
-      "team_name": "Hot Dog Fridge",
+      "team_name": "MoonKings",
       "trend": 0
     }
   ],

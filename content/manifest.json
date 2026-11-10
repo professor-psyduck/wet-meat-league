@@ -17,12 +17,12 @@
     "standings": "content/standings.json",
     "transactions": "content/transactions.json"
   },
-  "generated_at": "2026-11-08T22:13:26Z",
+  "generated_at": "2026-11-10T07:26:29Z",
   "league_name": "Wet Meat League 2.0",
   "mode": "in_season",
   "power": {
     "method": "computed",
-    "week": 8
+    "week": 9
   },
   "transactions": {
     "count": 183,

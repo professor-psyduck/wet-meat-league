@@ -7,7 +7,7 @@
     "score": null,
     "team_name": "TBD"
   },
-  "generated_at": "2026-11-08T22:13:26Z",
+  "generated_at": "2026-11-10T07:26:29Z",
   "league_name": "Wet Meat League 2.0",
   "rounds": [
     {
@@ -17,11 +17,11 @@
           "m": 1,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
-            "manager": "DaMan_K",
-            "roster_id": 9,
+            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+            "manager": "laidbacula",
+            "roster_id": 8,
             "score": 0,
-            "team_name": "Jahmyroquai"
+            "team_name": "Brave Mujahideen Fighters"
           },
           "t2": {
             "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
@@ -37,11 +37,11 @@
           "m": 2,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-            "manager": "laidbacula",
-            "roster_id": 8,
+            "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+            "manager": "DaMan_K",
+            "roster_id": 9,
             "score": 0,
-            "team_name": "Brave Mujahideen Fighters"
+            "team_name": "Jahmyroquai"
           },
           "t2": {
             "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
