@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-11-11T06:37:50Z",
+  "generated_at": "2026-11-11T19:40:46Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "12491"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "bid": 8,
+      "created": 1794397821532,
+      "drops": [
+        "7553"
+      ],
+      "id": "1426211470227558400",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "waiver",
+      "week": 10
+    },
+    {
+      "adds": [
+        "12718"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "bid": 10,
+      "created": 1794362170536,
+      "drops": [
+        "3286"
+      ],
+      "id": "1426061939112419328",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Jahmyroquai",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "BAL"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+      "bid": 1,
+      "created": 1794347316201,
+      "drops": [
+        "DET"
+      ],
+      "id": "1425999635519913985",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "10219"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "bid": 12,
+      "created": 1794343631183,
+      "drops": [
+        "MIN"
+      ],
+      "id": "1425984179434180608",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "9502"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
+      "bid": 22,
+      "created": 1794327785121,
+      "drops": [
+        "CIN"
+      ],
+      "id": "1425917716228771840",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Hot Dog Fridge",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "PIT"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1794244370637,
+      "drops": [
+        "CHI"
+      ],
+      "id": "1425567850529079296",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "9758"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 15,
+      "created": 1794193622336,
+      "drops": [
+        "1373"
+      ],
+      "id": "1425354996722978816",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 9
+    },
+    {
+      "adds": [
+        "GB"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 2,
+      "created": 1794182062968,
+      "drops": [
+        "7021"
+      ],
+      "id": "1425306513215344640",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 9
+    },
     {
       "adds": [
         "KC"
