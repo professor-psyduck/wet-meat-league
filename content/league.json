@@ -17,7 +17,7 @@
     "nfl_week": 10,
     "season_type": "regular"
   },
-  "generated_at": "2026-11-11T19:40:46Z",
+  "generated_at": "2026-11-12T07:19:51Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -797,6 +797,11 @@
       "n": "Kyle Pitts Sr.",
       "pos": "TE",
       "t": "ATL"
+    },
+    "7562": {
+      "n": "Tutu Atwell",
+      "pos": "WR",
+      "t": "LAR"
     },
     "7564": {
       "n": "Ja'Marr Chase",
