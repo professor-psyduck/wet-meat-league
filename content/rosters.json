@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:19:51Z",
+  "generated_at": "2026-11-12T20:01:23Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
@@ -176,7 +176,7 @@
         "9487",
         "9757",
         "9997",
-        "NE"
+        "MIN"
       ],
       "record": {
         "losses": 5,
@@ -193,7 +193,7 @@
         "5844",
         "8144",
         "7569",
-        "NE"
+        "MIN"
       ],
       "team_name": "Uncirc Du Penix"
     },
@@ -383,7 +383,7 @@
       },
       "roster_id": 10,
       "starters": [
-        "421",
+        "9758",
         "8151",
         "9753",
         "6786",

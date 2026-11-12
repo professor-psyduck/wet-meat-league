@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:19:51Z",
+  "generated_at": "2026-11-12T20:01:23Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
@@ -20,6 +20,26 @@
       ],
       "team_name": "Hot Dog Fridge",
       "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [
+        "MIN"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "bid": 0,
+      "created": 1794416868165,
+      "drops": [
+        "NE"
+      ],
+      "id": "1426291357600718848",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "waiver",
       "week": 10
     },
     {
