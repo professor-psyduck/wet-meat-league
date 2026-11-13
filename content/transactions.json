@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-11-12T20:01:23Z",
+  "generated_at": "2026-11-13T06:53:34Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "7021"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "created": 1794538785489,
+      "drops": [
+        "9757"
+      ],
+      "id": "1426802715920445440",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1794531002634,
+      "drops": [
+        "13294"
+      ],
+      "id": "1426770072260603904",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "free_agent",
+      "week": 10
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1794526065059,
+      "drops": [
+        "10213"
+      ],
+      "id": "1426749362570002432",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 10
+    },
     {
       "adds": [
         "7562"
