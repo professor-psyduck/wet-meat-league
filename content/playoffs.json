@@ -7,7 +7,7 @@
     "score": null,
     "team_name": "TBD"
   },
-  "generated_at": "2026-11-16T06:42:26Z",
+  "generated_at": "2026-11-17T08:01:39Z",
   "league_name": "Wet Meat League 2.0",
   "rounds": [
     {
@@ -24,11 +24,11 @@
             "team_name": "Brave Mujahideen Fighters"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
-            "manager": "EntropyEngine",
-            "roster_id": 1,
+            "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+            "manager": "DaMan_K",
+            "roster_id": 9,
             "score": 0,
-            "team_name": "Fully Torqued"
+            "team_name": "Jahmyroquai"
           },
           "winner_roster_id": null
         },
@@ -37,11 +37,11 @@
           "m": 2,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
-            "manager": "DaMan_K",
-            "roster_id": 9,
+            "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+            "manager": "__hellbent",
+            "roster_id": 5,
             "score": 0,
-            "team_name": "Jahmyroquai"
+            "team_name": "Uncirc Du Penix"
           },
           "t2": {
             "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
