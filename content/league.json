@@ -17,7 +17,7 @@
     "nfl_week": 11,
     "season_type": "regular"
   },
-  "generated_at": "2026-11-18T07:38:52Z",
+  "generated_at": "2026-11-18T20:38:55Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -248,6 +248,11 @@
       "pos": "RB",
       "t": "NE"
     },
+    "12492": {
+      "n": "Pat Bryant",
+      "pos": "WR",
+      "t": "DEN"
+    },
     "12495": {
       "n": "Ollie Gordon II",
       "pos": "RB",
@@ -463,6 +468,11 @@
       "pos": "WR",
       "t": "SF"
     },
+    "13424": {
+      "n": "Seth McGowan",
+      "pos": "RB",
+      "t": "IND"
+    },
     "1373": {
       "n": "Geno Smith",
       "pos": "QB",
@@ -502,6 +512,11 @@
       "n": "Stefon Diggs",
       "pos": "WR",
       "t": "WAS"
+    },
+    "2505": {
+      "n": "Darren Waller",
+      "pos": "TE",
+      "t": "CAR"
     },
     "3163": {
       "n": "Jared Goff",
