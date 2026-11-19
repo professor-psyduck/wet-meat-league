@@ -1,8 +1,124 @@
 {
-  "generated_at": "2026-11-19T07:34:30Z",
+  "generated_at": "2026-11-19T20:44:22Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "created": 1795119904015,
+      "id": "1429240103678529536",
+      "roster_ids": [
+        1,
+        8
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+          "manager": "EntropyEngine",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 8,
+                "round": 1,
+                "season": "2027"
+              }
+            ],
+            "players": [],
+            "waiver_budget": []
+          },
+          "roster_id": 1,
+          "team_name": "Fully Torqued"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+          "manager": "laidbacula",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 1,
+                "round": 15,
+                "season": "2027"
+              }
+            ],
+            "players": [
+              "9509"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 8,
+          "team_name": "Brave Mujahideen Fighters"
+        }
+      ],
+      "type": "trade",
+      "week": 11
+    },
+    {
+      "created": 1795119705341,
+      "id": "1429239270375198720",
+      "roster_ids": [
+        1,
+        10
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+          "manager": "EntropyEngine",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 10,
+                "round": 2,
+                "season": "2027"
+              }
+            ],
+            "players": [
+              "421"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 1,
+          "team_name": "Fully Torqued"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+          "manager": "cfaz23",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 1,
+                "round": 5,
+                "season": "2027"
+              }
+            ],
+            "players": [
+              "3294"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 10,
+          "team_name": "America Jackson"
+        }
+      ],
+      "type": "trade",
+      "week": 11
+    },
+    {
+      "adds": [
+        "8408"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+      "bid": 0,
+      "created": 1795036773771,
+      "drops": [],
+      "id": "1428891430159413248",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 11
+    },
     {
       "adds": [
         "5001"
