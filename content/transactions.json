@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-11-19T20:44:22Z",
+  "generated_at": "2026-11-20T07:25:56Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "created": 1795132516295,
+      "drops": [
+        "9501"
+      ],
+      "id": "1429293003414974464",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "created": 1795129686294,
+      "id": "1429281133530447872",
+      "roster_ids": [
+        1,
+        3
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+          "manager": "EntropyEngine",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 3,
+                "round": 3,
+                "season": "2027"
+              }
+            ],
+            "players": [],
+            "waiver_budget": []
+          },
+          "roster_id": 1,
+          "team_name": "Fully Torqued"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+          "manager": "RoombaCentral",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 1,
+                "round": 13,
+                "season": "2027"
+              }
+            ],
+            "players": [
+              "8150"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 3,
+          "team_name": "BillCroskeyCanDrownAFish"
+        }
+      ],
+      "type": "trade",
+      "week": 11
+    },
+    {
+      "adds": [
+        "5995"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+      "created": 1795129617040,
+      "drops": [],
+      "id": "1429280843058151424",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "DET"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+      "created": 1795129592947,
+      "drops": [
+        "BAL"
+      ],
+      "id": "1429280742004776960",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "12545"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+      "created": 1795129535401,
+      "drops": [
+        "421"
+      ],
+      "id": "1429280500639363072",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "free_agent",
+      "week": 11
+    },
     {
       "created": 1795119904015,
       "id": "1429240103678529536",
