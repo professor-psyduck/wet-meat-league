@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-11-20T20:28:41Z",
+  "generated_at": "2026-11-21T07:19:47Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "13285"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/9df387f141645d682167d2a1d5398943.jpg",
+      "created": 1795234131709,
+      "drops": [
+        "12540"
+      ],
+      "id": "1429719209352372224",
+      "manager": "SmeIIingSalts",
+      "roster_id": 4,
+      "roster_ids": [
+        4
+      ],
+      "team_name": "Hot Dog Fridge",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "8210"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1795210490555,
+      "drops": [
+        "10236"
+      ],
+      "id": "1429620051165589504",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "9228"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+      "created": 1795210434216,
+      "drops": [
+        "13414"
+      ],
+      "id": "1429619814858498048",
+      "manager": "Prof_Ducky69fdf",
+      "roster_id": 2,
+      "roster_ids": [
+        2
+      ],
+      "team_name": "The Moist Balls",
+      "type": "free_agent",
+      "week": 11
+    },
     {
       "adds": [
         "12499"
