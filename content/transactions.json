@@ -1,8 +1,104 @@
 {
-  "generated_at": "2026-11-23T07:49:29Z",
+  "generated_at": "2026-11-23T23:59:22Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "created": 1795472034708,
+      "id": "1430717046848507904",
+      "roster_ids": [
+        1,
+        6
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+          "manager": "EntropyEngine",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 6,
+                "round": 2,
+                "season": "2027"
+              }
+            ],
+            "players": [],
+            "waiver_budget": []
+          },
+          "roster_id": 1,
+          "team_name": "Fully Torqued"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+          "manager": "bostwik",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 1,
+                "round": 10,
+                "season": "2027"
+              }
+            ],
+            "players": [
+              "12501"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 6,
+          "team_name": "As-salamu Lakers"
+        }
+      ],
+      "type": "trade",
+      "week": 11
+    },
+    {
+      "created": 1795468993099,
+      "id": "1430704289419890688",
+      "roster_ids": [
+        2,
+        10
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+          "manager": "Prof_Ducky69fdf",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 10,
+                "round": 5,
+                "season": "2027"
+              }
+            ],
+            "players": [],
+            "waiver_budget": []
+          },
+          "roster_id": 2,
+          "team_name": "The Moist Balls"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+          "manager": "cfaz23",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 2,
+                "round": 10,
+                "season": "2027"
+              }
+            ],
+            "players": [
+              "9224"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 10,
+          "team_name": "America Jackson"
+        }
+      ],
+      "type": "trade",
+      "week": 11
+    },
     {
       "created": 1795392334014,
       "id": "1430382757908873216",
