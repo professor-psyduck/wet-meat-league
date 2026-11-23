@@ -1,8 +1,115 @@
 {
-  "generated_at": "2026-11-22T19:47:28Z",
+  "generated_at": "2026-11-23T07:49:29Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "created": 1795392334014,
+      "id": "1430382757908873216",
+      "roster_ids": [
+        2,
+        8
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+          "manager": "Prof_Ducky69fdf",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 8,
+                "round": 2,
+                "season": "2027"
+              },
+              {
+                "from_roster_id": 8,
+                "round": 5,
+                "season": "2027"
+              }
+            ],
+            "players": [],
+            "waiver_budget": []
+          },
+          "roster_id": 2,
+          "team_name": "The Moist Balls"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+          "manager": "laidbacula",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 2,
+                "round": 14,
+                "season": "2027"
+              },
+              {
+                "from_roster_id": 2,
+                "round": 15,
+                "season": "2027"
+              }
+            ],
+            "players": [
+              "13279",
+              "8146"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 8,
+          "team_name": "Brave Mujahideen Fighters"
+        }
+      ],
+      "type": "trade",
+      "week": 11
+    },
+    {
+      "created": 1795390880370,
+      "id": "1430376660884008960",
+      "roster_ids": [
+        2,
+        9
+      ],
+      "sides": [
+        {
+          "avatar": "https://sleepercdn.com/uploads/433fd949a052363048a734a9a109b658",
+          "manager": "Prof_Ducky69fdf",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 9,
+                "round": 1,
+                "season": "2027"
+              }
+            ],
+            "players": [],
+            "waiver_budget": []
+          },
+          "roster_id": 2,
+          "team_name": "The Moist Balls"
+        },
+        {
+          "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+          "manager": "DaMan_K",
+          "received": {
+            "picks": [
+              {
+                "from_roster_id": 2,
+                "round": 6,
+                "season": "2027"
+              }
+            ],
+            "players": [
+              "7547"
+            ],
+            "waiver_budget": []
+          },
+          "roster_id": 9,
+          "team_name": "Jahmyroquai"
+        }
+      ],
+      "type": "trade",
+      "week": 11
+    },
     {
       "adds": [
         "5012"
