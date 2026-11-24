@@ -7,7 +7,7 @@
     "score": null,
     "team_name": "TBD"
   },
-  "generated_at": "2026-11-23T23:59:22Z",
+  "generated_at": "2026-11-24T10:01:06Z",
   "league_name": "Wet Meat League 2.0",
   "rounds": [
     {
@@ -17,18 +17,18 @@
           "m": 1,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
-            "manager": "laidbacula",
-            "roster_id": 8,
-            "score": 0,
-            "team_name": "Brave Mujahideen Fighters"
-          },
-          "t2": {
             "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
             "manager": "DaMan_K",
             "roster_id": 9,
             "score": 0,
             "team_name": "Jahmyroquai"
+          },
+          "t2": {
+            "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+            "manager": "laidbacula",
+            "roster_id": 8,
+            "score": 0,
+            "team_name": "Brave Mujahideen Fighters"
           },
           "winner_roster_id": null
         },
@@ -44,11 +44,11 @@
             "team_name": "Uncirc Du Penix"
           },
           "t2": {
-            "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
-            "manager": "cfaz23",
-            "roster_id": 10,
+            "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+            "manager": "RoombaCentral",
+            "roster_id": 3,
             "score": 0,
-            "team_name": "America Jackson"
+            "team_name": "BillCroskeyCanDrownAFish"
           },
           "winner_roster_id": null
         }
@@ -104,11 +104,11 @@
           "m": 4,
           "placement": null,
           "t1": {
-            "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
-            "manager": "RoombaCentral",
-            "roster_id": 3,
+            "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+            "manager": "cfaz23",
+            "roster_id": 10,
             "score": 0,
-            "team_name": "BillCroskeyCanDrownAFish"
+            "team_name": "America Jackson"
           },
           "t2": {
             "avatar": null,
