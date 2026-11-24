@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-11-24T10:01:06Z",
+  "generated_at": "2026-11-24T22:32:35Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
+      "created": 1795533852652,
+      "drops": [
+        "11625"
+      ],
+      "id": "1430976330102509568",
+      "manager": "bostwik",
+      "roster_id": 6,
+      "roster_ids": [
+        6
+      ],
+      "team_name": "As-salamu Lakers",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1795533461671,
+      "drops": [
+        "8136"
+      ],
+      "id": "1430974690209308672",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "created": 1795533415708,
+      "drops": [
+        "10218"
+      ],
+      "id": "1430974497422331904",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [],
+      "avatar": "https://sleepercdn.com/uploads/d0fd66d5437aebf6c17812c12aa560cd",
+      "created": 1795526714749,
+      "drops": [
+        "11628"
+      ],
+      "id": "1430946391567368192",
+      "manager": "DaMan_K",
+      "roster_id": 9,
+      "roster_ids": [
+        9
+      ],
+      "team_name": "Jahmyroquai",
+      "type": "free_agent",
+      "week": 11
+    },
     {
       "adds": [],
       "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
