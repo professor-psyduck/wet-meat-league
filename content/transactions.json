@@ -1,8 +1,143 @@
 {
-  "generated_at": "2026-11-24T22:32:35Z",
+  "generated_at": "2026-11-25T21:47:14Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "NYJ"
+      ],
+      "avatar": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
+      "created": 1795632332618,
+      "drops": [
+        "CAR"
+      ],
+      "id": "1431389385013612544",
+      "manager": "moontitties",
+      "roster_id": 7,
+      "roster_ids": [
+        7
+      ],
+      "team_name": "MoonKings",
+      "type": "free_agent",
+      "week": 12
+    },
+    {
+      "adds": [
+        "WAS"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+      "bid": 1,
+      "created": 1795585081774,
+      "drops": [
+        "DET"
+      ],
+      "id": "1431191200609615872",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "12469"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+      "bid": 11,
+      "created": 1795585054754,
+      "drops": [],
+      "id": "1431191087279529984",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "7567"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
+      "bid": 12,
+      "created": 1795585035691,
+      "drops": [],
+      "id": "1431191007327682560",
+      "manager": "EntropyEngine",
+      "roster_id": 1,
+      "roster_ids": [
+        1
+      ],
+      "team_name": "Fully Torqued",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "NYG"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "bid": 1,
+      "created": 1795552875397,
+      "drops": [
+        "KC"
+      ],
+      "id": "1431056117273743360",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "10218"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/5f6681b0ee4a98c36f0d828362777f34.jpg",
+      "bid": 5,
+      "created": 1795539939072,
+      "drops": [
+        "5001"
+      ],
+      "id": "1431001858394050560",
+      "manager": "cfaz23",
+      "roster_id": 10,
+      "roster_ids": [
+        10
+      ],
+      "team_name": "America Jackson",
+      "type": "waiver",
+      "week": 11
+    },
+    {
+      "adds": [
+        "4993"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c4fb14e42058197512010827a4b8d458.jpg",
+      "bid": 0,
+      "created": 1795533876596,
+      "drops": [
+        "5012"
+      ],
+      "id": "1430976430526693376",
+      "manager": "laidbacula",
+      "roster_id": 8,
+      "roster_ids": [
+        8
+      ],
+      "team_name": "Brave Mujahideen Fighters",
+      "type": "waiver",
+      "week": 11
+    },
     {
       "adds": [],
       "avatar": "https://sleepercdn.com/uploads/13b778c553d1bea9d64c726691981b03.jpg",
@@ -69,6 +204,26 @@
       ],
       "team_name": "Jahmyroquai",
       "type": "free_agent",
+      "week": 11
+    },
+    {
+      "adds": [
+        "12533"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/715df7962cbd24255ef14560283b35a1.jpg",
+      "bid": 1,
+      "created": 1795525624856,
+      "drops": [
+        "9482"
+      ],
+      "id": "1430941820220637184",
+      "manager": "RoombaCentral",
+      "roster_id": 3,
+      "roster_ids": [
+        3
+      ],
+      "team_name": "BillCroskeyCanDrownAFish",
+      "type": "waiver",
       "week": 11
     },
     {
