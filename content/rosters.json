@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:47:14Z",
+  "generated_at": "2026-11-26T08:30:23Z",
   "rosters": [
     {
       "avatar": "https://sleepercdn.com/uploads/ccb39d0295bfb4fa56581137f2752251.png",
@@ -158,13 +158,13 @@
       "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
       "manager": "__hellbent",
       "players": [
-        "11563",
         "11646",
         "12481",
         "12489",
         "13276",
         "13293",
         "13298",
+        "4017",
         "5844",
         "7021",
         "7569",
@@ -182,7 +182,7 @@
       },
       "roster_id": 5,
       "starters": [
-        "11563",
+        "4017",
         "7588",
         "12481",
         "9487",

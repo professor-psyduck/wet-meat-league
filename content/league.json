@@ -17,7 +17,7 @@
     "nfl_week": 12,
     "season_type": "regular"
   },
-  "generated_at": "2026-11-25T21:47:14Z",
+  "generated_at": "2026-11-26T08:30:23Z",
   "network": {
     "abbr": "WMLN",
     "name": "Wet Meat League Network"
@@ -567,6 +567,11 @@
       "n": "Kalif Raymond",
       "pos": "WR",
       "t": "CHI"
+    },
+    "4017": {
+      "n": "Deshaun Watson",
+      "pos": "QB",
+      "t": "CLE"
     },
     "4018": {
       "n": "Joe Mixon",

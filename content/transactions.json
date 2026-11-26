@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-11-25T21:47:14Z",
+  "generated_at": "2026-11-26T08:30:23Z",
   "league_name": "Wet Meat League 2.0",
   "season": "2026",
   "transactions": [
+    {
+      "adds": [
+        "4017"
+      ],
+      "avatar": "https://sleepercdn.com/uploads/c995aa2c2ba3e093d0c185e3e360478a.jpg",
+      "created": 1795665344965,
+      "drops": [
+        "11563"
+      ],
+      "id": "1431527848836874240",
+      "manager": "__hellbent",
+      "roster_id": 5,
+      "roster_ids": [
+        5
+      ],
+      "team_name": "Uncirc Du Penix",
+      "type": "free_agent",
+      "week": 12
+    },
     {
       "adds": [
         "NYJ"
